@@ -13,7 +13,7 @@ var (
 
 func registerRoutes(r *gin.RouterGroup) {
 	r.GET("/api/health", handler.HealthCheck)
-	r.GET("/api/send-asa", handler.SendAsa)
+	r.GET("/api/account/:address/send-asa", handler.SendAsa)
 }
 
 func init() {
