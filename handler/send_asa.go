@@ -15,6 +15,10 @@ type response struct {
 	Transactions []utils.ResponseTransaction `json:"transactions"`
 }
 
+// SendAsa is an example endpoint which builds an atomic group transaction of size 2
+// 1. Transfer ASA from creator account to the address specified in the path param
+// 2. User opt-in to ASA
+// They either both succeed or both fail
 func SendAsa(c *gin.Context) {
 	appCtx, err := config.GetAppContext()
 	if err != nil {
@@ -60,8 +64,8 @@ func SendAsa(c *gin.Context) {
 	}
 
 	transactions, err := utils.NewGroupTransactionBuilderWithSigner(appCtx.CreatorAccount.PrivateKey).
-		Add(sendAsaTxn, true).
-		Add(userOptInTxn, false).
+		Add(sendAsaTxn, true).    // true means that this transaction is signed by the creator
+		Add(userOptInTxn, false). // false means that this transaction is to be signed by the user in the browser
 		Build()
 	if err != nil {
 		c.JSON(http.StatusInternalServerError, InternalServerError)
