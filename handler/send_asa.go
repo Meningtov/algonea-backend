@@ -1,11 +1,12 @@
 package handler
 
 import (
-	"github.com/Meningtov/algonea_backend/config"
-	"github.com/Meningtov/algonea_backend/utils"
+	"net/http"
+
+	"github.com/Meningtov/algonea-backend/config"
+	"github.com/Meningtov/algonea-backend/utils"
 	"github.com/algorand/go-algorand-sdk/future"
 	"github.com/gin-gonic/gin"
-	"net/http"
 )
 
 // Some testnet ASA

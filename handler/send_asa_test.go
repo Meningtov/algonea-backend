@@ -1,12 +1,13 @@
 package handler_test
 
 import (
-	"github.com/Meningtov/algonea_backend/api"
-	"github.com/Meningtov/algonea_backend/testdata"
-	"github.com/steinfletcher/apitest"
-	jsonpath "github.com/steinfletcher/apitest-jsonpath"
 	"net/http"
 	"testing"
+
+	"github.com/Meningtov/algonea-backend/api"
+	"github.com/Meningtov/algonea-backend/testdata"
+	"github.com/steinfletcher/apitest"
+	jsonpath "github.com/steinfletcher/apitest-jsonpath"
 )
 
 func TestSendAsa(t *testing.T) {

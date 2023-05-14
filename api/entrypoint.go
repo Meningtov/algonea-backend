@@ -1,8 +1,9 @@
 package api
 
 import (
-	"github.com/Meningtov/algonea_backend/handler"
 	"net/http"
+
+	"github.com/Meningtov/algonea-backend/handler"
 
 	"github.com/gin-gonic/gin"
 )

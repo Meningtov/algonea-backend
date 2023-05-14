@@ -1,10 +1,11 @@
 package handler_test
 
 import (
-	"github.com/Meningtov/algonea_backend/api"
-	"github.com/steinfletcher/apitest"
 	"net/http"
 	"testing"
+
+	"github.com/Meningtov/algonea-backend/api"
+	"github.com/steinfletcher/apitest"
 )
 
 func TestHealthcheck(t *testing.T) {
