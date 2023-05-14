@@ -1,0 +1,23 @@
+{
+ "number": 453,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676051144091.webp",
+ "metadata_cid": "bafkreidtdqphzwvkomo3tjhmqsrg6yrdm3cr7zspih2ngxx4i5uwdgltna",
+ "metadata": {
+  "name": "Algonean #0453",
+  "standard": "arc3",
+  "image": "ipfs://bafkreihj7hujveeruixlsya5u2dxkkgrrt65tu3je53rxkc54tvabvobvy",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Sky",
+   "Bodysuit": "Glossy Red",
+   "Face": "Smurfy Murfy",
+   "Feet": "None",
+   "Hands": "Tactical Purple",
+   "Head": "Blue Bunny",
+   "Item 1": "Twinkle Twirl",
+   "Item 2": "Submachine Gun",
+   "Outfit": "Blackbones Hoodie",
+   "Special": "Skunk Tail"
+  }
+ }
+}

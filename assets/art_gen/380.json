@@ -1,0 +1,23 @@
+{
+ "number": 380,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676050716636.webp",
+ "metadata_cid": "bafkreiekf3ij2a77exiuwtlrog2xp76h3lnarw623wnc52gh3wxbhenuju",
+ "metadata": {
+  "name": "Algonean #0380",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiaboazdgkvnckqyjqrjfxbbzhi6x7i32bvqjwc6pdblux42dqgt6m",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Yellow",
+   "Bodysuit": "Pecan",
+   "Face": "Sad Pink",
+   "Feet": "Purple Hikers",
+   "Hands": "Brown Grip",
+   "Head": "Dark Spartan",
+   "Item 1": "Pink Soap",
+   "Item 2": "None",
+   "Outfit": "Pampers",
+   "Special": "None"
+  }
+ }
+}

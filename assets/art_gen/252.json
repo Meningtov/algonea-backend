@@ -1,0 +1,23 @@
+{
+ "number": 252,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676049154581.webp",
+ "metadata_cid": "bafkreifkgdbm5d6wzac5fdheyljv2buqggnq6r57ow2r2psloqmwseqpn4",
+ "metadata": {
+  "name": "Algonean #0252",
+  "standard": "arc3",
+  "image": "ipfs://bafkreifpq72tn6ktdsliqrfbd6y4uhyajhniemvelkmbftqaq4dqkf7oiq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Dijon",
+   "Bodysuit": "Dandelion",
+   "Face": "Serene Dijon",
+   "Feet": "Blue Tigers",
+   "Hands": "Cartoon",
+   "Head": "Orange Beanie",
+   "Item 1": "Purple Boomerang",
+   "Item 2": "Purple Skate",
+   "Outfit": "Purple Hoodie",
+   "Special": "None"
+  }
+ }
+}

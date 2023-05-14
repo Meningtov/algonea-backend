@@ -1,0 +1,23 @@
+{
+ "number": 172,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676048684948.webp",
+ "metadata_cid": "bafkreie3jzflxj2yq4moilzm6tyqgk4rzgmvf4mtkh5p3h6ioq3nh5onby",
+ "metadata": {
+  "name": "Algonean #0172",
+  "standard": "arc3",
+  "image": "ipfs://bafkreigxk4g5mrlqoyaq6jzimbn6zkjezangqhj55ilatud3unjhlvjvnm",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Tangerine",
+   "Bodysuit": "Robot",
+   "Face": "Joyful Bubblegum",
+   "Feet": "Blue Sneakers",
+   "Hands": "Raven",
+   "Head": "Green Shades",
+   "Item 1": "Orange Waterpistol",
+   "Item 2": "Yellow Bucket",
+   "Outfit": "Black Trooper",
+   "Special": "None"
+  }
+ }
+}

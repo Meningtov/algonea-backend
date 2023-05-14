@@ -1,0 +1,23 @@
+{
+ "number": 1128,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676056414328.webp",
+ "metadata_cid": "bafkreiccdspx35kcvue6v4giomaajh2jod5v35ukl6yabjvfizb3pbgk5q",
+ "metadata": {
+  "name": "Algonean #1128",
+  "standard": "arc3",
+  "image": "ipfs://bafkreid7blpvcqehd4lnzs6o365jx6b7a3d4neswxnz6rcbfvxplr2s7nm",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Purple",
+   "Bodysuit": "Iris",
+   "Face": "Killer Robot",
+   "Feet": "Purple Rollers",
+   "Hands": "Cartoon",
+   "Head": "None",
+   "Item 1": "Blue Racket",
+   "Item 2": "Gray Gamepad",
+   "Outfit": "Red Suit",
+   "Special": "None"
+  }
+ }
+}

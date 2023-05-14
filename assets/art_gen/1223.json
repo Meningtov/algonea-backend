@@ -1,0 +1,23 @@
+{
+ "number": 1223,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057179275.webp",
+ "metadata_cid": "bafkreihtx47na7nihryuybaddkscqqtiglos57y2vpyj2nb7555vlxj7oa",
+ "metadata": {
+  "name": "Algonean #1223",
+  "standard": "arc3",
+  "image": "ipfs://bafkreih6kcfj6zglhsnmfkfqa5ouzwbmoqzao2z4xwfkr3wrsltjfgul3y",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Waka Waka",
+   "Bodysuit": "Peanut",
+   "Face": "Confident Melon",
+   "Feet": "None",
+   "Hands": "Tactical Green",
+   "Head": "Red Horns",
+   "Item 1": "Drizzle GBoy",
+   "Item 2": "Algo Flakes",
+   "Outfit": "Red EVA",
+   "Special": "Electric"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 526,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676051856372.webp",
+ "metadata_cid": "bafkreihlybmjgzpxrs66yfkuwzxmgvh5h4lcdr4deky7i7sqdliqxvozbi",
+ "metadata": {
+  "name": "Algonean #0526",
+  "standard": "arc3",
+  "image": "ipfs://bafkreihqc2rvk3j4z47yjymecr6mvoov37fmpxvokuq55wmipmrzkfzfa4",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Dark",
+   "Bodysuit": "Glossy Purple",
+   "Face": "Surprised Sand",
+   "Feet": "None",
+   "Hands": "Batboys",
+   "Head": "Mohawk",
+   "Item 1": "Banana",
+   "Item 2": "Money Bag",
+   "Outfit": "Blue Undies",
+   "Special": "Bloby"
+  }
+ }
+}

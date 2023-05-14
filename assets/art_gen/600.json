@@ -1,0 +1,23 @@
+{
+ "number": 600,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676052264109.webp",
+ "metadata_cid": "bafkreig3niyrw6bmjlji3dndwtv2p4zcgkce72y5d2iyb5iioykjygvxg4",
+ "metadata": {
+  "name": "Algonean #0600",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiaytmd3hjh2m4wlqpcdzucof2idwsgwtnxnu326al4vtzhu7atk4a",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Blue Memphis",
+   "Bodysuit": "Glossy Brown",
+   "Face": "Green Specter",
+   "Feet": "None",
+   "Hands": "Bubblegum",
+   "Head": "Green Visor",
+   "Item 1": "None",
+   "Item 2": "Keytar",
+   "Outfit": "Janitor",
+   "Special": "Black Cape"
+  }
+ }
+}

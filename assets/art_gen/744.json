@@ -1,0 +1,23 @@
+{
+ "number": 744,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676053131688.webp",
+ "metadata_cid": "bafkreie5grjqr63xcpl3nb6ays6qfo66ezori7ldltmnjuasa3ptni4tcm",
+ "metadata": {
+  "name": "Algonean #0744",
+  "standard": "arc3",
+  "image": "ipfs://bafybeif6z7y6c6zkaqmgw4dqterzbqrhtu6ijeyauraimnso6hjdyo2tly",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Yellow Dream",
+   "Bodysuit": "Faded Mint",
+   "Face": "Pale Skully",
+   "Feet": "Yellow Urbans",
+   "Hands": "Scales",
+   "Head": "Green Cowboy Hat",
+   "Item 1": "Blue Waterpistol",
+   "Item 2": "None",
+   "Outfit": "Power Underwear",
+   "Special": "Skunk Tail"
+  }
+ }
+}

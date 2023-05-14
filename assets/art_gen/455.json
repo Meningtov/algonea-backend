@@ -1,0 +1,23 @@
+{
+ "number": 455,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676051161886.webp",
+ "metadata_cid": "bafkreih2n6etitx2t7ryyxrqklpsk72sse5ysgafzqicjc67pl2unxqdji",
+ "metadata": {
+  "name": "Algonean #0455",
+  "standard": "arc3",
+  "image": "ipfs://bafkreidlzicda5bwn3w7ldmyo3lf4zi4id55fykuxqdbuai5xp6elfubjq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Waka Waka",
+   "Bodysuit": "Sand",
+   "Face": "Glad Yellow",
+   "Feet": "Green Rollers",
+   "Hands": "Rust",
+   "Head": "Blue Beret",
+   "Item 1": "Red GBoy",
+   "Item 2": "Garfeline",
+   "Outfit": "Green Retro Hoodie",
+   "Special": "None"
+  }
+ }
+}

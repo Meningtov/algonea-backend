@@ -1,0 +1,23 @@
+{
+ "number": 83,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676047492785.webp",
+ "metadata_cid": "bafkreiexdzwehj2d5idvskn4agnuf2onostmbfaznayghtsquwwnfkpyje",
+ "metadata": {
+  "name": "Algonean #0083",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiafkarbi7azopqxzklpobrga67ujefjundcfm322tgxluahelwz5a",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Orange",
+   "Bodysuit": "Lemon",
+   "Face": "Red Specter",
+   "Feet": "Yellow Hikers",
+   "Hands": "Brawler",
+   "Head": "Brown Beret",
+   "Item 1": "Pink Soap",
+   "Item 2": "None",
+   "Outfit": "Red Overall",
+   "Special": "None"
+  }
+ }
+}

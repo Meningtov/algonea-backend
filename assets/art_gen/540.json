@@ -1,0 +1,23 @@
+{
+ "number": 540,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676051882242.webp",
+ "metadata_cid": "bafkreiezxhwaza2u6fpc6ltqmbzmamtvdkmpldeur6i25oqer7lubygbnm",
+ "metadata": {
+  "name": "Algonean #0540",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiawd5e34quo3nqbwfl6773q23qxluqoos74ka6siv7e5m2t3tblnq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Blue",
+   "Bodysuit": "Moss",
+   "Face": "Killer Robot",
+   "Feet": "Green Kicks",
+   "Hands": "Robot",
+   "Head": "Red Gumball",
+   "Item 1": "Apple Lollipop",
+   "Item 2": "Pencil",
+   "Outfit": "Blackbones Hoodie",
+   "Special": "None"
+  }
+ }
+}

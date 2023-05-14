@@ -1,0 +1,23 @@
+{
+ "number": 180,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676048712738.webp",
+ "metadata_cid": "bafkreiekrjvgvjxsamuotoqzo6f3cs4dtc37rld4a3wgsvr6dvv6inteyi",
+ "metadata": {
+  "name": "Algonean #0180",
+  "standard": "arc3",
+  "image": "ipfs://bafkreibjvp4hmtpuk4vjfwetpxhoszj6ilbqvp4y3tczcmji5pch5jzsrq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Geometry",
+   "Bodysuit": "Flint",
+   "Face": "Ecstatic Pink",
+   "Feet": "None",
+   "Hands": "Black",
+   "Head": "Blue Mask",
+   "Item 1": "Twinkle Twirl",
+   "Item 2": "Rat",
+   "Outfit": "Blue Ravenman",
+   "Special": "None"
+  }
+ }
+}

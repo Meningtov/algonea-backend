@@ -1,0 +1,23 @@
+{
+ "number": 107,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676048071175.webp",
+ "metadata_cid": "bafkreicy6y5yldiptznxp56z3omguxswwjfza4j7s2j2pndudfmsy7f5sy",
+ "metadata": {
+  "name": "Algonean #0107",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiaufxkjknf5qwq7jur6fvtazr7zckpljvhekgogrpnu7aavf23qjm",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Blue Squiggle",
+   "Bodysuit": "Golden Oak",
+   "Face": "Green Guardian",
+   "Feet": "Yellow Flipflops",
+   "Hands": "Combat",
+   "Head": "Blue Beanie",
+   "Item 1": "Green Racket",
+   "Item 2": "Keytar",
+   "Outfit": "Luchador",
+   "Special": "Bloby"
+  }
+ }
+}

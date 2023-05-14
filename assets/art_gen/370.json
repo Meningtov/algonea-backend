@@ -1,0 +1,23 @@
+{
+ "number": 370,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676050677377.webp",
+ "metadata_cid": "bafkreidl6pfnej4duvu52t5utosuoi37ji3tcyxysct6i65kbssdcmdzii",
+ "metadata": {
+  "name": "Algonean #0370",
+  "standard": "arc3",
+  "image": "ipfs://bafkreicst2abwwhkv5qn5vatgyn47nj3w4u7t7unkzjri76h5aq3nl3bqa",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Dark",
+   "Bodysuit": "Pink",
+   "Face": "Joyful Mint",
+   "Feet": "Gray Walkers",
+   "Hands": "Scales",
+   "Head": "Red Cap",
+   "Item 1": "Orange Guitar",
+   "Item 2": "Black Pennyboard",
+   "Outfit": "Black Hoodie",
+   "Special": "None"
+  }
+ }
+}

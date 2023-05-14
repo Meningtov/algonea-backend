@@ -1,0 +1,23 @@
+{
+ "number": 272,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676049664554.webp",
+ "metadata_cid": "bafkreib7dvui4rcwi7txs5pjsjp7iqeq53vwruwcc5ii4ppbhdioplu7wu",
+ "metadata": {
+  "name": "Algonean #0272",
+  "standard": "arc3",
+  "image": "ipfs://bafkreia5urzmtlv6y2pbdppgmonnqslfgbtgw63zqgjfia33xb7fy5icoy",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Yellow",
+   "Bodysuit": "Gold",
+   "Face": "Merry Purple",
+   "Feet": "Purple Slippers",
+   "Hands": "Pinko",
+   "Head": "Red Cap",
+   "Item 1": "Yellow Lightsword",
+   "Item 2": "Rubys Cube",
+   "Outfit": "Blue XOJacket",
+   "Special": "Turtle Carapace"
+  }
+ }
+}

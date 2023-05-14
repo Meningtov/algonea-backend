@@ -1,0 +1,23 @@
+{
+ "number": 1256,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057410892.webp",
+ "metadata_cid": "bafkreihr6oe5qbwoalv2z4vyipbwf2gu6chto6l7nvno6phv2gw3jicjbm",
+ "metadata": {
+  "name": "Algonean #1256",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiddcdvxlyw6lwiv5ipdldthyq6rgeicn7fzjxmldd6mfnegq7726a",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Blue Doodle",
+   "Bodysuit": "Plushy Arctic",
+   "Face": "Ecstatic Blue",
+   "Feet": "Shiny Shoes",
+   "Hands": "Purple Hazmat",
+   "Head": "Blue Visor",
+   "Item 1": "Twinkle Twirl",
+   "Item 2": "Red Bucket",
+   "Outfit": "None",
+   "Special": "None"
+  }
+ }
+}

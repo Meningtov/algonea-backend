@@ -1,0 +1,23 @@
+{
+ "number": 1401,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676058147307.webp",
+ "metadata_cid": "bafkreiavqpqgdjhq36hqof6terwr37kleudkgrxwp2seaxwlqmph4jaxk4",
+ "metadata": {
+  "name": "Algonean #1401",
+  "standard": "arc3",
+  "image": "ipfs://bafkreifnfy4b6arpmtxkekddzxjpiwaameqm2tinx3gzwhliunaeg4oxni",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Dijon",
+   "Bodysuit": "Plushy Amethyst",
+   "Face": "Tense Cherry",
+   "Feet": "None",
+   "Hands": "Red",
+   "Head": "Robot",
+   "Item 1": "Purple Lightsword",
+   "Item 2": "Rat",
+   "Outfit": "Purple Beast",
+   "Special": "Orange Power Chord Tail"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 765,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676053311941.webp",
+ "metadata_cid": "bafkreifplatol7p4wjrpgybufgc5gi6m6q33tipelwsjx6dglzeviiql6u",
+ "metadata": {
+  "name": "Algonean #0765",
+  "standard": "arc3",
+  "image": "ipfs://bafkreihucgicdojjsut4zx3tnfks3ujypbo7gel7eibv6nsdmm24hz6oma",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Orange",
+   "Bodysuit": "Sand",
+   "Face": "Confident Purple",
+   "Feet": "Jetstream Runners",
+   "Hands": "Brawler",
+   "Head": "Player 2",
+   "Item 1": "Green Waterpistol",
+   "Item 2": "Red Skate",
+   "Outfit": "Mint Nebula",
+   "Special": "None"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 1224,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676495336338.webp",
+ "metadata_cid": "bafkreiaqlyvbfvyz3bcwlenygr4xk6oyxvd347tt3ufawkfnob3yhvqeoa",
+ "metadata": {
+  "name": "Algonean #1224",
+  "standard": "arc3",
+  "image": "ipfs://bafybeibms5fpc3yi46cvzojnj2yf2oemi7p675427mvbemf5smjd7erl3u",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Mint",
+   "Bodysuit": "Glossy Ice",
+   "Face": "Sweet Blue",
+   "Feet": "Runners",
+   "Hands": "Purple Hazmat",
+   "Head": "Green Bunny",
+   "Item 1": "Red Guitar",
+   "Item 2": "Pink Pennyboard",
+   "Outfit": "Purple Nebula",
+   "Special": "None"
+  }
+ }
+}

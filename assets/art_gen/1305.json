@@ -1,0 +1,23 @@
+{
+ "number": 1305,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057667594.webp",
+ "metadata_cid": "bafkreih7vrkkxqugh3i3gxbd6gumgmfjuyrkp3sbvs6tavuebdm5joop64",
+ "metadata": {
+  "name": "Algonean #1305",
+  "standard": "arc3",
+  "image": "ipfs://bafybeiacndrfstewrujnjqc7qso2rqbxeucd6z7rk7dworp5ywgc4u2bdm",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Candy",
+   "Bodysuit": "Glossy Cherry",
+   "Face": "Paranoid",
+   "Feet": "Gray Oldies",
+   "Hands": "Lavender",
+   "Head": "Purple Cap",
+   "Item 1": "Purple Walkboi",
+   "Item 2": "Red Paddleball",
+   "Outfit": "Mikey",
+   "Special": "Monkey Tail"
+  }
+ }
+}

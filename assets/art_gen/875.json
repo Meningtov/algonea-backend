@@ -1,0 +1,23 @@
+{
+ "number": 875,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676054236894.webp",
+ "metadata_cid": "bafkreicr2amvc5odvxox3cms5ll7vvvsvmv7iswq5rcqfnpsenyhaonweu",
+ "metadata": {
+  "name": "Algonean #0875",
+  "standard": "arc3",
+  "image": "ipfs://bafkreigqmqkqsfmpu6wehqoktz2ntvqkz6xi3dwcf22g2ioefjzhjzgfaa",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Greenyellow",
+   "Bodysuit": "Glossy Gray",
+   "Face": "Evil Purple",
+   "Feet": "None",
+   "Hands": "Orchid",
+   "Head": "Blonde Ninja",
+   "Item 1": "Blue Boomerang",
+   "Item 2": "Blue Basketball",
+   "Outfit": "Donald McRonald",
+   "Special": "Gold Wind Up"
+  }
+ }
+}

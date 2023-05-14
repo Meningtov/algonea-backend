@@ -1,0 +1,23 @@
+{
+ "number": 1280,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057503160.webp",
+ "metadata_cid": "bafkreigelefwfocftpvveuzstx46cfdmewa33z7ad4yylmq3h65ch2g4vm",
+ "metadata": {
+  "name": "Algonean #1280",
+  "standard": "arc3",
+  "image": "ipfs://bafkreihdqnico2f73jz2xnz6mw3f6gqyilbopyhybftfa44ney3loglyim",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Geometry",
+   "Bodysuit": "Worn Out Pink",
+   "Face": "Serene Blue",
+   "Feet": "Purple Aeros",
+   "Hands": "Rust",
+   "Head": "Pink Headband",
+   "Item 1": "Yellow Walkboi",
+   "Item 2": "Rubys Cube",
+   "Outfit": "Red Suit",
+   "Special": "Fuse"
+  }
+ }
+}

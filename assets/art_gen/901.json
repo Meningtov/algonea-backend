@@ -1,0 +1,23 @@
+{
+ "number": 901,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676054333724.webp",
+ "metadata_cid": "bafkreigz4tlvwquv4qwxed3wlpam5r67m2gxc2u72jyut6ahtzinuhe5pu",
+ "metadata": {
+  "name": "Algonean #0901",
+  "standard": "arc3",
+  "image": "ipfs://bafkreianlsmvzmu2e2wr25mx77xu4c3uhom4dyroykylqhbsfpyindg37a",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Purple",
+   "Bodysuit": "Peanut",
+   "Face": "Tense Purple",
+   "Feet": "None",
+   "Hands": "Yellow",
+   "Head": "None",
+   "Item 1": "Knife",
+   "Item 2": "Pizza Box",
+   "Outfit": "Purple Beast",
+   "Special": "Fuse"
+  }
+ }
+}

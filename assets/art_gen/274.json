@@ -1,0 +1,23 @@
+{
+ "number": 274,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676049670941.webp",
+ "metadata_cid": "bafkreiaww33xoj5b3i5jyb2dl2uubibgfndiajeo67k42y4d65zuij5ggy",
+ "metadata": {
+  "name": "Algonean #0274",
+  "standard": "arc3",
+  "image": "ipfs://bafkreicakqc4r4voabggjv3taqn4fywv7iwulgmwyix4zivmxegw2rqczi",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "White",
+   "Bodysuit": "Glossy Ice",
+   "Face": "Joyful Bubblegum",
+   "Feet": "Blue Kicks",
+   "Hands": "Brawler",
+   "Head": "Player 1",
+   "Item 1": "Purple GBoy",
+   "Item 2": "Purple Skate",
+   "Outfit": "Brownbones Hoodie",
+   "Special": "None"
+  }
+ }
+}

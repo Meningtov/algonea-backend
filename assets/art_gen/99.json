@@ -1,0 +1,23 @@
+{
+ "number": 99,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676048049749.webp",
+ "metadata_cid": "bafkreifiyol3asw2mdw7dtitkt6xwwvgd6d34n73kqawr45neluhewaxwq",
+ "metadata": {
+  "name": "Algonean #0099",
+  "standard": "arc3",
+  "image": "ipfs://bafkreigl4tokpcizqrw6drd5wnpcmdid4z7mc3u6hoivzmzmvmlajs2jlq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Blue Doodle",
+   "Bodysuit": "Glossy Orange",
+   "Face": "Dull Purple",
+   "Feet": "Red Neos",
+   "Hands": "White",
+   "Head": "Purple Cap",
+   "Item 1": "Chicken",
+   "Item 2": "Basketball",
+   "Outfit": "Gray Ravenman",
+   "Special": "None"
+  }
+ }
+}

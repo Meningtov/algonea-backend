@@ -1,0 +1,23 @@
+{
+ "number": 426,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676050977085.webp",
+ "metadata_cid": "bafkreicx6rilzc4pnh3nyk3ru5vo6ho4w2vyybrvxuvrhczbhxjpiq3d3u",
+ "metadata": {
+  "name": "Algonean #0426",
+  "standard": "arc3",
+  "image": "ipfs://bafkreic2taec72cxygcc2veixtetmaybebotx7j4xzoc5q7q7iuritvsny",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Blue Sketch",
+   "Bodysuit": "Gold",
+   "Face": "Green Guardian",
+   "Feet": "Blue Smileys",
+   "Hands": "Brown Grip",
+   "Head": "Purple Cap",
+   "Item 1": "Blue Lightsword",
+   "Item 2": "Algo Flakes",
+   "Outfit": "Mint EVA",
+   "Special": "Arrow"
+  }
+ }
+}

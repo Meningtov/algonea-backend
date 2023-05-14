@@ -1,0 +1,23 @@
+{
+ "number": 692,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676052839839.webp",
+ "metadata_cid": "bafkreiatz6ilx6su47hcoamwx2lu5sihpqy25tbirrnz2kbb4kjgol5u54",
+ "metadata": {
+  "name": "Algonean #0692",
+  "standard": "arc3",
+  "image": "ipfs://bafkreig5jf572bgd3ganypk7ejaml77kb3rlhfzesozfybgocvvnk6sbqq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "VHS",
+   "Bodysuit": "Golden Oak",
+   "Face": "Tense Cherry",
+   "Feet": "Gray Urbans",
+   "Hands": "Greenscale",
+   "Head": "Mint Headband",
+   "Item 1": "Blue Racket",
+   "Item 2": "Blue Lunchbox",
+   "Outfit": "Green Dress",
+   "Special": "Pink Madcat Tail"
+  }
+ }
+}

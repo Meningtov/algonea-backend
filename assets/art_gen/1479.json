@@ -1,0 +1,23 @@
+{
+ "number": 1479,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676058758139.webp",
+ "metadata_cid": "bafkreig7bcm2do4rfpf544f25cb4nhvz36pzw3ugj6wpgswzwd6ksr32vq",
+ "metadata": {
+  "name": "Algonean #1479",
+  "standard": "arc3",
+  "image": "ipfs://bafkreigfxjovhg5vnmb5fm7fv5qagtknlnbvypn5nxp4qq2u7kvm57iyyu",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Blue Squiggle",
+   "Bodysuit": "Ocean",
+   "Face": "Dull Pink",
+   "Feet": "Rusty Robots",
+   "Hands": "Radioactive",
+   "Head": "White Headband",
+   "Item 1": "Pink Racket",
+   "Item 2": "None",
+   "Outfit": "None",
+   "Special": "Moo Tail"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 126,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676048221588.webp",
+ "metadata_cid": "bafkreibferd3selfh6l2upf7pv3l3jmfzx7ecjqgskf2rhdorjwqexwoae",
+ "metadata": {
+  "name": "Algonean #0126",
+  "standard": "arc3",
+  "image": "ipfs://bafkreib4kd4c5edk5gy7mpwqpnftf76ghpiianegfqcgta3ljntqvkiwmq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Blue",
+   "Bodysuit": "Glossy Bubblegum",
+   "Face": "Merry Blue",
+   "Feet": "Blue Flipflops",
+   "Hands": "Bubblegum",
+   "Head": "None",
+   "Item 1": "Red Blurby",
+   "Item 2": "Submachine Gun",
+   "Outfit": "Green XOJacket",
+   "Special": "None"
+  }
+ }
+}

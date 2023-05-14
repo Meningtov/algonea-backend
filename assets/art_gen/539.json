@@ -1,0 +1,23 @@
+{
+ "number": 539,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676051879262.webp",
+ "metadata_cid": "bafkreidbfmqgefuu3oldkan6hptkjcnfl4ix6ugwpzfvt3sm3vdvcdngia",
+ "metadata": {
+  "name": "Algonean #0539",
+  "standard": "arc3",
+  "image": "ipfs://bafkreibvhd2xlsll5jar3b3eutuu4geimjhqqdkgwt4eumvjmplbzxw7fa",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Notebook",
+   "Bodysuit": "Glossy Blueberry",
+   "Face": "Dino",
+   "Feet": "None",
+   "Hands": "Robot",
+   "Head": "Blue Beret",
+   "Item 1": "None",
+   "Item 2": "Algorios",
+   "Outfit": "Green Bunny",
+   "Special": "None"
+  }
+ }
+}

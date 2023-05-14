@@ -1,0 +1,23 @@
+{
+ "number": 53,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676047417227.webp",
+ "metadata_cid": "bafkreicp2lmyx7563eqdo3xb52rqohfnuqie2yzpxitnubhgfr6hp42q5q",
+ "metadata": {
+  "name": "Algonean #0053",
+  "standard": "arc3",
+  "image": "ipfs://bafkreifdxy2cttb5cqe7e3a3ph54nur3iwtpe3qorxvxffzh4zzp3enfqi",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Mocha",
+   "Bodysuit": "Glossy Bubblegum",
+   "Face": "Dull Pink",
+   "Feet": "None",
+   "Hands": "Yellow Hazmat",
+   "Head": "Violet Shades",
+   "Item 1": "Purple Walkboi",
+   "Item 2": "Keytar",
+   "Outfit": "None",
+   "Special": "None"
+  }
+ }
+}

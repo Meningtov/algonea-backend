@@ -1,0 +1,23 @@
+{
+ "number": 141,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676048342960.webp",
+ "metadata_cid": "bafkreidzsh75i6rtuxx5gskcybl2otlccw4x4y4dhtfn53tdgejdgpwyfi",
+ "metadata": {
+  "name": "Algonean #0141",
+  "standard": "arc3",
+  "image": "ipfs://bafkreibvbnji7pxt7gbzihet2apukv7hgls2xo5eugvfn3s4g2h2g2knma",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Blue Squiggle",
+   "Bodysuit": "Glossy Bubblegum",
+   "Face": "Voltage",
+   "Feet": "Red Sneakers",
+   "Hands": "Raven",
+   "Head": "Mint Headband",
+   "Item 1": "Green Lightsword",
+   "Item 2": "Red Lunchbox",
+   "Outfit": "None",
+   "Special": "None"
+  }
+ }
+}

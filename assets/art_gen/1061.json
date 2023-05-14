@@ -1,0 +1,23 @@
+{
+ "number": 1061,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676055894895.webp",
+ "metadata_cid": "bafkreicpvkip55csxjh4i46bdmbeoo4j3ekfkfwf6p2g7pmcg4555xfr74",
+ "metadata": {
+  "name": "Algonean #1061",
+  "standard": "arc3",
+  "image": "ipfs://bafkreibqb6hh4yz34cf45f62vqznk5dnprex55gntbs42uwo6lnvpu73ty",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Dark",
+   "Bodysuit": "Faded Pink",
+   "Face": "Killer Robot",
+   "Feet": "Purple Slippers",
+   "Hands": "Blue Biker",
+   "Head": "Violet Shades",
+   "Item 1": "Orange Pop",
+   "Item 2": "Pink Pennyboard",
+   "Outfit": "None",
+   "Special": "Turtle Carapace"
+  }
+ }
+}

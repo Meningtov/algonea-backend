@@ -1,0 +1,23 @@
+{
+ "number": 150,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676048365934.webp",
+ "metadata_cid": "bafkreiege77pzxh4xc66ymx6np3p4mqilr6thj5bil4k6ulc76kqbokp74",
+ "metadata": {
+  "name": "Algonean #0150",
+  "standard": "arc3",
+  "image": "ipfs://bafkreig5sdlb64as7s25iq73ln2wi3xryx3stboimwmj5nbrt6mou5xv4e",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Purple Squiggle",
+   "Bodysuit": "Glossy Denim",
+   "Face": "Skully",
+   "Feet": "Red Oldies",
+   "Hands": "Spideys",
+   "Head": "None",
+   "Item 1": "Yellow Blurby",
+   "Item 2": "Gray Gamepad",
+   "Outfit": "None",
+   "Special": "None"
+  }
+ }
+}

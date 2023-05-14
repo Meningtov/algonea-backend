@@ -1,0 +1,23 @@
+{
+ "number": 102,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676048059275.webp",
+ "metadata_cid": "bafkreih4wdceiu7wvnv6rrzq533j65a7a5akgm6vjojs54r5plzycwo5jq",
+ "metadata": {
+  "name": "Algonean #0102",
+  "standard": "arc3",
+  "image": "ipfs://bafkreighsjn6es74qy4l3uxefbeqb64ddj4yi3qhgna3xnzry6bx6a2pwq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Red Sketch",
+   "Bodysuit": "Midnight",
+   "Face": "Mad Mint",
+   "Feet": "Green Smileys",
+   "Hands": "Lavender",
+   "Head": "Green Cowboy Hat",
+   "Item 1": "Purple Soap",
+   "Item 2": "Pillow",
+   "Outfit": "Black Suit",
+   "Special": "None"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 716,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676053023974.webp",
+ "metadata_cid": "bafkreidpywtwi5ahiidf6plkj3pcs6esor7axkqpaxylnzffga6qlrk5cq",
+ "metadata": {
+  "name": "Algonean #0716",
+  "standard": "arc3",
+  "image": "ipfs://bafybeiakwycjox6nj5laiyxgdvsxcbfadhopgyum25xjguh2or5npt6wre",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Honeycomb",
+   "Bodysuit": "Flint",
+   "Face": "Evil Red",
+   "Feet": "Runners",
+   "Hands": "Blue Grip",
+   "Head": "Orange Horns",
+   "Item 1": "Green Shovel",
+   "Item 2": "Pink Pennyboard",
+   "Outfit": "Green Tutu",
+   "Special": "Pink Madcat Tail"
+  }
+ }
+}

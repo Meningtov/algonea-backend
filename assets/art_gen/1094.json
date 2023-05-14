@@ -1,0 +1,23 @@
+{
+ "number": 1094,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676056033654.webp",
+ "metadata_cid": "bafkreiebs35dx2w4lw3rfigbktln63y2sif7ybnha7dmucnuhy34p7xsom",
+ "metadata": {
+  "name": "Algonean #1094",
+  "standard": "arc3",
+  "image": "ipfs://bafkreibbwmwqzxibatgk3hobr7vuiyrqby4uggom547p3sy7homv2jgjtm",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Dark",
+   "Bodysuit": "Pecan",
+   "Face": "Neutral Sky",
+   "Feet": "Greens",
+   "Hands": "Leather",
+   "Head": "Dark Spartan",
+   "Item 1": "Banana",
+   "Item 2": "Green Bucket",
+   "Outfit": "Purple Beast",
+   "Special": "None"
+  }
+ }
+}

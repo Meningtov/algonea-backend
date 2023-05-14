@@ -1,0 +1,23 @@
+{
+ "number": 409,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676050916470.webp",
+ "metadata_cid": "bafkreifp4scrg5wymnxv4tct2lg3trxobg6opg6dmmf77stfc3prkhj6wu",
+ "metadata": {
+  "name": "Algonean #0409",
+  "standard": "arc3",
+  "image": "ipfs://bafybeies53oe6k36kyzlwdywizkpg6i47rdfkegdzryvcthxnb2urjobbq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Blue Dream",
+   "Bodysuit": "Midnight",
+   "Face": "Orange Guardian",
+   "Feet": "Blue Drifters",
+   "Hands": "Rust",
+   "Head": "Pink Bunny",
+   "Item 1": "Green Boomerang",
+   "Item 2": "Yellow Boombox",
+   "Outfit": "Pink Spacesuit",
+   "Special": "None"
+  }
+ }
+}

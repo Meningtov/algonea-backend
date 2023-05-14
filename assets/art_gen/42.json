@@ -1,0 +1,23 @@
+{
+ "number": 42,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676046955353.webp",
+ "metadata_cid": "bafkreihzqzoxzvxu7zh3us6aps6s3dnjw2xuqntzi46jpp3zdaibyqc4ci",
+ "metadata": {
+  "name": "Algonean #0042",
+  "standard": "arc3",
+  "image": "ipfs://bafkreihoim336dethjjbf2j3q46voyemul5z4gzqvxtiieqgh2pi7xhdvq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Sky",
+   "Bodysuit": "Sand",
+   "Face": "Mad Purple",
+   "Feet": "Workers",
+   "Hands": "Purple Grip",
+   "Head": "Red Sodahat",
+   "Item 1": "Blue Tommygotchi",
+   "Item 2": "Pencil",
+   "Outfit": "Aliened",
+   "Special": "None"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 297,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676049764251.webp",
+ "metadata_cid": "bafkreiein4ygaz36poph7ope7ttpafmptdklijh73uzmbr3teqof2zvaq4",
+ "metadata": {
+  "name": "Algonean #0297",
+  "standard": "arc3",
+  "image": "ipfs://bafkreibepgzfcz4khqcqqxxwxgea7dyna53ikoffutzka7fxtbakm7qufu",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Dijon",
+   "Bodysuit": "Glossy Gray",
+   "Face": "Red Alien",
+   "Feet": "Green Aeros",
+   "Hands": "Rusty Robot",
+   "Head": "Strawberry Ice Cream",
+   "Item 1": "Blue Blurby",
+   "Item 2": "Red Skate",
+   "Outfit": "Hitman",
+   "Special": "None"
+  }
+ }
+}

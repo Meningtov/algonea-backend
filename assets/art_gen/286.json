@@ -1,0 +1,23 @@
+{
+ "number": 286,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676049717453.webp",
+ "metadata_cid": "bafkreihco5ddot63wadg4ivjmig6owkeghklmrk7pk5hh3vwhdowitwv74",
+ "metadata": {
+  "name": "Algonean #0286",
+  "standard": "arc3",
+  "image": "ipfs://bafkreic4se3xj62j3ino6amjimutxu5qoomzflex4u6tjkvvpbnqqnxuae",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Dark",
+   "Bodysuit": "Worn Out Ice",
+   "Face": "Mad Mint",
+   "Feet": "Green Cowboy Boots",
+   "Hands": "Purple Hazmat",
+   "Head": "Purple Mask",
+   "Item 1": "Pink Racket",
+   "Item 2": "Yellow Boombox",
+   "Outfit": "Green XOJacket",
+   "Special": "None"
+  }
+ }
+}

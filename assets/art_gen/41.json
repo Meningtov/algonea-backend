@@ -1,0 +1,23 @@
+{
+ "number": 41,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676046948593.webp",
+ "metadata_cid": "bafkreihyots24rowjqjbhyj4zvck4im7px2fsnywrstg4bkpmuft7lxgmi",
+ "metadata": {
+  "name": "Algonean #0041",
+  "standard": "arc3",
+  "image": "ipfs://bafkreifu6itpzo34sr6qr57uiglt57amyyjq7oxkt27jfps2yxvhsrryzy",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Fresh Lemonade",
+   "Bodysuit": "Sand",
+   "Face": "Dull Purple",
+   "Feet": "Mint Hikers",
+   "Hands": "Rainbow Grip",
+   "Head": "Blue Headband",
+   "Item 1": "Purple Firecracker",
+   "Item 2": "Red Gamepad",
+   "Outfit": "None",
+   "Special": "None"
+  }
+ }
+}

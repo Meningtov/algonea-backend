@@ -1,0 +1,23 @@
+{
+ "number": 193,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676048746579.webp",
+ "metadata_cid": "bafkreibf6dzvzmbxsoaf42uytzsbtujd7ok4tri275cqzrckvlbdmit2vq",
+ "metadata": {
+  "name": "Algonean #0193",
+  "standard": "arc3",
+  "image": "ipfs://bafkreib2mfhwdswd7rviwcwsuexkg2arad4ib6e47kz63hxwhiszldek7q",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Blueberry",
+   "Bodysuit": "Rusty Robot",
+   "Face": "Dino",
+   "Feet": "None",
+   "Hands": "Amethyst",
+   "Head": "Purple Goggles",
+   "Item 1": "Blue Racket",
+   "Item 2": "Red Bucket",
+   "Outfit": "Pink Nebula",
+   "Special": "None"
+  }
+ }
+}

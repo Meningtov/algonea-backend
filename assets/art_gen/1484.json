@@ -1,0 +1,23 @@
+{
+ "number": 1484,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676058776402.webp",
+ "metadata_cid": "bafkreia23jmolmqfmef2zlf3ygzys63ua5ye73g6jwjo4tm7jz4kekcz6u",
+ "metadata": {
+  "name": "Algonean #1484",
+  "standard": "arc3",
+  "image": "ipfs://bafkreihmijz2y5skx6vr5oafa5kfjpmyv5zg6sqhzdia7mb67bmbhc555i",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Matrix",
+   "Bodysuit": "Pink",
+   "Face": "Voltage",
+   "Feet": "Runners",
+   "Hands": "Graphite",
+   "Head": "Red Helmet",
+   "Item 1": "Apple Lollipop",
+   "Item 2": "Blue Gamepad",
+   "Outfit": "Marty",
+   "Special": "None"
+  }
+ }
+}

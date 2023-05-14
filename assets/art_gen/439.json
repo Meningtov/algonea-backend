@@ -1,0 +1,23 @@
+{
+ "number": 439,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676051027411.webp",
+ "metadata_cid": "bafkreihg3jxnuh3b24h6xfurvbvrm7mv5fteqa4rdjkm6ivs4kwtq5o7bq",
+ "metadata": {
+  "name": "Algonean #0439",
+  "standard": "arc3",
+  "image": "ipfs://bafkreibpq7abmihjpbbmjthjtoitv5ddutzftglm5or4vdlmwsjirshbsm",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Blue Squiggle",
+   "Bodysuit": "Glossy Scarlet",
+   "Face": "Glad Orange",
+   "Feet": "Greens",
+   "Hands": "White",
+   "Head": "Red Sodahat",
+   "Item 1": "Sky GBoy",
+   "Item 2": "None",
+   "Outfit": "Shodan",
+   "Special": "Arrow"
+  }
+ }
+}

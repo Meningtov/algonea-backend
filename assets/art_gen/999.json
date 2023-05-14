@@ -1,0 +1,23 @@
+{
+ "number": 999,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676054995357.webp",
+ "metadata_cid": "bafkreiarppcha3pixdlom3smcprzsp4jwh3oixbz4adlcluoev7skzxtra",
+ "metadata": {
+  "name": "Algonean #0999",
+  "standard": "arc3",
+  "image": "ipfs://bafybeicspvgf37dcnjgc5hrrvmutd2qlkh75kovcg56pdeyoncgtn3voue",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Pink Dream",
+   "Bodysuit": "Bronze",
+   "Face": "Ecstatic Moss",
+   "Feet": "Yellow Hikers",
+   "Hands": "Tactical Blue",
+   "Head": "Strawberry Ice Cream",
+   "Item 1": "Green Waterpistol",
+   "Item 2": "Gray Boombox",
+   "Outfit": "Orange Undies",
+   "Special": "None"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 1251,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057286050.webp",
+ "metadata_cid": "bafkreihd2x5ul6f3kaavf47wyebjwv2c2qf2mezefqum72xp55txlz3npe",
+ "metadata": {
+  "name": "Algonean #1251",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiekr4xv3b336im62qdbpe3fbka442aw55cg4u6f5x7fx4yx6ek2we",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Dark",
+   "Bodysuit": "Robot",
+   "Face": "Blissful Blue",
+   "Feet": "Dirty Socks",
+   "Hands": "Gold",
+   "Head": "Brain",
+   "Item 1": "Brainalyzer",
+   "Item 2": "None",
+   "Outfit": "Red Suit",
+   "Special": "None"
+  }
+ }
+}

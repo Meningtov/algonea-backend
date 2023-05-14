@@ -1,0 +1,23 @@
+{
+ "number": 92,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676048036350.webp",
+ "metadata_cid": "bafkreiailvhozofwukbc5zsozoy2wqsm35y7vc66sxez3kjgm2dgxy4bty",
+ "metadata": {
+  "name": "Algonean #0092",
+  "standard": "arc3",
+  "image": "ipfs://bafkreig3eemsbpgqmci3xze4ztd5sdvxcj27zhzpyttd5vqpcv4fbq52ve",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Blue Squiggle",
+   "Bodysuit": "Glossy Ice",
+   "Face": "Surprised Pink",
+   "Feet": "Yellow Flipflops",
+   "Hands": "Yellow",
+   "Head": "None",
+   "Item 1": "Umbrella",
+   "Item 2": "Baywatch",
+   "Outfit": "Yellow Idol",
+   "Special": "Dino Tail"
+  }
+ }
+}

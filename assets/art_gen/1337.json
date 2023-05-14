@@ -1,0 +1,23 @@
+{
+ "number": 1337,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057785788.webp",
+ "metadata_cid": "bafkreibvr725vo63npnyzn54vtfxteasvxmdyxivayn4yptuablgr25phe",
+ "metadata": {
+  "name": "Algonean #1337",
+  "standard": "arc3",
+  "image": "ipfs://bafkreicd4djosro7jpygidtfy7keg237qdbfgwvj2fypjrwlaumfey6th4",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Greenyellow",
+   "Bodysuit": "Robot",
+   "Face": "Wraith",
+   "Feet": "Pink Claws",
+   "Hands": "Rainbow Grip",
+   "Head": "Ice Twinkle Crown",
+   "Item 1": "Blue Firecracker",
+   "Item 2": "Blue Bucket",
+   "Outfit": "EVA",
+   "Special": "None"
+  }
+ }
+}

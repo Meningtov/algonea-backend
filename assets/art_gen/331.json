@@ -1,0 +1,23 @@
+{
+ "number": 331,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676050375394.webp",
+ "metadata_cid": "bafkreiezqmninihg6nxk2hetqjvrq2y2t2f2ta5h4onepveo7vpvahud4y",
+ "metadata": {
+  "name": "Algonean #0331",
+  "standard": "arc3",
+  "image": "ipfs://bafkreigxveemdbdrmxx7c46xhcpf3seiegl6phg5m5z6degtdtxmquddcq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Black",
+   "Bodysuit": "Rundown Lavender",
+   "Face": "Neutral Green",
+   "Feet": "Yellow Oldies",
+   "Hands": "Leather",
+   "Head": "Brown Helmet",
+   "Item 1": "Power Stick",
+   "Item 2": "Basketball",
+   "Outfit": "Blue Tutu",
+   "Special": "None"
+  }
+ }
+}

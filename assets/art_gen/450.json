@@ -1,0 +1,23 @@
+{
+ "number": 450,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676051071662.webp",
+ "metadata_cid": "bafkreifkqlljn3ptlpeeucnsgnbku6kzpiqnpcqrptb3ydw4zdcvdjpkti",
+ "metadata": {
+  "name": "Algonean #0450",
+  "standard": "arc3",
+  "image": "ipfs://bafkreicuw2nbm6byg7mgkksuizzizf5lrcll3crllwk53q5skykfjx5t3u",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Geometry",
+   "Bodysuit": "Glossy Scarlet",
+   "Face": "Joyful Mint",
+   "Feet": "Green Neos",
+   "Hands": "Blueo",
+   "Head": "Blue Sodahat",
+   "Item 1": "Yellow Lightsword",
+   "Item 2": "Pink Pennyboard",
+   "Outfit": "Purple Hoodie",
+   "Special": "None"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 14,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676046846778.webp",
+ "metadata_cid": "bafkreihesyfguohtpeasloa5shgy6tnamo2ujhgiv42zdb5ru2xnjpadya",
+ "metadata": {
+  "name": "Algonean #0014",
+  "standard": "arc3",
+  "image": "ipfs://bafkreici4eyzhuoiim4olj2cak7mogwtv4odji7getyws6pzpufuhccwye",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Notepad",
+   "Bodysuit": "Glossy Scarlet",
+   "Face": "Surprised Pink",
+   "Feet": "Green Cowboy Boots",
+   "Hands": "Orange",
+   "Head": "Blue Cap",
+   "Item 1": "Green Lightsword",
+   "Item 2": "Brown Skate",
+   "Outfit": "None",
+   "Special": "Green Power Chord Tail"
+  }
+ }
+}

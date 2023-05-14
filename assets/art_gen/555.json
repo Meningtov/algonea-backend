@@ -1,0 +1,23 @@
+{
+ "number": 555,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676051918502.webp",
+ "metadata_cid": "bafkreier2qh2colr5rv32aer7rsbx32uowmjh5um57o3ugesvanu2p2zzq",
+ "metadata": {
+  "name": "Algonean #0555",
+  "standard": "arc3",
+  "image": "ipfs://bafkreibu6neokjdsufdif7pqaxsn4dfzomqqdsibchwb72mcynxnnspwmq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Blue Sketch",
+   "Bodysuit": "Plushy Pear",
+   "Face": "Orange Eyegor",
+   "Feet": "Yellow Kicks",
+   "Hands": "Dark",
+   "Head": "Red Visor",
+   "Item 1": "Flowers",
+   "Item 2": "Red Lunchbox",
+   "Outfit": "Green Overall",
+   "Special": "None"
+  }
+ }
+}

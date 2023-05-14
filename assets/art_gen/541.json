@@ -1,0 +1,23 @@
+{
+ "number": 541,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676051885047.webp",
+ "metadata_cid": "bafkreig3ngu6okcs23mmsztnqvmrcuwnehbmsamq4swwuwfeubjad47aua",
+ "metadata": {
+  "name": "Algonean #0541",
+  "standard": "arc3",
+  "image": "ipfs://bafkreie4ecmaxrxyyvmpynmdliiztsxvcrpi5bn7elge32kur7ed6pelgq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Blueberry",
+   "Bodysuit": "Faded Mint",
+   "Face": "Ecstatic Purple",
+   "Feet": "Yellow Flipflops",
+   "Hands": "Rainbow Grip",
+   "Head": "Blue Beanie",
+   "Item 1": "Green Blurby",
+   "Item 2": "Keytar",
+   "Outfit": "Blue Trooper",
+   "Special": "None"
+  }
+ }
+}

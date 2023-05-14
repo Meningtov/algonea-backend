@@ -1,0 +1,23 @@
+{
+ "number": 1222,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057175095.webp",
+ "metadata_cid": "bafkreibi5ffuje6uwnzpii2s7xrykdlzknewymzdxplxxyjxhf6hhsblz4",
+ "metadata": {
+  "name": "Algonean #1222",
+  "standard": "arc3",
+  "image": "ipfs://bafkreihswa6to5p473qucwzprpnhtp7shwbmworkfwbon5tizueikysnzu",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Fresh Lemonade",
+   "Bodysuit": "Glossy Cherry",
+   "Face": "Scared Purple",
+   "Feet": "Blue Kicks",
+   "Hands": "Sand",
+   "Head": "Ginger",
+   "Item 1": "Clackers",
+   "Item 2": "None",
+   "Outfit": "Blue Suit",
+   "Special": "None"
+  }
+ }
+}

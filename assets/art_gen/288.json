@@ -1,0 +1,23 @@
+{
+ "number": 288,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676049726497.webp",
+ "metadata_cid": "bafkreie4hrfnicc7g3eqahrpfjnu273s4wwa4ef7mugoixavkxlafmwave",
+ "metadata": {
+  "name": "Algonean #0288",
+  "standard": "arc3",
+  "image": "ipfs://bafkreidp5xc76q6jg2bodroydpnhib6qg4h4k4f6ih544r4whoji45koie",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "VHS",
+   "Bodysuit": "Walnut",
+   "Face": "Green Guardian",
+   "Feet": "Bumblebees",
+   "Hands": "Pinko",
+   "Head": "Green Beanie",
+   "Item 1": "Milk",
+   "Item 2": "Orange Lunchbox",
+   "Outfit": "Black Bunny",
+   "Special": "None"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 404,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676050815768.webp",
+ "metadata_cid": "bafkreiha4l4xzry5sabhmazkmqyosomw3nbpjazttog3lbqq6yitipkxs4",
+ "metadata": {
+  "name": "Algonean #0404",
+  "standard": "arc3",
+  "image": "ipfs://bafkreic43zeylljjwjfyhyqjitlzjncbt7iqc2fmmgtcwen3djr7a4z6ty",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Neon Sunset",
+   "Bodysuit": "Glossy Bubblegum",
+   "Face": "Merry Mint",
+   "Feet": "None",
+   "Hands": "Purple Grip",
+   "Head": "Blue Beret",
+   "Item 1": "Green Waterpistol",
+   "Item 2": "Yellow Boombox",
+   "Outfit": "Blue Retro Hoodie",
+   "Special": "None"
+  }
+ }
+}

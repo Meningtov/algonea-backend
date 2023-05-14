@@ -1,0 +1,23 @@
+{
+ "number": 1213,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057145358.webp",
+ "metadata_cid": "bafkreicbmmwvh34lwhnm53fct6etrnf7khr7ezdvclpfdjos4h67weybxa",
+ "metadata": {
+  "name": "Algonean #1213",
+  "standard": "arc3",
+  "image": "ipfs://bafkreigwhoywwc3j36ivdthodyfdgwdfjpeg4o5orac5aznexjfkw7mu24",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Dark",
+   "Bodysuit": "Worn Out Pistachio",
+   "Face": "Green Gator",
+   "Feet": "Mint Claws",
+   "Hands": "Purple Grip",
+   "Head": "Blue Shades",
+   "Item 1": "Blue Waterpistol",
+   "Item 2": "Green Lunchbox",
+   "Outfit": "Bad Dude",
+   "Special": "None"
+  }
+ }
+}

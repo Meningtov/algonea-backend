@@ -1,0 +1,23 @@
+{
+ "number": 1462,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676058695367.webp",
+ "metadata_cid": "bafkreidejbgtj5j3tvzg3ypbyanu45ekvfwqmdu3acd5pnz6s75wujbs64",
+ "metadata": {
+  "name": "Algonean #1462",
+  "standard": "arc3",
+  "image": "ipfs://bafkreie5s33nwzi5envs2wawe7kuhvt6sudsv3tklolr2uxmo2xhvksfwy",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Lemon",
+   "Bodysuit": "Cactus",
+   "Face": "Excited Blue",
+   "Feet": "None",
+   "Hands": "Yellow",
+   "Head": "Green Goggles",
+   "Item 1": "Apple Juice",
+   "Item 2": "Red Paddleball",
+   "Outfit": "Blue Dress",
+   "Special": "Skunk Tail"
+  }
+ }
+}

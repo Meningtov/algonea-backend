@@ -1,0 +1,23 @@
+{
+ "number": 368,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676050669883.webp",
+ "metadata_cid": "bafkreicosttgdhabxstxncodrq2rs2hjc2nhu2m5ezajehxim23e6kl5zm",
+ "metadata": {
+  "name": "Algonean #0368",
+  "standard": "arc3",
+  "image": "ipfs://bafkreieeff4ibmo7wt3a4nc4eekwff7bgh4t5xf7xpltqx5mgnyojqfite",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Orange",
+   "Bodysuit": "Worn Out Ice",
+   "Face": "Merry Blue",
+   "Feet": "None",
+   "Hands": "Rainbow Grip",
+   "Head": "Blue Cap",
+   "Item 1": "Blue Lightsword",
+   "Item 2": "Pillow",
+   "Outfit": "Yellow Wrestler",
+   "Special": "Skunk Tail"
+  }
+ }
+}

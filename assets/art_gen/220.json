@@ -1,0 +1,23 @@
+{
+ "number": 220,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676048982208.webp",
+ "metadata_cid": "bafkreif2zs4z6o7noyd37gfohpzkxl3xyx32xjt5iis6svx2fc6hgr32we",
+ "metadata": {
+  "name": "Algonean #0220",
+  "standard": "arc3",
+  "image": "ipfs://bafybeica7p6ut7hs3m5ankmgg7ofygijng5end4n36epc7lodoouxhuva4",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Honeycomb",
+   "Bodysuit": "Glossy Gray",
+   "Face": "Merry Pink",
+   "Feet": "None",
+   "Hands": "Robot",
+   "Head": "Green Goggles",
+   "Item 1": "Blue Walkboi",
+   "Item 2": "None",
+   "Outfit": "Black Suit",
+   "Special": "None"
+  }
+ }
+}

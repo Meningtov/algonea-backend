@@ -1,0 +1,23 @@
+{
+ "number": 734,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676053091735.webp",
+ "metadata_cid": "bafkreif76rbicaarxspcblmyhmfk74l3bcdcyvkdxnp3d54jzb7zito7o4",
+ "metadata": {
+  "name": "Algonean #0734",
+  "standard": "arc3",
+  "image": "ipfs://bafkreihfqsicirrxo4ltgxr6pjt35yqo5yadjqjkncgbu6ptxrtr2stu7q",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Green Sketch",
+   "Bodysuit": "Bluewood",
+   "Face": "Neutral Sky",
+   "Feet": "Autoboots",
+   "Hands": "Rust",
+   "Head": "Brain",
+   "Item 1": "Blue Waterpistol",
+   "Item 2": "None",
+   "Outfit": "Red Wrestler",
+   "Special": "Black Cape"
+  }
+ }
+}

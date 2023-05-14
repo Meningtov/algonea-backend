@@ -1,0 +1,23 @@
+{
+ "number": 90,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676047592546.webp",
+ "metadata_cid": "bafkreiglgzajhfa3e5mudvps6vpp4zcliedoxff35qu3iwdbp4p4cyjagu",
+ "metadata": {
+  "name": "Algonean #0090",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiepuk63gmudehgwwk7ok5rlczrqzsa3csruzmjuqtbjpzmrfrz4xa",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Notebook",
+   "Bodysuit": "Glossy Jade",
+   "Face": "Angry Orange",
+   "Feet": "None",
+   "Hands": "Bicolor Combat",
+   "Head": "None",
+   "Item 1": "Green Racket",
+   "Item 2": "Talk Text",
+   "Outfit": "Pink Spacesuit",
+   "Special": "Pink Madcat Tail"
+  }
+ }
+}

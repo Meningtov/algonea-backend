@@ -1,0 +1,23 @@
+{
+ "number": 848,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676054081721.webp",
+ "metadata_cid": "bafkreic4yivpdgvxlq45upssh6u33pgjrnukjajbqedroo3xrbbmxslwjq",
+ "metadata": {
+  "name": "Algonean #0848",
+  "standard": "arc3",
+  "image": "ipfs://bafybeicx6fzcpu4xjjtdafbr3sk264ic7bg5xqzrghn33djntym54aipfu",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Honeycomb",
+   "Bodysuit": "Pecan",
+   "Face": "Neutral Green",
+   "Feet": "Pink Slippers",
+   "Hands": "Orchid",
+   "Head": "Brown Beret",
+   "Item 1": "Flowers",
+   "Item 2": "None",
+   "Outfit": "None",
+   "Special": "Dino Tail"
+  }
+ }
+}

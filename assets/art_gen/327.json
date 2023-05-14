@@ -1,0 +1,23 @@
+{
+ "number": 327,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676050361512.webp",
+ "metadata_cid": "bafkreigejdtmsbllsrfaeibqx7hjpx66b7skqr5oxzpyjfqw4jin4sx3qa",
+ "metadata": {
+  "name": "Algonean #0327",
+  "standard": "arc3",
+  "image": "ipfs://bafkreib5asjafn4c225nnv24mfdbyiadegmiqjvjdum3a65jkvq3vgck7y",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Taffy",
+   "Bodysuit": "Faded White",
+   "Face": "Blue Alien",
+   "Feet": "Blue Hikers",
+   "Hands": "Radioactive",
+   "Head": "Orange Gumball",
+   "Item 1": "Blue Soap",
+   "Item 2": "Notebook",
+   "Outfit": "Pampers",
+   "Special": "Moo Tail"
+  }
+ }
+}

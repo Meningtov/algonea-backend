@@ -1,0 +1,23 @@
+{
+ "number": 1225,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057185786.webp",
+ "metadata_cid": "bafkreid3vaopc76wf3hyuzpr33v5eefczgc2mypcjiktcmicfywkr3w77u",
+ "metadata": {
+  "name": "Algonean #1225",
+  "standard": "arc3",
+  "image": "ipfs://bafkreia4ajvpufthyfegwylttu47yhke5jka4c7zjin6gqmb4intkwy6tq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Crystal",
+   "Bodysuit": "Worn Out Pink",
+   "Face": "Tense Cherry",
+   "Feet": "Blue Slippers",
+   "Hands": "Purple",
+   "Head": "Purple Goggles",
+   "Item 1": "Grape Pop",
+   "Item 2": "Red Bucket",
+   "Outfit": "None",
+   "Special": "Fuse"
+  }
+ }
+}

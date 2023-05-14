@@ -1,0 +1,23 @@
+{
+ "number": 1080,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676055972815.webp",
+ "metadata_cid": "bafkreia2ampr2tmt35xsqnseosh2dwk5bmfhmk3q4p5syfityshsdj6ode",
+ "metadata": {
+  "name": "Algonean #1080",
+  "standard": "arc3",
+  "image": "ipfs://bafkreibbmp6ahyvamzks46tbpunt35s2fcyw7a4sg32w4igwj5erkyl72m",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Notebook",
+   "Bodysuit": "Candy",
+   "Face": "Glad Green",
+   "Feet": "Greens",
+   "Hands": "Obsidian",
+   "Head": "Robot",
+   "Item 1": "Beetle",
+   "Item 2": "Blue Lunchbox",
+   "Outfit": "Gray Ravenman",
+   "Special": "None"
+  }
+ }
+}

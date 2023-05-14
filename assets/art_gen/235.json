@@ -1,0 +1,23 @@
+{
+ "number": 235,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676049087648.webp",
+ "metadata_cid": "bafkreibiylnoknelvjyaclv62b6ol6tzcdqlmttb22cfwrzq62gjhzrdwu",
+ "metadata": {
+  "name": "Algonean #0235",
+  "standard": "arc3",
+  "image": "ipfs://bafkreicwucq5jd7xboh5olf4riby7r4hjvhicfprea7rdlfsieg2255wvi",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Green Sketch",
+   "Bodysuit": "Plushy Melon",
+   "Face": "Mad Sky",
+   "Feet": "None",
+   "Hands": "Obsidian",
+   "Head": "Pink Headband",
+   "Item 1": "Nunchucks",
+   "Item 2": "Blue Lunchbox",
+   "Outfit": "Red Idol",
+   "Special": "None"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 1294,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057557721.webp",
+ "metadata_cid": "bafkreie2ppacdacw3m4pscicmh7hx6tmu6cvlqthspfe4ky5dgxcgmsjqi",
+ "metadata": {
+  "name": "Algonean #1294",
+  "standard": "arc3",
+  "image": "ipfs://bafkreigvqyp5wgi2liorlkra2sugvfpvcdftltbdmguv3i2ivpa6awbaoi",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Geometry",
+   "Bodysuit": "Bluewood",
+   "Face": "Purple Guardian",
+   "Feet": "Rusty Robots",
+   "Hands": "Pinko",
+   "Head": "Blue Gumball",
+   "Item 1": "Splash GBoy",
+   "Item 2": "Gray Gamepad",
+   "Outfit": "Green Spacesuit",
+   "Special": "Bloby"
+  }
+ }
+}

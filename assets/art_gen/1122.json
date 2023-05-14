@@ -1,0 +1,23 @@
+{
+ "number": 1122,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1679256228832.webp",
+ "metadata_cid": "bafkreig5vgyf6pr5fwm3feywsnuovywzn2awupjf76omyn6wii6rxff4ji",
+ "metadata": {
+  "name": "Algonean #1122",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiams3hqgbqdmj5tkli5l2oefhfzgiqsmk5swj5nrk7cj4w4yip4qy",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Notebook",
+   "Bodysuit": "Dandelion",
+   "Face": "Happy Yellow",
+   "Feet": "Tactical Shoes",
+   "Hands": "Yellow",
+   "Head": "Blue Cowboy Hat",
+   "Item 1": "Yellow Brick Phone",
+   "Item 2": "Blue Lunchbox",
+   "Outfit": "Gray Suit",
+   "Special": "None"
+  }
+ }
+}

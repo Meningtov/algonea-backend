@@ -1,0 +1,23 @@
+{
+ "number": 60,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676047431906.webp",
+ "metadata_cid": "bafkreie6bblq3dboelfqhclslhe5f5423ejrpkankcy6xurysjnafkcp4u",
+ "metadata": {
+  "name": "Algonean #0060",
+  "standard": "arc3",
+  "image": "ipfs://bafkreibwc7kku7dffuq6ptwvgtwbplu23xq5ecwv3kjit4qxoz2ezxv77y",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "River",
+   "Bodysuit": "Iris",
+   "Face": "Scared Purple",
+   "Feet": "Blue Slippers",
+   "Hands": "Sky",
+   "Head": "Purple Goggles",
+   "Item 1": "Green Brick Phone",
+   "Item 2": "None",
+   "Outfit": "Green Spacesuit",
+   "Special": "None"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 77,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676047477162.webp",
+ "metadata_cid": "bafkreibzlpcu2zdqsbmuji7ymifsorm755earvnkpfidrmuy6r4pq3ps3m",
+ "metadata": {
+  "name": "Algonean #0077",
+  "standard": "arc3",
+  "image": "ipfs://bafkreidn7xofjx5teonk7hoyfbsi53ts7ex2edu5bh3xukeqjr4q6k6xhy",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Oasis",
+   "Bodysuit": "Glossy Denim",
+   "Face": "Neutral Purple",
+   "Feet": "Blue Smileys",
+   "Hands": "Black",
+   "Head": "Orange Gumball",
+   "Item 1": "Soda Bottle",
+   "Item 2": "Garfeline",
+   "Outfit": "Blue Beast",
+   "Special": "None"
+  }
+ }
+}

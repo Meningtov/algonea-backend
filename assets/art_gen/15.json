@@ -1,0 +1,23 @@
+{
+ "number": 15,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676046850217.webp",
+ "metadata_cid": "bafkreibgnbwnb5askzybhkuxunqriyyi75zeme6zbqwzny3opirx3beoce",
+ "metadata": {
+  "name": "Algonean #0015",
+  "standard": "arc3",
+  "image": "ipfs://bafkreihbis6vmurcvxif2yxwhpoj5wdq6puzlsy47lhguygffye26du2ey",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Dark",
+   "Bodysuit": "Moss",
+   "Face": "Serene Dijon",
+   "Feet": "Blue Neos",
+   "Hands": "Orange",
+   "Head": "None",
+   "Item 1": "Power Stick",
+   "Item 2": "Pink Paddleball",
+   "Outfit": "Orange Hoodie",
+   "Special": "Turtle Carapace"
+  }
+ }
+}

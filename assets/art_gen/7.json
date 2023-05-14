@@ -1,0 +1,23 @@
+{
+ "number": 7,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1677008029681.webp",
+ "metadata_cid": "bafkreifsrihcdisaobzyboe3ybkljcalwhgwrjj7s4xy4ztg37y3iy5deu",
+ "metadata": {
+  "name": "Algonean #0007",
+  "standard": "arc3",
+  "image": "ipfs://bafybeiad5wniu6pdyowxr43m2ibhiyalyqpoxbs2ytis3xw4kugtzlr5l4",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Honeycomb",
+   "Bodysuit": "Lavender",
+   "Face": "Wraith",
+   "Feet": "None",
+   "Hands": "Rust",
+   "Head": "None",
+   "Item 1": "Purple Boomerang",
+   "Item 2": "Blue Basketball",
+   "Outfit": "Green Bikini",
+   "Special": "None"
+  }
+ }
+}

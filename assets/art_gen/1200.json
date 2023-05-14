@@ -1,0 +1,23 @@
+{
+ "number": 1200,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676056967316.webp",
+ "metadata_cid": "bafkreiffhfkmv4br4pq5yqrz2ikpdw43zqt6xcu62jc67w63lh6lzifaja",
+ "metadata": {
+  "name": "Algonean #1200",
+  "standard": "arc3",
+  "image": "ipfs://bafkreie5vjmxyrpc4gsup6iedj4mops5nwnzltxlcu3yuowamxitgw5cpe",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Notepad",
+   "Bodysuit": "Glossy Bubblegum",
+   "Face": "Blissful Purple",
+   "Feet": "Yellow Tigers",
+   "Hands": "Obsidian",
+   "Head": "Ginger",
+   "Item 1": "Apple Lollipop",
+   "Item 2": "Flashlight",
+   "Outfit": "Green Dress",
+   "Special": "None"
+  }
+ }
+}

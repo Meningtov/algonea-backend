@@ -1,0 +1,23 @@
+{
+ "number": 503,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676051682818.webp",
+ "metadata_cid": "bafkreib5edhwjfolzgwm265jf5pvh7e43ezashagdbecl5sg3vl3eezhzu",
+ "metadata": {
+  "name": "Algonean #0503",
+  "standard": "arc3",
+  "image": "ipfs://bafybeihuor3mpiu33kdujmqu5ykgdhn6dtdusgwbog3cks4uexjplsiuii",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Mint",
+   "Bodysuit": "Worn Out Pink",
+   "Face": "Orange Eyegor",
+   "Feet": "None",
+   "Hands": "Red Hazmat",
+   "Head": "Brown Hair",
+   "Item 1": "Purple Potion",
+   "Item 2": "Boombox",
+   "Outfit": "Hitman",
+   "Special": "None"
+  }
+ }
+}

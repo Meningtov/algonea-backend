@@ -1,0 +1,23 @@
+{
+ "number": 962,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676054836654.webp",
+ "metadata_cid": "bafkreigxj5fxha4ebinhozgdmpcd4wuaze7lqmx5wmvlrpfmjfrtbrgxre",
+ "metadata": {
+  "name": "Algonean #0962",
+  "standard": "arc3",
+  "image": "ipfs://bafybeia6px77y6fqzgowukprn5mp7bkmpcb2fx5nnwg2qk7m4zbcoyluja",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Twisted Gray",
+   "Bodysuit": "Rusty Robot",
+   "Face": "Confident Mint",
+   "Feet": "Black Boots",
+   "Hands": "Greeno",
+   "Head": "None",
+   "Item 1": "Yellow Waterpistol",
+   "Item 2": "None",
+   "Outfit": "Ravenman",
+   "Special": "Fuse"
+  }
+ }
+}

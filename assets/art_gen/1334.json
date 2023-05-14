@@ -1,0 +1,23 @@
+{
+ "number": 1334,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057774723.webp",
+ "metadata_cid": "bafkreiab3vzcunr4xxtxy6ved2kngvzii52fii23zg7jut4znsb4bal5fi",
+ "metadata": {
+  "name": "Algonean #1334",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiew7xxlh6f4deo2nnabjw334ozka4usuanm324mpubwvdxfwxfnjm",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Sky",
+   "Bodysuit": "Glossy Cherry",
+   "Face": "Evil Purple",
+   "Feet": "Pink Socks",
+   "Hands": "Scales",
+   "Head": "Blue Headband",
+   "Item 1": "Red Boomerang",
+   "Item 2": "Garfeline",
+   "Outfit": "Blue Idol",
+   "Special": "Electric"
+  }
+ }
+}

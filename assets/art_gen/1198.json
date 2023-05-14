@@ -1,0 +1,23 @@
+{
+ "number": 1198,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676056958255.webp",
+ "metadata_cid": "bafkreibdvz74v5voerxzo6f5rx4gzlthplulf7vewt642ywtoz3cmqkvzm",
+ "metadata": {
+  "name": "Algonean #1198",
+  "standard": "arc3",
+  "image": "ipfs://bafybeifjf5ycmwqftbe4f2uyzjem3msitpp3af72a3mjwniv4bh2yoibii",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Mint",
+   "Bodysuit": "Glossy Watermelon",
+   "Face": "Mad Purple",
+   "Feet": "None",
+   "Hands": "Lavender",
+   "Head": "Blue Visor",
+   "Item 1": "Blue Potion",
+   "Item 2": "Carrot",
+   "Outfit": "Dark One",
+   "Special": "None"
+  }
+ }
+}

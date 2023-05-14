@@ -1,0 +1,23 @@
+{
+ "number": 64,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676047444031.webp",
+ "metadata_cid": "bafkreibstglgkb5myf2s2u7tym2fp4ajrhtqurafsvb24c3l2v6jlprjca",
+ "metadata": {
+  "name": "Algonean #0064",
+  "standard": "arc3",
+  "image": "ipfs://bafybeib3yfiudysmuxg6wc2bafr42t2agu3glqipw5pliyakx6vjlue5om",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Yellow Dream",
+   "Bodysuit": "Faded Mint",
+   "Face": "Crazy Casey",
+   "Feet": "Pink Sneakers",
+   "Hands": "Graphite",
+   "Head": "Blue Beanie",
+   "Item 1": "Grape Lollipop",
+   "Item 2": "Green Skate",
+   "Outfit": "Pink Tutu",
+   "Special": "None"
+  }
+ }
+}

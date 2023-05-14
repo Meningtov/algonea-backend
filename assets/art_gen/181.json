@@ -1,0 +1,23 @@
+{
+ "number": 181,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676048715251.webp",
+ "metadata_cid": "bafkreibtg5jtckcl72q52hwn56dyjak74up4b3fxxyiwrrr6k5mhsendfa",
+ "metadata": {
+  "name": "Algonean #0181",
+  "standard": "arc3",
+  "image": "ipfs://bafkreidqy3gi7riatoraxmuv4luowtrmksbq2adl35vx3zqaj3xlmkas5e",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Orange",
+   "Bodysuit": "Toxic Reptile",
+   "Face": "Glad Yellow",
+   "Feet": "Yellow Oldies",
+   "Hands": "Rust",
+   "Head": "Brain",
+   "Item 1": "Green Potion",
+   "Item 2": "Flashlight",
+   "Outfit": "Brown Suit",
+   "Special": "None"
+  }
+ }
+}

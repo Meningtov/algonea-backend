@@ -1,0 +1,23 @@
+{
+ "number": 1234,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057215112.webp",
+ "metadata_cid": "bafkreih5gm32qw6qrvj5egswgc2iluo64jxuiiohy4nije4meehwc5otti",
+ "metadata": {
+  "name": "Algonean #1234",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiawhwajna5tvcotmgeceg2pe42euscpw6nktgpznubrasgx7wbrma",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Matrix",
+   "Bodysuit": "Plushy Arctic",
+   "Face": "High Yellow",
+   "Feet": "Mint Hikers",
+   "Hands": "80s",
+   "Head": "Dream Antlers",
+   "Item 1": "Grape Lollipop",
+   "Item 2": "Algorios",
+   "Outfit": "None",
+   "Special": "Moo Tail"
+  }
+ }
+}

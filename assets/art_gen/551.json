@@ -1,0 +1,23 @@
+{
+ "number": 551,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676051907086.webp",
+ "metadata_cid": "bafkreih4odanwqdqfvgtuzieqps2svjijjjrlqolhq3eueip62feoiydcu",
+ "metadata": {
+  "name": "Algonean #0551",
+  "standard": "arc3",
+  "image": "ipfs://bafybeih4bfjohqfmdzcvfw3rbegtpfkfyppoehz2dlyjoxbkh4gk3bqwn4",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Twisted Red",
+   "Bodysuit": "Worn Out Ice",
+   "Face": "Distressed Purple",
+   "Feet": "Robots",
+   "Hands": "Yellow",
+   "Head": "None",
+   "Item 1": "Hot Dog",
+   "Item 2": "Yellow Boombox",
+   "Outfit": "Green Jersey",
+   "Special": "Green Power Chord Tail"
+  }
+ }
+}

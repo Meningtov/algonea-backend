@@ -1,0 +1,23 @@
+{
+ "number": 810,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676053941026.webp",
+ "metadata_cid": "bafkreia744balqilczifhhinlqbjntt45sm4xpuu45ebqufm63idhv75zi",
+ "metadata": {
+  "name": "Algonean #0810",
+  "standard": "arc3",
+  "image": "ipfs://bafkreidchqnattfewlpxk65e4ssjqb2pgtzokoxwzrltzhdmtxxnksv7ne",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Mocha",
+   "Bodysuit": "Bluewood",
+   "Face": "Green Guardian",
+   "Feet": "Pinksters",
+   "Hands": "Gold",
+   "Head": "Megaboi",
+   "Item 1": "Green Shovel",
+   "Item 2": "Algorios",
+   "Outfit": "Pink Nebula",
+   "Special": "Electric"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 1033,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676055559398.webp",
+ "metadata_cid": "bafkreifemqe3poaoohgwrbl4edh3k523rlz4xsaa2s4czpyny6thatbio4",
+ "metadata": {
+  "name": "Algonean #1033",
+  "standard": "arc3",
+  "image": "ipfs://bafybeifjfptvrkw6enseyxjba5tx4n7ddm7obtbpgbozhqsamics2m7yce",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Twisted Red",
+   "Bodysuit": "Worn Out Sand",
+   "Face": "Delighted Blue",
+   "Feet": "Purple Slippers",
+   "Hands": "Robot",
+   "Head": "Hightop",
+   "Item 1": "Shotgun",
+   "Item 2": "Red Skate",
+   "Outfit": "Red Dress",
+   "Special": "Skunk Tail"
+  }
+ }
+}

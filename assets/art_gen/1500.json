@@ -1,0 +1,23 @@
+{
+ "number": 1500,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676058845094.webp",
+ "metadata_cid": "bafkreiaam6a3cvdrxqgbahqtvwu3c5jeq7uc7lpao5nzsm6y4bzw6hah7e",
+ "metadata": {
+  "name": "Algonean #1500",
+  "standard": "arc3",
+  "image": "ipfs://bafkreig2nvtqaljholzrasjwxa3razchiwbz2pwzgsktkwtlciojaa3qmm",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Blue Sketch",
+   "Bodysuit": "Midnight",
+   "Face": "Joyful Mint",
+   "Feet": "Dirty Socks",
+   "Hands": "Cartoon",
+   "Head": "Red Sodahat",
+   "Item 1": "Red Lightsword",
+   "Item 2": "Algorios",
+   "Outfit": "Orange Lab Coat",
+   "Special": "None"
+  }
+ }
+}

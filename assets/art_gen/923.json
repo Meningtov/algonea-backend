@@ -1,0 +1,23 @@
+{
+ "number": 923,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676054565269.webp",
+ "metadata_cid": "bafkreick5iafrvmr4mbbbtyhz6huzz4y3ck7plsjzbbrl4ef423343xaoy",
+ "metadata": {
+  "name": "Algonean #0923",
+  "standard": "arc3",
+  "image": "ipfs://bafkreih2jp6yod46rybohvrfui4y5xk2q4rrlli5aso3iui257haplrspy",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Notebook",
+   "Bodysuit": "Glossy Ice",
+   "Face": "Neutral Melon",
+   "Feet": "Yellow Hikers",
+   "Hands": "Red",
+   "Head": "Blue Bunny",
+   "Item 1": "Green Blurby",
+   "Item 2": "Green Skate",
+   "Outfit": "Gray Suit",
+   "Special": "None"
+  }
+ }
+}

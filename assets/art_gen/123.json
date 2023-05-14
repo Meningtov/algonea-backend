@@ -1,0 +1,23 @@
+{
+ "number": 123,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676048113466.webp",
+ "metadata_cid": "bafkreidldvl2qn6jovxl4q6se4oimrxgkrdiyeofhh26n4qruq56yjfxsa",
+ "metadata": {
+  "name": "Algonean #0123",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiflmkdbizacqstaale5bv2fhtm2f2sqn7vpo2qirjgaltn45c4k74",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Sky",
+   "Bodysuit": "Toxic Reptile",
+   "Face": "Happy Blue",
+   "Feet": "None",
+   "Hands": "Violet",
+   "Head": "Devil Horns",
+   "Item 1": "None",
+   "Item 2": "Purple Skate",
+   "Outfit": "Blue Trooper",
+   "Special": "Fairy Wings"
+  }
+ }
+}

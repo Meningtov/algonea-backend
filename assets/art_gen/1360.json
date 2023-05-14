@@ -1,0 +1,23 @@
+{
+ "number": 1360,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057984814.webp",
+ "metadata_cid": "bafkreidf37fmcdvkbwxuxrietshoxbtmb6svfekprh6wkwxgoxuycd4wbq",
+ "metadata": {
+  "name": "Algonean #1360",
+  "standard": "arc3",
+  "image": "ipfs://bafkreifpkicy6gioozr64m35peo5q6n7qjanflelzldgl5tzlewqaqjbpm",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Blue Doodle",
+   "Bodysuit": "Faded Mint",
+   "Face": "Mad Bubblegum",
+   "Feet": "None",
+   "Hands": "Graphite",
+   "Head": "Purple Beanie",
+   "Item 1": "Green Blurby",
+   "Item 2": "Orange Lunchbox",
+   "Outfit": "None",
+   "Special": "Bat Wings"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 444,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676051047450.webp",
+ "metadata_cid": "bafkreid3z5bhdkkuwltjfkbrzmr5h7tqs3ww2tvt3eg6bcugumdbh34hea",
+ "metadata": {
+  "name": "Algonean #0444",
+  "standard": "arc3",
+  "image": "ipfs://bafkreib4ng7f27srpew4cn5dybqvgxza5wq2cuyquhlarnijwggx36qd6a",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Sky",
+   "Bodysuit": "Faded White",
+   "Face": "Green Specter",
+   "Feet": "Pink Kicks",
+   "Hands": "Greenscale",
+   "Head": "Megaboi",
+   "Item 1": "Cherry Lollipop",
+   "Item 2": "Blue Lunchbox",
+   "Outfit": "Underwear",
+   "Special": "None"
+  }
+ }
+}

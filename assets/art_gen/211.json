@@ -1,0 +1,23 @@
+{
+ "number": 211,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676048800920.webp",
+ "metadata_cid": "bafkreigiznwy77rw7yqaqob4o4ard2qp4icpnno6mntmigjrl4cc54aszu",
+ "metadata": {
+  "name": "Algonean #0211",
+  "standard": "arc3",
+  "image": "ipfs://bafkreidldpacyqgn2elfi7ev3vixxl25n3llnhnnw4gqapoevqticwylmy",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Black",
+   "Bodysuit": "Gold",
+   "Face": "Ecstatic Red",
+   "Feet": "Orange Jumpers",
+   "Hands": "Radioactive",
+   "Head": "Blue Horns",
+   "Item 1": "Orange Waterpistol",
+   "Item 2": "Blue Bucket",
+   "Outfit": "Orange Undies",
+   "Special": "None"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 452,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676051079087.webp",
+ "metadata_cid": "bafkreid6zbdjrtylk35blkehack3b4axgwbp7lodbg7pvr7xdi5u7u7zji",
+ "metadata": {
+  "name": "Algonean #0452",
+  "standard": "arc3",
+  "image": "ipfs://bafybeicwg5t55ir7zvqozklggp7tngseud6nkjjyvsco24keego7lokcte",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Candy",
+   "Bodysuit": "Mahogany",
+   "Face": "Dino",
+   "Feet": "Orange Slippers",
+   "Hands": "Grayscale",
+   "Head": "Orange Shades",
+   "Item 1": "Purple Firecracker",
+   "Item 2": "Flashlight",
+   "Outfit": "Orange Lab Coat",
+   "Special": "None"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 622,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676052440093.webp",
+ "metadata_cid": "bafkreicruketsq3noumrvsnv4mxa5baeebxuudap5bmipxlbsvv4zmkhma",
+ "metadata": {
+  "name": "Algonean #0622",
+  "standard": "arc3",
+  "image": "ipfs://bafybeiauouhndd3gaaxy5zlzds3mdpatp4qvjj34dhdosmqetc2oy5xkza",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Honeycomb",
+   "Bodysuit": "Toxic Reptile",
+   "Face": "Excited Mint",
+   "Feet": "None",
+   "Hands": "Rust",
+   "Head": "None",
+   "Item 1": "Green Blurby",
+   "Item 2": "Green Droll",
+   "Outfit": "Blue Bikini",
+   "Special": "None"
+  }
+ }
+}

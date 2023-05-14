@@ -1,0 +1,23 @@
+{
+ "number": 28,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676046895198.webp",
+ "metadata_cid": "bafkreihzobmngbbfxf5gpf3vf5om5im5cjaxqhzwqtqmtg2z3hbwd66cse",
+ "metadata": {
+  "name": "Algonean #0028",
+  "standard": "arc3",
+  "image": "ipfs://bafkreibcwiz24u3r3qrgq5ovk2md22j3cjvkuuzdiuj2ys5kgrdmodijzu",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Oasis",
+   "Bodysuit": "Golden Oak",
+   "Face": "Serene Purple",
+   "Feet": "None",
+   "Hands": "Tactical Purple",
+   "Head": "None",
+   "Item 1": "Katana",
+   "Item 2": "Rubys Cube",
+   "Outfit": "None",
+   "Special": "None"
+  }
+ }
+}

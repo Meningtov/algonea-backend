@@ -1,0 +1,23 @@
+{
+ "number": 926,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676054576421.webp",
+ "metadata_cid": "bafkreihroxq3hytozgnqpx7am5lmtjqwp7zo4wg63wa5mote7f4vargsoa",
+ "metadata": {
+  "name": "Algonean #0926",
+  "standard": "arc3",
+  "image": "ipfs://bafkreib4xssek4iwdnuwienjuq6nimv3wz3uoohg6oqepksoiue2zsmc7e",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Geometry",
+   "Bodysuit": "Glossy Cherry",
+   "Face": "Frozen Skully",
+   "Feet": "Mary Janes",
+   "Hands": "Gold",
+   "Head": "Purple Goggles",
+   "Item 1": "Boomerman",
+   "Item 2": "Mighty Sword",
+   "Outfit": "Scarabbroth",
+   "Special": "None"
+  }
+ }
+}

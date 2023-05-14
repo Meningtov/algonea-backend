@@ -1,0 +1,23 @@
+{
+ "number": 594,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676052248685.webp",
+ "metadata_cid": "bafkreiayrecjecsrki6x5tbvqedv27a4toxswdxfjtuokqauw7eo3xlszq",
+ "metadata": {
+  "name": "Algonean #0594",
+  "standard": "arc3",
+  "image": "ipfs://bafybeibtfiadhkqwz7eczitusj52v34bzd6y7faan5x7fi2o7ihurqh5pu",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Twisted Red",
+   "Bodysuit": "Faded Pink",
+   "Face": "Evil Green",
+   "Feet": "None",
+   "Hands": "Combat",
+   "Head": "Blue Mask",
+   "Item 1": "Katana",
+   "Item 2": "Blue Paddleball",
+   "Outfit": "Yellow Wrestler",
+   "Special": "Green Power Chord Tail"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 1441,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676058367279.webp",
+ "metadata_cid": "bafkreiaqm3kqzgybnl2viegpenybzfiyzlahrid7ttu5ccdcrlwwgeusz4",
+ "metadata": {
+  "name": "Algonean #1441",
+  "standard": "arc3",
+  "image": "ipfs://bafybeicj3cb73q6sdeotjpra2path6pbmbgqnc3auqgnaejb6lb3l5fknu",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Candy",
+   "Bodysuit": "Pistachio",
+   "Face": "Distressed Gray",
+   "Feet": "Workers",
+   "Hands": "Pinko",
+   "Head": "Chocolate Ice Cream",
+   "Item 1": "Banana",
+   "Item 2": "Flashlight",
+   "Outfit": "Dark One",
+   "Special": "Black Cape"
+  }
+ }
+}

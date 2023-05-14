@@ -1,0 +1,23 @@
+{
+ "number": 500,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676051619148.webp",
+ "metadata_cid": "bafkreihiobqzyq7ifjbnri3hq77nrwbu7hs2gbql47m6yx7mjxecjmbpge",
+ "metadata": {
+  "name": "Algonean #0500",
+  "standard": "arc3",
+  "image": "ipfs://bafkreidilyjbtwcaym6qbzz5kq4g2musovqigv7bxwhrozj7k77eerstqe",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Tropical Mango",
+   "Bodysuit": "Faded Mint",
+   "Face": "Blissful Mint",
+   "Feet": "Green Hightops",
+   "Hands": "80s",
+   "Head": "Devil Horns",
+   "Item 1": "Chicken",
+   "Item 2": "Green Droll",
+   "Outfit": "None",
+   "Special": "None"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 17,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676046856922.webp",
+ "metadata_cid": "bafkreifhabf7ozbx7eikmwhtgytoer4db7rp3wdzvc6etsgyrochg7yymq",
+ "metadata": {
+  "name": "Algonean #0017",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiaj3rsrs4is3nkhdluyf5gpkbjnbxep52ptca33nro3e3u3uym7l4",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Neon Sunset",
+   "Bodysuit": "Peanut",
+   "Face": "Delighted Yellow",
+   "Feet": "Green Hightops",
+   "Hands": "Yellow Hazmat",
+   "Head": "None",
+   "Item 1": "Purple Lightsword",
+   "Item 2": "Algorios",
+   "Outfit": "None",
+   "Special": "Dino Tail"
+  }
+ }
+}

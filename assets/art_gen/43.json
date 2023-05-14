@@ -1,0 +1,23 @@
+{
+ "number": 43,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676046960233.webp",
+ "metadata_cid": "bafkreigz7t3k2vbyidw5tgducswsaicqzl2akvkcr66ic3y4bf3rkyitie",
+ "metadata": {
+  "name": "Algonean #0043",
+  "standard": "arc3",
+  "image": "ipfs://bafkreibgcrekaejsqrwqitrekkmhzsnbu62mh7etqnu6ezuzezs5vfr73e",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Red",
+   "Bodysuit": "Worn Out Pink",
+   "Face": "Merry Mint",
+   "Feet": "Yellow Drifters",
+   "Hands": "Surgical",
+   "Head": "Robot",
+   "Item 1": "Blue Brick Phone",
+   "Item 2": "Green Skate",
+   "Outfit": "Pink Spacesuit",
+   "Special": "None"
+  }
+ }
+}

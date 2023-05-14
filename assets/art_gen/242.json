@@ -1,0 +1,23 @@
+{
+ "number": 242,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676049111879.webp",
+ "metadata_cid": "bafkreiflmxtqgqpfbqxqvzz7wnetj7rqqm4bcciuioj6ri2w6hwfz3ibke",
+ "metadata": {
+  "name": "Algonean #0242",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiafyywxykz5aaxekszxonipp4vhqbmowcp7bvsvkoqa3hmboqepem",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Lemon",
+   "Bodysuit": "Dandelion",
+   "Face": "Sad Orange",
+   "Feet": "None",
+   "Hands": "Leather",
+   "Head": "Player 1",
+   "Item 1": "Chicken",
+   "Item 2": "Gray Boombox",
+   "Outfit": "Orange Dress",
+   "Special": "None"
+  }
+ }
+}

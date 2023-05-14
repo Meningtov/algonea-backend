@@ -1,0 +1,23 @@
+{
+ "number": 917,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676054541641.webp",
+ "metadata_cid": "bafkreidxsqfqkkxffl3ab2guabus7mq3vxqn3bxmh5eq6bvcypp4lzcbpy",
+ "metadata": {
+  "name": "Algonean #0917",
+  "standard": "arc3",
+  "image": "ipfs://bafkreie3ayq7miyxcateti4pkmda3wj3kbd2devijh6mxr7uilycoihuae",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Sky",
+   "Bodysuit": "Glossy Blueberry",
+   "Face": "Green Gator",
+   "Feet": "Neon Runners",
+   "Hands": "Rust",
+   "Head": "Orange Shades",
+   "Item 1": "None",
+   "Item 2": "Baywatch",
+   "Outfit": "Purple Bunny",
+   "Special": "Turtle Carapace"
+  }
+ }
+}

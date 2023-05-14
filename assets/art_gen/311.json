@@ -1,0 +1,23 @@
+{
+ "number": 311,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676050299527.webp",
+ "metadata_cid": "bafkreig4eeg6rovdcatvb7ltwcsakkuolcl3tadukdzkmbzco63sw42xj4",
+ "metadata": {
+  "name": "Algonean #0311",
+  "standard": "arc3",
+  "image": "ipfs://bafkreib2cwfcifyd4cfrortsspzqn5lbcvmt2r2ea3zqfcowl3en5kfmfa",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Blue Sketch",
+   "Bodysuit": "Mint",
+   "Face": "Green Guardian",
+   "Feet": "Orange Skullies",
+   "Hands": "Red",
+   "Head": "None",
+   "Item 1": "Purple Soap",
+   "Item 2": "Pencil",
+   "Outfit": "Blue Bikini",
+   "Special": "Fuse"
+  }
+ }
+}

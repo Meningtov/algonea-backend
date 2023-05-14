@@ -1,0 +1,23 @@
+{
+ "number": 56,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1677279895821.webp",
+ "metadata_cid": "bafkreihancrud53qfljstdq7pfvd7l2kjwyyqt6fzthkenkn6k62qd4pfm",
+ "metadata": {
+  "name": "Algonean #0056",
+  "standard": "arc3",
+  "image": "ipfs://bafkreif6obeendrp2cyscccwjdtk4kyrvt5my5rqzpz62ki2rbwipjrsjq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Red",
+   "Bodysuit": "Mahogany",
+   "Face": "Neutral Green",
+   "Feet": "None",
+   "Hands": "Yellow",
+   "Head": "Purple Horns",
+   "Item 1": "Purple Shovel",
+   "Item 2": "Blue Basketball",
+   "Outfit": "Good Boy",
+   "Special": "Fuse"
+  }
+ }
+}

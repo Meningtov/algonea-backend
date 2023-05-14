@@ -1,0 +1,23 @@
+{
+ "number": 681,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676052799399.webp",
+ "metadata_cid": "bafkreidxflj34fuumtrflhjbuzm63r3yt5hbjqzeszzhkrmqves46kyv6i",
+ "metadata": {
+  "name": "Algonean #0681",
+  "standard": "arc3",
+  "image": "ipfs://bafkreihxoume37xn7m2pthfjz4wmdslftdicutqvrwtiodffjeuqkrpl6u",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Green Sketch",
+   "Bodysuit": "Faded Blue",
+   "Face": "Confident Blue",
+   "Feet": "Blue Sneakers",
+   "Hands": "Surgical",
+   "Head": "Orange Beanie",
+   "Item 1": "Purple Potion",
+   "Item 2": "Red Gamepad",
+   "Outfit": "Purple Undies",
+   "Special": "Purple Madcat Tail"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 777,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676053354939.webp",
+ "metadata_cid": "bafkreihg4xm4ohbnoifpxy6awehqdd4nni4rjtci3hhthgie5j67i6yvlq",
+ "metadata": {
+  "name": "Algonean #0777",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiaxhbqwameimd4rahmettydhw2tmq5lztv5uch4q2uzddlwtzilla",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Black",
+   "Bodysuit": "Robot",
+   "Face": "Dull Purple",
+   "Feet": "Orange Jumpers",
+   "Hands": "Green",
+   "Head": "Twinkle Crown",
+   "Item 1": "Bloody Knife",
+   "Item 2": "Submachine Gun",
+   "Outfit": "Enforcer",
+   "Special": "Orange Power Chord Tail"
+  }
+ }
+}

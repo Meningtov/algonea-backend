@@ -1,0 +1,23 @@
+{
+ "number": 1005,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676055451742.webp",
+ "metadata_cid": "bafkreih7ecvsba67pe655oqch7so7akpppvmjhcwesyljksksbtncqmncu",
+ "metadata": {
+  "name": "Algonean #1005",
+  "standard": "arc3",
+  "image": "ipfs://bafkreifkfjbucutoyksxsu5gusfntbd5ocktvhp7ynmcznsfvgknoyztfu",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Purple Squiggle",
+   "Bodysuit": "Glossy Ocean",
+   "Face": "Crazy Casey",
+   "Feet": "Dress Shoes",
+   "Hands": "Sky",
+   "Head": "Police Hat",
+   "Item 1": "Purple Firecracker",
+   "Item 2": "Green Skate",
+   "Outfit": "Gray Ravenman",
+   "Special": "None"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 929,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676054587172.webp",
+ "metadata_cid": "bafkreiag2g5lxei7kxjomqpt4qjnedojph7cz43axjo6lftl6clmmk3xqa",
+ "metadata": {
+  "name": "Algonean #0929",
+  "standard": "arc3",
+  "image": "ipfs://bafkreihgxka6alpzjciurbvp6vwgin3bbc47ixs6cyxxouswk34r23khr4",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Yellow",
+   "Bodysuit": "Glossy Scarlet",
+   "Face": "Delighted Lime",
+   "Feet": "None",
+   "Hands": "Brown Grip",
+   "Head": "Red Visor",
+   "Item 1": "Banana",
+   "Item 2": "Green Bucket",
+   "Outfit": "Hitman",
+   "Special": "Bloby"
+  }
+ }
+}

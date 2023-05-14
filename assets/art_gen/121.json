@@ -1,0 +1,23 @@
+{
+ "number": 121,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676048107142.webp",
+ "metadata_cid": "bafkreic5tu7f75vjspicffeveadpmfh3a4gnd4xu7u5ysgae4miwo26ahm",
+ "metadata": {
+  "name": "Algonean #0121",
+  "standard": "arc3",
+  "image": "ipfs://bafkreidsrbzniva6lu5o64vdfdnnbqc5em6f4v3xot54jwyheaiuo7e7am",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Blue Squiggle",
+   "Bodysuit": "Glossy Mint",
+   "Face": "Surprised Purple",
+   "Feet": "None",
+   "Hands": "Greeno",
+   "Head": "Hightop",
+   "Item 1": "Shotgun",
+   "Item 2": "Orange Lunchbox",
+   "Outfit": "Kill Bob",
+   "Special": "None"
+  }
+ }
+}

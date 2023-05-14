@@ -1,0 +1,23 @@
+{
+ "number": 34,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676046918841.webp",
+ "metadata_cid": "bafkreic3nyi5fpb27uisp4is47vshfpjjl427bd7q7efls5hflvc3pi3sq",
+ "metadata": {
+  "name": "Algonean #0034",
+  "standard": "arc3",
+  "image": "ipfs://bafkreicqbj6hdgpm2fdf4jacubjjpds7anohjcca5bcga2knzphkphddim",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Matrix",
+   "Bodysuit": "Glossy Blueberry",
+   "Face": "Blissful Mint",
+   "Feet": "Purple Hikers",
+   "Hands": "Blue Biker",
+   "Head": "Dream Antlers",
+   "Item 1": "Milk",
+   "Item 2": "Black Pennyboard",
+   "Outfit": "Mint Retro Hoodie",
+   "Special": "Dolby"
+  }
+ }
+}

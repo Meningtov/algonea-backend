@@ -1,0 +1,23 @@
+{
+ "number": 112,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676048083442.webp",
+ "metadata_cid": "bafkreia5cr4iocpxljk2pvxvovkntwfrwa67vtbpsveav2kl4vawfhsgpa",
+ "metadata": {
+  "name": "Algonean #0112",
+  "standard": "arc3",
+  "image": "ipfs://bafkreibuze4hbazyjc4fd7jcwcd2piwmrhavqqtbst732o6x44jx57dwda",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Greenyellow",
+   "Bodysuit": "Glossy Orange",
+   "Face": "Pink Specter",
+   "Feet": "Blue Aeros",
+   "Hands": "Robot",
+   "Head": "Orange Horns",
+   "Item 1": "Soda Bottle",
+   "Item 2": "Red Skate",
+   "Outfit": "Red Overall",
+   "Special": "None"
+  }
+ }
+}

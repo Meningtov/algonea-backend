@@ -1,0 +1,23 @@
+{
+ "number": 1000,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676054997940.webp",
+ "metadata_cid": "bafkreiafnksdjja46tjkqu6r7nsyokq7qlpme5nm4udbrnmlxmyltjoaua",
+ "metadata": {
+  "name": "Algonean #1000",
+  "standard": "arc3",
+  "image": "ipfs://bafybeicusyak2bycdh2wqkrib2bxaf2wqih57kxx5ebtf4h7hgadveoazi",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Yellow Dream",
+   "Bodysuit": "Bluewood",
+   "Face": "Angry Orange",
+   "Feet": "Yellow Oldies",
+   "Hands": "Blueo",
+   "Head": "None",
+   "Item 1": "Brown Racket",
+   "Item 2": "None",
+   "Outfit": "None",
+   "Special": "None"
+  }
+ }
+}

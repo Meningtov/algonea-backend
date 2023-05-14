@@ -1,0 +1,23 @@
+{
+ "number": 748,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676053146585.webp",
+ "metadata_cid": "bafkreiczdhfnppahqg2foyak5owqf7o5bw4wruylvp4srbtjsbhodgbpxm",
+ "metadata": {
+  "name": "Algonean #0748",
+  "standard": "arc3",
+  "image": "ipfs://bafkreidyjmmrgh2spbhg455nlucrk4rvfbi7niq7ochkkjj6gznm2ibb5a",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Lemon",
+   "Bodysuit": "Glossy Blueberry",
+   "Face": "Serene Purple",
+   "Feet": "Green Flipflops",
+   "Hands": "Cartoon",
+   "Head": "Blue Cap",
+   "Item 1": "Blue Waterpistol",
+   "Item 2": "Boombox",
+   "Outfit": "Blue Undies",
+   "Special": "Bloby"
+  }
+ }
+}

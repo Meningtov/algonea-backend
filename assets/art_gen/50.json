@@ -1,0 +1,23 @@
+{
+ "number": 50,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676047840261.webp",
+ "metadata_cid": "bafkreidl5rrek4qndqxxcdg5nljsz7zsnjuk5agyjwsn7aumicjn6mwcr4",
+ "metadata": {
+  "name": "Algonean #0050",
+  "standard": "arc3",
+  "image": "ipfs://bafkreia3gd6sj43d4wuffc7i7cpsa6tfgvxnuz3l3wzvogpng7slahwatm",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Sky",
+   "Bodysuit": "Glossy Jade",
+   "Face": "Sweet Blue",
+   "Feet": "Pink Dolls",
+   "Hands": "White",
+   "Head": "Red Beret",
+   "Item 1": "None",
+   "Item 2": "None",
+   "Outfit": "Brown XOJacket",
+   "Special": "None"
+  }
+ }
+}

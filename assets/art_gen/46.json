@@ -1,0 +1,23 @@
+{
+ "number": 46,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676046972835.webp",
+ "metadata_cid": "bafkreia476cxh7pgf6jhpwifuh2s6z64sw22yrbku2tosww4xzstnjbidm",
+ "metadata": {
+  "name": "Algonean #0046",
+  "standard": "arc3",
+  "image": "ipfs://bafkreidl6xkpqd5o4kglnzojoev5jxsgshamio6up23tlj4j4chsrvvjq4",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Sky",
+   "Bodysuit": "Glossy Brown",
+   "Face": "Dull Blue",
+   "Feet": "Pink Urbans",
+   "Hands": "Midnight",
+   "Head": "White Headband",
+   "Item 1": "Gray GBoy",
+   "Item 2": "None",
+   "Outfit": "Power Underwear",
+   "Special": "None"
+  }
+ }
+}

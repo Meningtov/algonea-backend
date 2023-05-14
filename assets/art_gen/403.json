@@ -1,0 +1,23 @@
+{
+ "number": 403,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676050810448.webp",
+ "metadata_cid": "bafkreifvjb657hx7ifsjwootszgbynyn6xm36d2za4nxbcznoiosz2usxe",
+ "metadata": {
+  "name": "Algonean #0403",
+  "standard": "arc3",
+  "image": "ipfs://bafkreign4jwvrsapotdswt5xejuqjlyse4khbxbmghhw2mf25kbntonweq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Tropical Mango",
+   "Bodysuit": "Plushy Amethyst",
+   "Face": "Wraith",
+   "Feet": "None",
+   "Hands": "Purple",
+   "Head": "Red Beret",
+   "Item 1": "Blue Brick Phone",
+   "Item 2": "Algo Flakes",
+   "Outfit": "Green Overall",
+   "Special": "Black Cape"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 256,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676049608061.webp",
+ "metadata_cid": "bafkreifpae4otsvdb6qfi3cm7bqthnlbckmyd5tk25mywrenhclfbr4qye",
+ "metadata": {
+  "name": "Algonean #0256",
+  "standard": "arc3",
+  "image": "ipfs://bafkreihvo4biaw7zr7jwkbim4h4ixubtvdybxe7rv6mxee7rjiuxqkssqq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Blueberry",
+   "Bodysuit": "Glossy Bubblegum",
+   "Face": "Confident Purple",
+   "Feet": "Blue Smileys",
+   "Hands": "Blue Grip",
+   "Head": "Green Helmet",
+   "Item 1": "Green Guitar",
+   "Item 2": "Yellow Bucket",
+   "Outfit": "None",
+   "Special": "None"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 1245,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057259921.webp",
+ "metadata_cid": "bafkreibf74mtgj75ects53eu5u5rqgczqf4vp7fzlurkr4tsfmkqkpa5ze",
+ "metadata": {
+  "name": "Algonean #1245",
+  "standard": "arc3",
+  "image": "ipfs://bafkreie24f2eujojbzczvamxnl3nqkvlqcaamygd5qgesdolndzazjsrxm",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Blue Sketch",
+   "Bodysuit": "Glossy Brown",
+   "Face": "Candy Skully",
+   "Feet": "Blues",
+   "Hands": "Blue Biker",
+   "Head": "Blonde",
+   "Item 1": "Blue Waterpistol",
+   "Item 2": "None",
+   "Outfit": "Red EVA",
+   "Special": "None"
+  }
+ }
+}

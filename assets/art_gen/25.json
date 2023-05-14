@@ -1,0 +1,23 @@
+{
+ "number": 25,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676046885992.webp",
+ "metadata_cid": "bafkreiewio65ppf4bpf2wzaw3ofpw2a2cuzcgmasnozkyhe7utbfyvq5bm",
+ "metadata": {
+  "name": "Algonean #0025",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiel4hobbqscciz7t2ws34o6uocybscl4536ghirflv4pbbpm74ydu",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Blue Squiggle",
+   "Bodysuit": "Silver",
+   "Face": "Scared Purple",
+   "Feet": "Yellow Oldies",
+   "Hands": "Bubblegum",
+   "Head": "Twinkle Crown",
+   "Item 1": "Purple Walkboi",
+   "Item 2": "Rubys Cube",
+   "Outfit": "Brown Suit",
+   "Special": "None"
+  }
+ }
+}

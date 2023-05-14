@@ -1,0 +1,23 @@
+{
+ "number": 45,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1677279664451.webp",
+ "metadata_cid": "bafkreicexjlmgjfu7nfqt74ztxct3g5flqwsche47hnulgeahl3ztvtxhi",
+ "metadata": {
+  "name": "Algonean #0045",
+  "standard": "arc3",
+  "image": "ipfs://bafkreie4aadklww7dkname4rgg4fqohphxij56ryjhwwtqkfwljoxywaoi",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Orange",
+   "Bodysuit": "Worn Out Pistachio",
+   "Face": "Tense Orange",
+   "Feet": "Purple Sneakers",
+   "Hands": "Green",
+   "Head": "Black Helmet",
+   "Item 1": "Green Lightsword",
+   "Item 2": "Red Bucket",
+   "Outfit": "None",
+   "Special": "None"
+  }
+ }
+}

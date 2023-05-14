@@ -1,0 +1,23 @@
+{
+ "number": 110,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676048079716.webp",
+ "metadata_cid": "bafkreibpj2dl3pkhr3q7mvkbwgbhxyfnt6xquommdqms7abzcc73h3r2lq",
+ "metadata": {
+  "name": "Algonean #0110",
+  "standard": "arc3",
+  "image": "ipfs://bafkreic7hy5g4pnyjwsb4rol5c5ohyywv7sld3unwwknapwosflkxjvjby",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Dark",
+   "Bodysuit": "Faded White",
+   "Face": "Distressed Gray",
+   "Feet": "Green Jumpers",
+   "Hands": "Brawler",
+   "Head": "None",
+   "Item 1": "Soda Bottle",
+   "Item 2": "Green Skate",
+   "Outfit": "Purple Beast",
+   "Special": "None"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 52,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676047010645.webp",
+ "metadata_cid": "bafkreifpl4xqdyvmeqjaantculjk7qt5a5kh2qnqchsaozjdjlvqq64l2a",
+ "metadata": {
+  "name": "Algonean #0052",
+  "standard": "arc3",
+  "image": "ipfs://bafkreigyyjiqzdveihchx3hmnrrosmeiyrwe6mj5cg3bqc2fuvfn6di7sq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Oasis",
+   "Bodysuit": "Pistachio",
+   "Face": "Serene Dijon",
+   "Feet": "Blue Slippers",
+   "Hands": "Lavender",
+   "Head": "Vanilla Ice Cream",
+   "Item 1": "Chicken",
+   "Item 2": "None",
+   "Outfit": "None",
+   "Special": "None"
+  }
+ }
+}

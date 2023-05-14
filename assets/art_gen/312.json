@@ -1,0 +1,23 @@
+{
+ "number": 312,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676050304343.webp",
+ "metadata_cid": "bafkreielmhhtc2e2o3fuc2jo2hrk6syyyzph6pngz62lgytyy54phot4pm",
+ "metadata": {
+  "name": "Algonean #0312",
+  "standard": "arc3",
+  "image": "ipfs://bafybeiftnip7gzvxxcc2ejfutvw3t7vkxnibkbqnfpv7k6o3la3ukuajx4",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Blue Dream",
+   "Bodysuit": "Plushy Sky",
+   "Face": "Ecstatic Blue",
+   "Feet": "None",
+   "Hands": "Grayscale",
+   "Head": "Chocolate Ice Cream",
+   "Item 1": "Twinkle Twirl",
+   "Item 2": "Pencil",
+   "Outfit": "Green Retro Hoodie",
+   "Special": "Turtle Carapace"
+  }
+ }
+}

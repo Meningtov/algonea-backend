@@ -1,0 +1,23 @@
+{
+ "number": 900,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676054330087.webp",
+ "metadata_cid": "bafkreidkhfkxxfrkicgtbek7pdf3fgg4fqhjdyqcn2izfsesz77ufshn7a",
+ "metadata": {
+  "name": "Algonean #0900",
+  "standard": "arc3",
+  "image": "ipfs://bafkreig2y2rkg4woktdt5673dvmzjqjlz5lojzjiapjuovp64ngmfdou3m",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Geometry",
+   "Bodysuit": "Ultraviolet",
+   "Face": "High Pink",
+   "Feet": "Red Jumpers",
+   "Hands": "Surgical",
+   "Head": "Black Beanie",
+   "Item 1": "Red Lightsword",
+   "Item 2": "None",
+   "Outfit": "Brownbones Hoodie",
+   "Special": "Green Power Chord Tail"
+  }
+ }
+}

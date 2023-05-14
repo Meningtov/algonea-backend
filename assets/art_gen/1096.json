@@ -1,0 +1,23 @@
+{
+ "number": 1096,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676056042329.webp",
+ "metadata_cid": "bafkreifjlogrj2juaj5shkpz4r6b6nkykd7swdceinhycgg6534e2bfirq",
+ "metadata": {
+  "name": "Algonean #1096",
+  "standard": "arc3",
+  "image": "ipfs://bafkreig5x5os5vrvscxburvhhqmcknr3uegjy42oaui2y3z4oafn2hctwa",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Blueberry",
+   "Bodysuit": "Glossy Red",
+   "Face": "Orange Guardian",
+   "Feet": "Green Cowboy Boots",
+   "Hands": "Purple Hazmat",
+   "Head": "Fighter",
+   "Item 1": "TNT",
+   "Item 2": "Purple Droll",
+   "Outfit": "Ralph",
+   "Special": "None"
+  }
+ }
+}

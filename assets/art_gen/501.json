@@ -1,0 +1,23 @@
+{
+ "number": 501,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676051678883.webp",
+ "metadata_cid": "bafkreie3ig4tujgtwds46ja573ibpujgqex7orvujyhhwf63gslaooovla",
+ "metadata": {
+  "name": "Algonean #0501",
+  "standard": "arc3",
+  "image": "ipfs://bafkreigrlqb4cvniuuryx4e5vckmavlir53663v7gxivj2wjdfyuege3bi",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Sky",
+   "Bodysuit": "Glossy Scarlet",
+   "Face": "Crazy Casey",
+   "Feet": "Orange Jumpers",
+   "Hands": "Bubblegum",
+   "Head": "None",
+   "Item 1": "Knife",
+   "Item 2": "None",
+   "Outfit": "Green Dress",
+   "Special": "Dolby"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 903,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676054344738.webp",
+ "metadata_cid": "bafkreicwhmmdu6dkaprposjsozyi7dwthchz6ze4qazsaso2jajdkz4jby",
+ "metadata": {
+  "name": "Algonean #0903",
+  "standard": "arc3",
+  "image": "ipfs://bafkreibklnuj65xhpdekkttzjaaubvdnogz47ilkel7rvfygmxk75axod4",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Bubblegum",
+   "Bodysuit": "Dreamy Rainbow",
+   "Face": "Green Specter",
+   "Feet": "Yellow Hikers",
+   "Hands": "Bubblegum",
+   "Head": "Gray Cowboy Hat",
+   "Item 1": "Grape Lollipop",
+   "Item 2": "Talk Text",
+   "Outfit": "Red Overall",
+   "Special": "None"
+  }
+ }
+}

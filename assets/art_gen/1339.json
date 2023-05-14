@@ -1,0 +1,23 @@
+{
+ "number": 1339,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057794549.webp",
+ "metadata_cid": "bafkreicsjmte35inap32nldeyzfeuiw2a3w5pj2b42icu32cv2dxtztyye",
+ "metadata": {
+  "name": "Algonean #1339",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiflsjad424uv2u2m3zmgdv3krgcoab642fz6hshjkelxt5arqx5pe",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Mocha",
+   "Bodysuit": "Rose",
+   "Face": "Delighted Gray",
+   "Feet": "Yellow Smileys",
+   "Hands": "Surgical",
+   "Head": "Gray Cowboy Hat",
+   "Item 1": "Purple Walkboi",
+   "Item 2": "Green Droll",
+   "Outfit": "Blue Retro Hoodie",
+   "Special": "Bloby"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 63,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676047440579.webp",
+ "metadata_cid": "bafkreia2womtwghlcecgloduexregzhrwg3e72kc54bi3zyosofqhymqfi",
+ "metadata": {
+  "name": "Algonean #0063",
+  "standard": "arc3",
+  "image": "ipfs://bafybeidyvj73gz27xycrmypsem5jd25e7jggf4mzodmzf2axiwvskid5z4",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Candy",
+   "Bodysuit": "Worn Out Ice",
+   "Face": "Mad Sky",
+   "Feet": "Autoboots",
+   "Hands": "Cartoon",
+   "Head": "Green Bunny",
+   "Item 1": "Yellow Waterpistol",
+   "Item 2": "Red Lunchbox",
+   "Outfit": "Underwear",
+   "Special": "None"
+  }
+ }
+}

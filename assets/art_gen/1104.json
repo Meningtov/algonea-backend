@@ -1,0 +1,23 @@
+{
+ "number": 1104,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676056327576.webp",
+ "metadata_cid": "bafkreiaepzbjpwqaa3zvfzqyrwudyx2r5yr55ejjwmhunyi3ujxonsbjrq",
+ "metadata": {
+  "name": "Algonean #1104",
+  "standard": "arc3",
+  "image": "ipfs://bafkreic3zbcm7agoldnmvgmdinjooyalt2cvlzn7z4moibl3wkh5fhhuem",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Lemon",
+   "Bodysuit": "Fur",
+   "Face": "Confident Melon",
+   "Feet": "Cowboy Boots",
+   "Hands": "Rusty Robot",
+   "Head": "Mint Headband",
+   "Item 1": "Red Firecracker",
+   "Item 2": "Talk Text",
+   "Outfit": "Shodan",
+   "Special": "None"
+  }
+ }
+}

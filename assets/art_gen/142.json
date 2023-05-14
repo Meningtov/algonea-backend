@@ -1,0 +1,23 @@
+{
+ "number": 142,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676048345527.webp",
+ "metadata_cid": "bafkreiaqyqpbqgkfts46sbsffhptuftu4uhrtzpp6wmmzhr4n5zjfdcwpa",
+ "metadata": {
+  "name": "Algonean #0142",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiggtolmh3cy67uvgthz4ouobqtfw2o73ygqhotx4b7qwrf4pz6rje",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "White",
+   "Bodysuit": "Dandelion",
+   "Face": "Sad Pink",
+   "Feet": "Blue Urbans",
+   "Hands": "Red",
+   "Head": "Spartan",
+   "Item 1": "Green Waterpistol",
+   "Item 2": "Talk Text",
+   "Outfit": "Orange Nebula",
+   "Special": "None"
+  }
+ }
+}

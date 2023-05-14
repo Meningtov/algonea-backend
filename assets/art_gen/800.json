@@ -1,0 +1,23 @@
+{
+ "number": 800,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676053441733.webp",
+ "metadata_cid": "bafkreibihx34glb5stjubntg5lv3deaqh57e537nszirbssyohrabhytny",
+ "metadata": {
+  "name": "Algonean #0800",
+  "standard": "arc3",
+  "image": "ipfs://bafkreidlgoc6zecvef4qykqpuf4zw5p6tz4v2kmf7a2nzsrenvgw2lsr6e",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Fresh Lemonade",
+   "Bodysuit": "Glossy Ice",
+   "Face": "Tense Pink",
+   "Feet": "Pink Slippers",
+   "Hands": "Scales",
+   "Head": "Purple Horns",
+   "Item 1": "Purple Boomerang",
+   "Item 2": "Blue Bucket",
+   "Outfit": "Kill Bob",
+   "Special": "None"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 801,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676053447927.webp",
+ "metadata_cid": "bafkreic6opaahjqurvms5m3ql3722rtgib6wl2dtkw4u2kcg6fbnptdhva",
+ "metadata": {
+  "name": "Algonean #0801",
+  "standard": "arc3",
+  "image": "ipfs://bafkreih2u4zmgyg3rf2wlqjlvu4mwacegn7k3uwhamdiiu37k3czf4rppa",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Waka Waka",
+   "Bodysuit": "Glossy Scarlet",
+   "Face": "Sandy Andy",
+   "Feet": "Cowboy Boots",
+   "Hands": "Scales",
+   "Head": "Green Helmet",
+   "Item 1": "Blue Brick Phone",
+   "Item 2": "None",
+   "Outfit": "Mikey",
+   "Special": "None"
+  }
+ }
+}

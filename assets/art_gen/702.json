@@ -1,0 +1,23 @@
+{
+ "number": 702,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676052972863.webp",
+ "metadata_cid": "bafkreicaxpxjtknhhxezio3qoghoucjibh5ompt5zwzo4ybe2wtohcgetq",
+ "metadata": {
+  "name": "Algonean #0702",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiamwo2kx65i4c77uasazfxgsyjmhbhpsot3dldeaa4vzkktwhucy4",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "River",
+   "Bodysuit": "Reptile",
+   "Face": "Robot",
+   "Feet": "Yellow Oldies",
+   "Hands": "Purple Hazmat",
+   "Head": "Green Cap",
+   "Item 1": "Red Lightsword",
+   "Item 2": "Blue Basketball",
+   "Outfit": "Mint Bikini",
+   "Special": "Dino Tail"
+  }
+ }
+}

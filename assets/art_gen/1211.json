@@ -1,0 +1,23 @@
+{
+ "number": 1211,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057138256.webp",
+ "metadata_cid": "bafkreicbbutfuha5hxrdcjvenx2fcxm6fev7kfrwxgopotsovuowwklpwa",
+ "metadata": {
+  "name": "Algonean #1211",
+  "standard": "arc3",
+  "image": "ipfs://bafkreifxktfjtmro2u33tokw2at5pkstjue3pntayfzvdiaih5grdatfnm",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Greenyellow",
+   "Bodysuit": "Dandelion",
+   "Face": "Happy Yellow",
+   "Feet": "Green Neos",
+   "Hands": "Raven",
+   "Head": "Doc",
+   "Item 1": "Drizzle GBoy",
+   "Item 2": "Green Skate",
+   "Outfit": "Underwear",
+   "Special": "None"
+  }
+ }
+}

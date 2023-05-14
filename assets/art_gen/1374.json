@@ -1,0 +1,23 @@
+{
+ "number": 1374,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676058039890.webp",
+ "metadata_cid": "bafkreiet4n2ngp2hmv2eptqdfuxuvy5vbx4r7podyir6le4igdlimis5g4",
+ "metadata": {
+  "name": "Algonean #1374",
+  "standard": "arc3",
+  "image": "ipfs://bafkreifxfnc4yc65qpv4tw52odqlv5nnjzula3ua7mizbyu55txzfyi5ka",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Mocha",
+   "Bodysuit": "Glossy Blueberry",
+   "Face": "Scared Orange",
+   "Feet": "Fur Boots",
+   "Hands": "Purple",
+   "Head": "Blue Bunny",
+   "Item 1": "Hot Dog",
+   "Item 2": "Talk Text",
+   "Outfit": "Gray Nebula",
+   "Special": "None"
+  }
+ }
+}

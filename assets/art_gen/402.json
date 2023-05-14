@@ -1,0 +1,23 @@
+{
+ "number": 402,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676050806295.webp",
+ "metadata_cid": "bafkreigtika7hl5utbc44mu4lgaxr5ay3aygkanxusr3knwxkrt7ftaejm",
+ "metadata": {
+  "name": "Algonean #0402",
+  "standard": "arc3",
+  "image": "ipfs://bafkreih32d2dwjgiflg26iwfwny3kyf7ojbkxqvkf6icygfwvdzg5cxxxq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Green Squiggle",
+   "Bodysuit": "Plushy Amethyst",
+   "Face": "Fed Up Blue",
+   "Feet": "Purple Aeros",
+   "Hands": "Robot",
+   "Head": "None",
+   "Item 1": "Blue Blurby",
+   "Item 2": "Cassette",
+   "Outfit": "Underwear",
+   "Special": "Monkey Tail"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 343,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676050424619.webp",
+ "metadata_cid": "bafkreiclnjsdozvnepjkg2kuccctd4w66suyuwl7zsfohotivuddppzywi",
+ "metadata": {
+  "name": "Algonean #0343",
+  "standard": "arc3",
+  "image": "ipfs://bafkreia5fx5dndkr7thnqx3dz7nmnxr3qkjd65mben5jpkc22nwzvs22aq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Notebook",
+   "Bodysuit": "Glossy Gray",
+   "Face": "Confident Melon",
+   "Feet": "Green Kicks",
+   "Hands": "Sky",
+   "Head": "Brain",
+   "Item 1": "Red Blurby",
+   "Item 2": "Notebook",
+   "Outfit": "Green XOJacket",
+   "Special": "None"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 1255,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057407797.webp",
+ "metadata_cid": "bafkreifdbg5detccbfm6qwdglt5hnmgijsl2kngutuj4xy2bi5rop6q66i",
+ "metadata": {
+  "name": "Algonean #1255",
+  "standard": "arc3",
+  "image": "ipfs://bafkreico4cx5dn4q6mrdukhnwljj3waoiq6feo5whazjsqly5zgqam2pue",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Bubblegum",
+   "Bodysuit": "Faded Mint",
+   "Face": "Cartoony",
+   "Feet": "None",
+   "Hands": "Rust",
+   "Head": "Spartan",
+   "Item 1": "Blue GBoy",
+   "Item 2": "Pizza Slice",
+   "Outfit": "Blue XOJacket",
+   "Special": "None"
+  }
+ }
+}

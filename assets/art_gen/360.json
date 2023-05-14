@@ -1,0 +1,23 @@
+{
+ "number": 360,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676050640968.webp",
+ "metadata_cid": "bafkreifa2czj7i2x6cbvmyisupbas64niuj2utik5z5nlgg4wbctvvjlde",
+ "metadata": {
+  "name": "Algonean #0360",
+  "standard": "arc3",
+  "image": "ipfs://bafkreih573rnv4exh7dbbnoutzvptzcjckzdu67y3tf7xv4pzq3ki5ngfi",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Tangerine",
+   "Bodysuit": "Glossy Denim",
+   "Face": "Tense Pink",
+   "Feet": "Blue Dolls",
+   "Hands": "Dark",
+   "Head": "Dream Antlers",
+   "Item 1": "Shotgun",
+   "Item 2": "Green Bucket",
+   "Outfit": "None",
+   "Special": "Bat Wings"
+  }
+ }
+}

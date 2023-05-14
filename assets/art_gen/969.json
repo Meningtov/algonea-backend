@@ -1,0 +1,23 @@
+{
+ "number": 969,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676054870248.webp",
+ "metadata_cid": "bafkreiad7tavfsnktlhundn2etg2k34bsmoagp3djmrnvgfcztpgmgo2ci",
+ "metadata": {
+  "name": "Algonean #0969",
+  "standard": "arc3",
+  "image": "ipfs://bafkreicglc7jvmbh44gbabjddptl2pfkg5hos25x5ill3zy6o2frn6x4ua",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Lemon",
+   "Bodysuit": "Bronze",
+   "Face": "Tense Pink",
+   "Feet": "Green Flipflops",
+   "Hands": "Rusty Robot",
+   "Head": "Robot",
+   "Item 1": "Blueberry Lollipop",
+   "Item 2": "Gray Boombox",
+   "Outfit": "None",
+   "Special": "Turtle Carapace"
+  }
+ }
+}

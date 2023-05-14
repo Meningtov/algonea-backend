@@ -1,0 +1,23 @@
+{
+ "number": 20,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676046867393.webp",
+ "metadata_cid": "bafkreicjzih64ulwnfr4s5nyowy35w7pds34f4ujbhvok2qmonktxarn7i",
+ "metadata": {
+  "name": "Algonean #0020",
+  "standard": "arc3",
+  "image": "ipfs://bafkreihhqx756zm4zglgj6d4tfmtnghr6xj3zq7sk7ytc7kjxrggb5amqu",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Crystal",
+   "Bodysuit": "Golden Oak",
+   "Face": "Serene Blue",
+   "Feet": "Brown Boots",
+   "Hands": "Dark",
+   "Head": "None",
+   "Item 1": "Purple Soap",
+   "Item 2": "None",
+   "Outfit": "Policeman",
+   "Special": "None"
+  }
+ }
+}

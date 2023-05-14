@@ -1,0 +1,23 @@
+{
+ "number": 1291,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057548109.webp",
+ "metadata_cid": "bafkreieevjdnbop7aq5qro3dalgdpyxyfndbgaisluqcqrnlkljthpxnnq",
+ "metadata": {
+  "name": "Algonean #1291",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiapp3alvui34nk3jyfuwaspq5l5erzz2vacdwgaqyadg3xanmcmve",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Mocha",
+   "Bodysuit": "Glossy Red",
+   "Face": "Sad Pink",
+   "Feet": "Gray Urbans",
+   "Hands": "Yellow Hazmat",
+   "Head": "None",
+   "Item 1": "Green Brick Phone",
+   "Item 2": "None",
+   "Outfit": "Yellow Underwear",
+   "Special": "None"
+  }
+ }
+}

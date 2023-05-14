@@ -1,0 +1,23 @@
+{
+ "number": 1168,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676056845160.webp",
+ "metadata_cid": "bafkreifvggoz56ufruimbyuyjqwki5khlex72w7xefdzmvndshdmb3hwui",
+ "metadata": {
+  "name": "Algonean #1168",
+  "standard": "arc3",
+  "image": "ipfs://bafkreid4shvngfpcwklpcmjqnojwyhysr274g2wsa2ck7b7lod42q2xfye",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Yellow",
+   "Bodysuit": "Plushy Arctic",
+   "Face": "Dull Pink",
+   "Feet": "Green Hightops",
+   "Hands": "Brown Grip",
+   "Head": "Brain",
+   "Item 1": "Green Boomerang",
+   "Item 2": "Rubys Cube",
+   "Outfit": "Red Dress",
+   "Special": "Pink Madcat Tail"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 620,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676052436223.webp",
+ "metadata_cid": "bafkreigyagqiddhoc3qryoeoqab6ioliiigk7pdwkkoxsprg6rjf4dtj4u",
+ "metadata": {
+  "name": "Algonean #0620",
+  "standard": "arc3",
+  "image": "ipfs://bafkreibpiwrppm7prfo6eo352y2ttsvxrrbwfwgwb53y76nfcocrppajp4",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Dijon",
+   "Bodysuit": "Ocean",
+   "Face": "Happy Pink",
+   "Feet": "None",
+   "Hands": "Orchid",
+   "Head": "Brown Sodahat",
+   "Item 1": "Blue GBoy",
+   "Item 2": "Orange Lunchbox",
+   "Outfit": "Purple Undies",
+   "Special": "Monkey Tail"
+  }
+ }
+}

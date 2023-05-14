@@ -1,0 +1,23 @@
+{
+ "number": 644,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676052491579.webp",
+ "metadata_cid": "bafkreid7rqlvt56vtnhrqzaahcl6kah6grozsl3emo24zbxl5cahsv7dki",
+ "metadata": {
+  "name": "Algonean #0644",
+  "standard": "arc3",
+  "image": "ipfs://bafybeiffgmyxp3i53ugz3ntiyndpgdhhka5k2fyo5scbb3en7ka7ectwee",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Twisted Green",
+   "Bodysuit": "Midnight",
+   "Face": "Blissful Pink",
+   "Feet": "Rusty Robots",
+   "Hands": "Violet",
+   "Head": "Hightop",
+   "Item 1": "HELP",
+   "Item 2": "Red Gamepad",
+   "Outfit": "Yellow Wrestler",
+   "Special": "Pink Madcat Tail"
+  }
+ }
+}

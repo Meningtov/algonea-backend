@@ -1,0 +1,23 @@
+{
+ "number": 1314,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057701067.webp",
+ "metadata_cid": "bafkreibrt75xjfbdrrhm74xbeer7ivohph2wyziwunsyvkbdddwwudkrca",
+ "metadata": {
+  "name": "Algonean #1314",
+  "standard": "arc3",
+  "image": "ipfs://bafkreigpcc26dqfbktjxwkqqtiad6dj7vde6zp6fslcvole3nvt6xodo6u",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Seafoam",
+   "Bodysuit": "Glossy Blueberry",
+   "Face": "Serene Dijon",
+   "Feet": "None",
+   "Hands": "Red Hazmat",
+   "Head": "Purple Beanie",
+   "Item 1": "Machete",
+   "Item 2": "Yellow Basketball",
+   "Outfit": "Purple Bunny",
+   "Special": "Silver Wind Up"
+  }
+ }
+}

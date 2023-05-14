@@ -1,0 +1,23 @@
+{
+ "number": 246,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676049130188.webp",
+ "metadata_cid": "bafkreie72jccgxjyxanoogehg4rgzan4rafqdf7vywdugjyasrro4ocngq",
+ "metadata": {
+  "name": "Algonean #0246",
+  "standard": "arc3",
+  "image": "ipfs://bafkreicfr7eyupewnvc7icy2vfbpjfkdxvdbhk2yqedmyhgzxpqy2pu64e",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Bubblegum",
+   "Bodysuit": "Pecan",
+   "Face": "Neutral Green",
+   "Feet": "Cowboy Boots",
+   "Hands": "Mint",
+   "Head": "Green Beanie",
+   "Item 1": "Purple Firecracker",
+   "Item 2": "Money Bag",
+   "Outfit": "Purple Bunny",
+   "Special": "None"
+  }
+ }
+}

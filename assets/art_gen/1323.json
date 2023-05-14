@@ -1,0 +1,23 @@
+{
+ "number": 1323,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057734415.webp",
+ "metadata_cid": "bafkreiei7i2jtxefjgx7nvwsy2zhonjujpjsxwpatebjpmda3ianivocwe",
+ "metadata": {
+  "name": "Algonean #1323",
+  "standard": "arc3",
+  "image": "ipfs://bafkreic55wmxjfpvtx5cbalbto6dbph4g7tpwzwzlbz7lhajvc72iupbye",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Blue Squiggle",
+   "Bodysuit": "Rainbow",
+   "Face": "Tense Orange",
+   "Feet": "None",
+   "Hands": "Purple Biker",
+   "Head": "Orange Beanie",
+   "Item 1": "Purple Lightsword",
+   "Item 2": "Yellow Boombox",
+   "Outfit": "Orange Undies",
+   "Special": "None"
+  }
+ }
+}

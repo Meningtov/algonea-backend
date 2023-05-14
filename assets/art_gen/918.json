@@ -1,0 +1,23 @@
+{
+ "number": 918,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676054544195.webp",
+ "metadata_cid": "bafkreib7y776kczhbgoldeu2uoy7wh7mzjw3qmpakgd4jql6kofchx6ccu",
+ "metadata": {
+  "name": "Algonean #0918",
+  "standard": "arc3",
+  "image": "ipfs://bafkreih55r765stiihwbinz6o4ctgpkbwi7donqy3kbv3n5gbwzppquf2m",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Blue",
+   "Bodysuit": "Candy",
+   "Face": "Pale Skully",
+   "Feet": "Jetstream Runners",
+   "Hands": "Yellow Hazmat",
+   "Head": "Orange Mask",
+   "Item 1": "Blue Walkboi",
+   "Item 2": "None",
+   "Outfit": "Green Jersey",
+   "Special": "Monkey Tail"
+  }
+ }
+}

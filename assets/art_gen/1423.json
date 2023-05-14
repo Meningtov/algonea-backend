@@ -1,0 +1,23 @@
+{
+ "number": 1423,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676058292987.webp",
+ "metadata_cid": "bafkreiebsmgxdwn7zlppb6k34cdjxqaqpce6wwtkec6chibv5vmy4pd72q",
+ "metadata": {
+  "name": "Algonean #1423",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiehencgf3kr5pojd43zjnbmm5eqb7vrnooymf2mwyqxfz2adfkfui",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "White",
+   "Bodysuit": "Toxic Reptile",
+   "Face": "Happy Yellow",
+   "Feet": "Green Rollers",
+   "Hands": "Robot",
+   "Head": "Purple Cap",
+   "Item 1": "Green Potion",
+   "Item 2": "Garfeline",
+   "Outfit": "Blue Beast",
+   "Special": "None"
+  }
+ }
+}

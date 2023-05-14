@@ -1,0 +1,23 @@
+{
+ "number": 1449,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676058402409.webp",
+ "metadata_cid": "bafkreid6gwjeofnobl74g37jjyou7xboh52gdns5gmvxwdhacql53zpvvy",
+ "metadata": {
+  "name": "Algonean #1449",
+  "standard": "arc3",
+  "image": "ipfs://bafkreihfc5fza5lbpgzx5mzbdaf4oati6thgizc67z6wwdp4ofbfbysul4",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Dark",
+   "Bodysuit": "Walnut",
+   "Face": "Green Specter",
+   "Feet": "Red Neos",
+   "Hands": "Bicolor Combat",
+   "Head": "Dark Spartan",
+   "Item 1": "Orange Waterpistol",
+   "Item 2": "Algo Flakes",
+   "Outfit": "Pampers",
+   "Special": "Electric"
+  }
+ }
+}

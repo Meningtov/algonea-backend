@@ -1,0 +1,23 @@
+{
+ "number": 302,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676049786077.webp",
+ "metadata_cid": "bafkreieiyqhcz2c57bhgq6ppe64nhbeuu6brkjlqnef5r44mec3twyqvay",
+ "metadata": {
+  "name": "Algonean #0302",
+  "standard": "arc3",
+  "image": "ipfs://bafkreifegdizqmswqysrx2wkwldpnskf2cm2hvv6vh6zeledsimqxxaatq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Purple Squiggle",
+   "Bodysuit": "Glossy Mint",
+   "Face": "Sad Blue",
+   "Feet": "Brown Boots",
+   "Hands": "Purple",
+   "Head": "Doc",
+   "Item 1": "Purple Firecracker",
+   "Item 2": "Yellow Basketball",
+   "Outfit": "Ravenman",
+   "Special": "None"
+  }
+ }
+}

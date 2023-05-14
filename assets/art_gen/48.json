@@ -1,0 +1,23 @@
+{
+ "number": 48,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676046982181.webp",
+ "metadata_cid": "bafkreic7lpbjm6pg7ifn3qon4gv5ab2ahwlmaknvyjxj4hwpmms6yxvqdy",
+ "metadata": {
+  "name": "Algonean #0048",
+  "standard": "arc3",
+  "image": "ipfs://bafkreigyckureppiz4qphh3uppxf5yxjmcrsaqppajcaezxfu3gpjotwj4",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Notepad",
+   "Bodysuit": "Glossy Scarlet",
+   "Face": "Happy Blue",
+   "Feet": "Green Neos",
+   "Hands": "Tactical Green",
+   "Head": "Orange Visor",
+   "Item 1": "Blue Racket",
+   "Item 2": "Blue Bucket",
+   "Outfit": "Orange Dress",
+   "Special": "Blue Power Chord Tail"
+  }
+ }
+}

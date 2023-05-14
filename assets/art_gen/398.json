@@ -1,0 +1,23 @@
+{
+ "number": 398,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676050789970.webp",
+ "metadata_cid": "bafkreiecfzjr24cfvdvat5v6t525vikzqe32xptvn6vq7vuvk2vd3fw67q",
+ "metadata": {
+  "name": "Algonean #0398",
+  "standard": "arc3",
+  "image": "ipfs://bafkreibnhknqxsgcbq5ckg6hodkgcnq7nwdbemlbfpfnnbwx4feuj7v3n4",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Purple",
+   "Bodysuit": "Ocean",
+   "Face": "Blissful Purple",
+   "Feet": "Green Drifters",
+   "Hands": "Cartoon",
+   "Head": "Purple Cap",
+   "Item 1": "Orange Potion",
+   "Item 2": "Boombox",
+   "Outfit": "Policeman",
+   "Special": "Purple Madcat Tail"
+  }
+ }
+}

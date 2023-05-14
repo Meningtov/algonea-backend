@@ -1,0 +1,23 @@
+{
+ "number": 1473,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676058736813.webp",
+ "metadata_cid": "bafkreigccfqxv66plksljuiinkhd6cp3owjhygy54gbdgiijejlhpzjh2a",
+ "metadata": {
+  "name": "Algonean #1473",
+  "standard": "arc3",
+  "image": "ipfs://bafkreido5dwejq3grbdxm3kkgjav3rtgdd65mzj2pzbhvapu6d5i5yvfei",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Mocha",
+   "Bodysuit": "Bluewood",
+   "Face": "Joyful Bubblegum",
+   "Feet": "Whites",
+   "Hands": "Graphite",
+   "Head": "Blue Gumball",
+   "Item 1": "Corn Dog",
+   "Item 2": "Green Paddleball",
+   "Outfit": "Blue Bikini",
+   "Special": "None"
+  }
+ }
+}

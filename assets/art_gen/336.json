@@ -1,0 +1,23 @@
+{
+ "number": 336,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676050395115.webp",
+ "metadata_cid": "bafkreibktewgcjwgmxfld45ft5cbbbyuivlyhe24xn462tl2ydyphbgyoa",
+ "metadata": {
+  "name": "Algonean #0336",
+  "standard": "arc3",
+  "image": "ipfs://bafkreicov62ohk4a3765i67hktqbi2ob36jpwucohzlbr5ris7sb56kbiy",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Blue",
+   "Bodysuit": "Glossy Mint",
+   "Face": "Scared Purple",
+   "Feet": "Red Hightops",
+   "Hands": "Purple Grip",
+   "Head": "Pink Goggles",
+   "Item 1": "Blueberry Lollipop",
+   "Item 2": "Algo Flakes",
+   "Outfit": "Gray Nebula",
+   "Special": "None"
+  }
+ }
+}

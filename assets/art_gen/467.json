@@ -1,0 +1,23 @@
+{
+ "number": 467,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676051251873.webp",
+ "metadata_cid": "bafkreigb2575hwvkon6cscqzxgjsvluis5kxbgnisjkeob7wytbij6xzba",
+ "metadata": {
+  "name": "Algonean #0467",
+  "standard": "arc3",
+  "image": "ipfs://bafybeientnajhqnpawnse63bw6brzjcup6ngx7tbofi2tqvyolustrj2me",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Candy",
+   "Bodysuit": "Glossy Scarlet",
+   "Face": "Red Alien",
+   "Feet": "Blue Claws",
+   "Hands": "Brawler",
+   "Head": "Fighter",
+   "Item 1": "Blue Racket",
+   "Item 2": "Red Paddleball",
+   "Outfit": "None",
+   "Special": "Green Power Chord Tail"
+  }
+ }
+}

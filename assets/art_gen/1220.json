@@ -1,0 +1,23 @@
+{
+ "number": 1220,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057168043.webp",
+ "metadata_cid": "bafkreihsqtzngbyogdqrcxwjmh5cwdtyinmbq44goqwwwvhduycu5ndpfq",
+ "metadata": {
+  "name": "Algonean #1220",
+  "standard": "arc3",
+  "image": "ipfs://bafkreibbkfv5uqzdqugnjcwjw5bjnlyvvudglox2z4acyi6r6x4a5z25xe",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Tangerine",
+   "Bodysuit": "Lemon",
+   "Face": "Delighted Yellow",
+   "Feet": "Green Hightops",
+   "Hands": "Rainbow Grip",
+   "Head": "Player 1",
+   "Item 1": "Grape Lollipop",
+   "Item 2": "Green Lunchbox",
+   "Outfit": "Green Tutu",
+   "Special": "None"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 784,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676053377779.webp",
+ "metadata_cid": "bafkreif24hflgxliv2cgywwkrvimbbanvxyepmakd3su6khozz36zvoguq",
+ "metadata": {
+  "name": "Algonean #0784",
+  "standard": "arc3",
+  "image": "ipfs://bafkreibyw23ydz5be6rluhsjeybyv24iuk5gz5g5hikqb6x3ady3j3u6fa",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Mocha",
+   "Bodysuit": "Dandelion",
+   "Face": "High Yellow",
+   "Feet": "Yellow Tigers",
+   "Hands": "Tactical Green",
+   "Head": "Blue Goggles",
+   "Item 1": "Soda Bottle",
+   "Item 2": "None",
+   "Outfit": "Blue Bikini",
+   "Special": "None"
+  }
+ }
+}

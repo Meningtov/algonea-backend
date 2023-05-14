@@ -1,0 +1,23 @@
+{
+ "number": 960,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676054829375.webp",
+ "metadata_cid": "bafkreiasiqswbrcyegafsadjq45ilmc4ekppzxnzeikjz4b2xatgl2535a",
+ "metadata": {
+  "name": "Algonean #0960",
+  "standard": "arc3",
+  "image": "ipfs://bafybeifcrnbccznkrpkbl5s67xucaacz6kjvo4n6r7z4uyaqmb7wh7kr7e",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Twisted Green",
+   "Bodysuit": "Cactus",
+   "Face": "Evil Purple",
+   "Feet": "Runners",
+   "Hands": "Purple Grip",
+   "Head": "Fighter",
+   "Item 1": "Orange Guitar",
+   "Item 2": "Pizza Box",
+   "Outfit": "Blue Hoodie",
+   "Special": "Black Cape"
+  }
+ }
+}

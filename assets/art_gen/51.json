@@ -1,0 +1,23 @@
+{
+ "number": 51,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676047004086.webp",
+ "metadata_cid": "bafkreiep3i6lqiy5jadjwwzlqyzg3ezz6lzvwgzj7dgnripyev4vj3tgpa",
+ "metadata": {
+  "name": "Algonean #0051",
+  "standard": "arc3",
+  "image": "ipfs://bafkreifnl4jruf7gv336zm65eiwmpak7ysxfeazdjwwpzfjnoez3kee7zy",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Red Sketch",
+   "Bodysuit": "Glossy Orange",
+   "Face": "Ecstatic Moss",
+   "Feet": "Gray Tigers",
+   "Hands": "Raven",
+   "Head": "Blue Cap",
+   "Item 1": "Pink Brick Phone",
+   "Item 2": "Green Skate",
+   "Outfit": "Blue Idol",
+   "Special": "None"
+  }
+ }
+}

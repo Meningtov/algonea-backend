@@ -1,0 +1,23 @@
+{
+ "number": 1103,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676056322412.webp",
+ "metadata_cid": "bafkreicgspfoud72hky7p2lkuawhstrqtvatbn5lquq4xbc2pkdqe3zpva",
+ "metadata": {
+  "name": "Algonean #1103",
+  "standard": "arc3",
+  "image": "ipfs://bafybeiecub7eyeb4cx65v3cbsfcvztseogstztv67dc4fz2pliyngkemk4",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Candy",
+   "Bodysuit": "Rusty Robot",
+   "Face": "Green Specter",
+   "Feet": "None",
+   "Hands": "Green",
+   "Head": "Blue Bunny",
+   "Item 1": "Blue Boomerang",
+   "Item 2": "Blue Gamepad",
+   "Outfit": "Pink Tutu",
+   "Special": "None"
+  }
+ }
+}

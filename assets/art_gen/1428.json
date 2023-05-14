@@ -1,0 +1,23 @@
+{
+ "number": 1428,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676058313698.webp",
+ "metadata_cid": "bafkreif3mmxixfy45o4umc5uhick73cxcbmjfy6zl3fpr4htvzu7bhhxeu",
+ "metadata": {
+  "name": "Algonean #1428",
+  "standard": "arc3",
+  "image": "ipfs://bafkreigcqjaf2ecqcbjjrnm4vyfvgvsq7mhpghae5knh6k2u6qr7cgs4re",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Dark",
+   "Bodysuit": "Bronze",
+   "Face": "Angry Blue",
+   "Feet": "None",
+   "Hands": "Spideys",
+   "Head": "Brown Helmet",
+   "Item 1": "Orange Waterpistol",
+   "Item 2": "Green Gamepad",
+   "Outfit": "None",
+   "Special": "None"
+  }
+ }
+}

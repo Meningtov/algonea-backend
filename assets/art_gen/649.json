@@ -1,0 +1,23 @@
+{
+ "number": 649,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676052509187.webp",
+ "metadata_cid": "bafkreibqoa7gkd6izni6vrr7mnqiyjsfck4xbudzby5qqmvqwktfucrnve",
+ "metadata": {
+  "name": "Algonean #0649",
+  "standard": "arc3",
+  "image": "ipfs://bafkreia3sc6qfwx7wovfikjjv2b37e4tavwwx4g5jcchiwy6cmbdo5fx7e",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Dark",
+   "Bodysuit": "Glossy Brown",
+   "Face": "Sad Orange",
+   "Feet": "Bumblebees",
+   "Hands": "Scales",
+   "Head": "Blue Bunny",
+   "Item 1": "Beetle",
+   "Item 2": "Brown Skate",
+   "Outfit": "Red Idol",
+   "Special": "None"
+  }
+ }
+}

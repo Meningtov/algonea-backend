@@ -1,0 +1,23 @@
+{
+ "number": 1384,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676058074219.webp",
+ "metadata_cid": "bafkreicjl5lzgkiutb56j7mtmunp3uvtgitzlcm5ib2bngrc6ycq3ojz4m",
+ "metadata": {
+  "name": "Algonean #1384",
+  "standard": "arc3",
+  "image": "ipfs://bafkreigwollcn6xkpovesst77nwtx7uc2m2vrkwfwbe6vz5pndaudgqdvu",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Pink",
+   "Bodysuit": "Flint",
+   "Face": "Tense Cherry",
+   "Feet": "None",
+   "Hands": "Purple",
+   "Head": "Purple Horns",
+   "Item 1": "Orange GBoy",
+   "Item 2": "Red Skate",
+   "Outfit": "Pink Ravenman",
+   "Special": "Turtle Carapace"
+  }
+ }
+}

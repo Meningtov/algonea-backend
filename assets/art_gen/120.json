@@ -1,0 +1,23 @@
+{
+ "number": 120,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676048104207.webp",
+ "metadata_cid": "bafkreibqo435epxu4wxou7gxucxzicixxxv3us523jukubqgdsuxlq5bbm",
+ "metadata": {
+  "name": "Algonean #0120",
+  "standard": "arc3",
+  "image": "ipfs://bafkreidbr27nhyywt7vwjiwqtawokumqe75qy3so4qmfdqndl6chp4w3gu",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Red",
+   "Bodysuit": "Glossy Blueberry",
+   "Face": "High Pink",
+   "Feet": "None",
+   "Hands": "Sky",
+   "Head": "Robot",
+   "Item 1": "Chocolate Lolly",
+   "Item 2": "Rat",
+   "Outfit": "Green Vibe",
+   "Special": "None"
+  }
+ }
+}

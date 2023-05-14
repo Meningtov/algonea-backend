@@ -1,0 +1,23 @@
+{
+ "number": 304,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676049795297.webp",
+ "metadata_cid": "bafkreid6u2vmdslvl7ebx2qsp2qr2qa7hkmvtjebxl374u2jnkrsqw6dry",
+ "metadata": {
+  "name": "Algonean #0304",
+  "standard": "arc3",
+  "image": "ipfs://bafkreigr25mw3bezaekioyikygfwrqz4ojcgb47fvuymodi4llahwajduq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Oasis",
+   "Bodysuit": "Glossy Brown",
+   "Face": "Serene Green",
+   "Feet": "None",
+   "Hands": "Robot",
+   "Head": "Green Shades",
+   "Item 1": "Brown Racket",
+   "Item 2": "Green Paddleball",
+   "Outfit": "Green Overall",
+   "Special": "None"
+  }
+ }
+}

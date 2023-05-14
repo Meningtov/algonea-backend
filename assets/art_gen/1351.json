@@ -1,0 +1,23 @@
+{
+ "number": 1351,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057953974.webp",
+ "metadata_cid": "bafkreig4wkgr35tddiyrlcfalaxq6c7hipzzinyuh5tzn4oaxkhhyljue4",
+ "metadata": {
+  "name": "Algonean #1351",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiew5iqghkdtqv4aw4xqvdrha2gmivan265lxfgb4eqjngb25kwrne",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Mocha",
+   "Bodysuit": "Sand",
+   "Face": "Voltage",
+   "Feet": "Green Slippers",
+   "Hands": "White",
+   "Head": "Twinkle Crown",
+   "Item 1": "Red Blurby",
+   "Item 2": "Green Paddleball",
+   "Outfit": "Red Dress",
+   "Special": "Bloby"
+  }
+ }
+}

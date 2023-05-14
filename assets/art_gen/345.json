@@ -1,0 +1,23 @@
+{
+ "number": 345,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676050433756.webp",
+ "metadata_cid": "bafkreih3oznc7ypo4ewwvst6xsuhk7npcw64bzyhe2fjcteqmj7y2m4a7i",
+ "metadata": {
+  "name": "Algonean #0345",
+  "standard": "arc3",
+  "image": "ipfs://bafkreigoe5qzv7crdaomdub56ezx46bvmoodbk3nqay7yq47fincfe5nva",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Blue Doodle",
+   "Bodysuit": "Bluewood",
+   "Face": "Mad Purple",
+   "Feet": "Pink Kicks",
+   "Hands": "Batboys",
+   "Head": "Brown Beret",
+   "Item 1": "Sky GBoy",
+   "Item 2": "Boombox",
+   "Outfit": "None",
+   "Special": "None"
+  }
+ }
+}

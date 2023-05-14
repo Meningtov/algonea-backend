@@ -1,0 +1,23 @@
+{
+ "number": 1242,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057249266.webp",
+ "metadata_cid": "bafkreiewbvnipcuu3sgfc3ucm63u7dpagd5efrqwxn77tspvqcb773m7cm",
+ "metadata": {
+  "name": "Algonean #1242",
+  "standard": "arc3",
+  "image": "ipfs://bafkreigmezo2gvupqmh5bitybnvij2sgk2ahbvgehtz4dodxdfpip2rzm4",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Blue Squiggle",
+   "Bodysuit": "Rundown Lavender",
+   "Face": "Confident Mint",
+   "Feet": "None",
+   "Hands": "Bubblegum",
+   "Head": "Blue Cowboy Hat",
+   "Item 1": "Red Firecracker",
+   "Item 2": "Purple Pennyboard",
+   "Outfit": "Purple Bunny",
+   "Special": "Blue Power Chord Tail"
+  }
+ }
+}

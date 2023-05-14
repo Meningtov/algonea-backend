@@ -1,0 +1,23 @@
+{
+ "number": 280,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676049693224.webp",
+ "metadata_cid": "bafkreidtio7wmzg5amy4g543d3tb7dh4jsdtmfsybc2yhwvmkcfpbdr36q",
+ "metadata": {
+  "name": "Algonean #0280",
+  "standard": "arc3",
+  "image": "ipfs://bafkreib7bhe4pbbnkjkecbpak6pru6mkwtebsb3kebczqzgqykwwjsc42m",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "River",
+   "Bodysuit": "Bronze",
+   "Face": "Glad Yellow",
+   "Feet": "Red Sneakers",
+   "Hands": "Graphite",
+   "Head": "None",
+   "Item 1": "Chicken",
+   "Item 2": "Blue Lunchbox",
+   "Outfit": "None",
+   "Special": "None"
+  }
+ }
+}

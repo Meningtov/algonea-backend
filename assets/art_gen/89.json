@@ -1,0 +1,23 @@
+{
+ "number": 89,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676047590634.webp",
+ "metadata_cid": "bafkreid3ulthsrvkedmcpm5crfi6danwgy5n7zkpm5x64nontx6fbplmkq",
+ "metadata": {
+  "name": "Algonean #0089",
+  "standard": "arc3",
+  "image": "ipfs://bafkreigzdyvu4zxjomyamymmyeanaaronaywfutntnks6dvnhzgdcep4dy",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "River",
+   "Bodysuit": "Moss",
+   "Face": "Happy Yellow",
+   "Feet": "None",
+   "Hands": "Radioactive",
+   "Head": "Blue Mask",
+   "Item 1": "Pink Soap",
+   "Item 2": "Green Paddleball",
+   "Outfit": "Mikey",
+   "Special": "Pink Madcat Tail"
+  }
+ }
+}

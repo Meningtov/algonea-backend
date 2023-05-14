@@ -1,0 +1,23 @@
+{
+ "number": 1283,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057515107.webp",
+ "metadata_cid": "bafkreihpxmwqupeihkentmgympbbrrcjxj45a7fopjg6fs6ebt365njihq",
+ "metadata": {
+  "name": "Algonean #1283",
+  "standard": "arc3",
+  "image": "ipfs://bafkreihqhteyalfiocoxpjyvd2xn75kwbyf3ew574p3brtlps5h7tnsyji",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "River",
+   "Bodysuit": "Glossy Mint",
+   "Face": "Scared Orange",
+   "Feet": "Dirty Socks",
+   "Hands": "Scales",
+   "Head": "Ice Twinkle Crown",
+   "Item 1": "Green Potion",
+   "Item 2": "Green Bucket",
+   "Outfit": "Red Wrestler",
+   "Special": "Bat Wings"
+  }
+ }
+}

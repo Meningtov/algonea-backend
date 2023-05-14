@@ -1,0 +1,23 @@
+{
+ "number": 510,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676051699077.webp",
+ "metadata_cid": "bafkreiclqyvip7v7mgfgpnnv5bzacmjhmwmyesftqbby3j3ysmlxjuzqqq",
+ "metadata": {
+  "name": "Algonean #0510",
+  "standard": "arc3",
+  "image": "ipfs://bafkreieao7e7idx6rwogltjigugsvobjdccm6yn3i6pvj4dt2dvwbpmgfm",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Green Sketch",
+   "Bodysuit": "Cactus",
+   "Face": "Happy Green",
+   "Feet": "Mint Claws",
+   "Hands": "Tactical Blue",
+   "Head": "Blue Helmet",
+   "Item 1": "Pink Racket",
+   "Item 2": "Green Lunchbox",
+   "Outfit": "Green Jersey",
+   "Special": "None"
+  }
+ }
+}

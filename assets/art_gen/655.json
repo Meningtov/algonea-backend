@@ -1,0 +1,23 @@
+{
+ "number": 655,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676052705033.webp",
+ "metadata_cid": "bafkreiacahn7gsyqzreqoentpuaemaioxhpoyiwcxiby35o2jhodd4px3q",
+ "metadata": {
+  "name": "Algonean #0655",
+  "standard": "arc3",
+  "image": "ipfs://bafkreicp24gwrnusxm5vvp5xjuojvgchecvvb2bqwbxgaa3ylj2ev2pu6q",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Blue",
+   "Bodysuit": "Cactus",
+   "Face": "Pink Alien",
+   "Feet": "Blue Slippers",
+   "Hands": "Raven",
+   "Head": "Twinkle Crown",
+   "Item 1": "Blue Boomerang",
+   "Item 2": "Blue Bucket",
+   "Outfit": "Pink Ravenman",
+   "Special": "Green Power Chord Tail"
+  }
+ }
+}

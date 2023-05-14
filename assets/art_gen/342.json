@@ -1,0 +1,23 @@
+{
+ "number": 342,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676050419475.webp",
+ "metadata_cid": "bafkreialbjickm7z3t7xgf7rw25c6hf4et5v5eroadnv2atxple5mk3q6i",
+ "metadata": {
+  "name": "Algonean #0342",
+  "standard": "arc3",
+  "image": "ipfs://bafkreidf4k6ugggapa2ghxv6d4thbnaiy2nokd2xzwrvrnbpryhrzitqve",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Tangerine",
+   "Bodysuit": "Faded Pink",
+   "Face": "Paranoid",
+   "Feet": "Gray Boots",
+   "Hands": "Purple Hazmat",
+   "Head": "Gray Cowboy Hat",
+   "Item 1": "Knife",
+   "Item 2": "Yellow Basketball",
+   "Outfit": "Blue Suit",
+   "Special": "None"
+  }
+ }
+}

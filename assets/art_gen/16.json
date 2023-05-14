@@ -1,0 +1,23 @@
+{
+ "number": 16,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676046853643.webp",
+ "metadata_cid": "bafkreidlwb4nw3okesbyid4cw4nsiovbm24kxcykvr4jaxaugm27aa3zwy",
+ "metadata": {
+  "name": "Algonean #0016",
+  "standard": "arc3",
+  "image": "ipfs://bafybeicus3lxjfv2v2pv5pn4cfz5idtvf3ppi4tk7aqbjrlznslxsvdsge",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Mint",
+   "Bodysuit": "Glossy Jade",
+   "Face": "Fed Up Blue",
+   "Feet": "Yellow Hikers",
+   "Hands": "Gold",
+   "Head": "Mohawk",
+   "Item 1": "Cherry Lollipop",
+   "Item 2": "Green Paddleball",
+   "Outfit": "Blackbones Hoodie",
+   "Special": "None"
+  }
+ }
+}

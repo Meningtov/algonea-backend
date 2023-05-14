@@ -1,0 +1,23 @@
+{
+ "number": 321,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676050337362.webp",
+ "metadata_cid": "bafkreifo6rqk7e6zg4gibydq76unrkmeyz7xpxkctugsiluw3c43n4v4aa",
+ "metadata": {
+  "name": "Algonean #0321",
+  "standard": "arc3",
+  "image": "ipfs://bafybeiazqf2ckgcy57zddkxdie7j47utz544s7sgba6w6enlkqmme5xmpq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Twisted Red",
+   "Bodysuit": "Worn Out Pink",
+   "Face": "Ecstatic Blue",
+   "Feet": "White Drifters",
+   "Hands": "Surgical",
+   "Head": "None",
+   "Item 1": "Twinkle Twirl",
+   "Item 2": "Green Bucket",
+   "Outfit": "Orange Hoodie",
+   "Special": "None"
+  }
+ }
+}

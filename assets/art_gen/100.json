@@ -1,0 +1,23 @@
+{
+ "number": 100,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676048053479.webp",
+ "metadata_cid": "bafkreieijx5tdntsuh5uad5h2bxaqhdfbudo4zk3nuofmcetqpmzfynezu",
+ "metadata": {
+  "name": "Algonean #0100",
+  "standard": "arc3",
+  "image": "ipfs://bafkreigcm5nqci56kgyqagki6h36f3cophne6tdidoboohvqmfg47wz6iy",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Green Doodle",
+   "Bodysuit": "Gold",
+   "Face": "Sandy Andy",
+   "Feet": "Aquas",
+   "Hands": "White",
+   "Head": "Blue Cap",
+   "Item 1": "Purple Lightsword",
+   "Item 2": "Red Skate",
+   "Outfit": "Blue Dress",
+   "Special": "None"
+  }
+ }
+}

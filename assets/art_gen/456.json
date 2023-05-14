@@ -1,0 +1,23 @@
+{
+ "number": 456,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676051169905.webp",
+ "metadata_cid": "bafkreib5gurgy46dzngh2gcgirr7idqpuxf5ilpvny7n7wyhljlqnsnqbi",
+ "metadata": {
+  "name": "Algonean #0456",
+  "standard": "arc3",
+  "image": "ipfs://bafybeidavwvhd45fnejvx3fkzv6uffqzui3vghxwzijz3nyz3xtclhju5m",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Twisted Gray",
+   "Bodysuit": "Fur",
+   "Face": "Distressed Melon",
+   "Feet": "None",
+   "Hands": "Rainbow Grip",
+   "Head": "Brown Sodahat",
+   "Item 1": "Purple Soap",
+   "Item 2": "None",
+   "Outfit": "Pink Bikini",
+   "Special": "None"
+  }
+ }
+}

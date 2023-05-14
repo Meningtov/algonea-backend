@@ -1,0 +1,23 @@
+{
+ "number": 970,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676054874246.webp",
+ "metadata_cid": "bafkreiea22de74w22bogw4pni5wjmnnije5jvhkrhzgrlcyde4fl7d35g4",
+ "metadata": {
+  "name": "Algonean #0970",
+  "standard": "arc3",
+  "image": "ipfs://bafkreihxkgefy7nx2auss7wdxjkeqgrcpb7hbrtg7vm73igf4bgf7qubra",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Sky",
+   "Bodysuit": "Glossy Ice",
+   "Face": "Dull Green",
+   "Feet": "Mint Claws",
+   "Hands": "Orchid",
+   "Head": "Blue Mask",
+   "Item 1": "Soda Bottle",
+   "Item 2": "Purple Pennyboard",
+   "Outfit": "None",
+   "Special": "Skunk Tail"
+  }
+ }
+}

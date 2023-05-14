@@ -1,0 +1,23 @@
+{
+ "number": 111,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676048081343.webp",
+ "metadata_cid": "bafkreifebgcf7apo4x6g4fqab6wtisv56dbgc2snukcfvukm6dtkukxwqm",
+ "metadata": {
+  "name": "Algonean #0111",
+  "standard": "arc3",
+  "image": "ipfs://bafkreid64lgzxuczoywxd4u37ymbowhkvdlbd3oqnxuen2xlazw4ia2n6a",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Blue Sketch",
+   "Bodysuit": "Cactus",
+   "Face": "Cartoony",
+   "Feet": "None",
+   "Hands": "Spideys",
+   "Head": "Purple Horns",
+   "Item 1": "Green Blurby",
+   "Item 2": "Pink Paddleball",
+   "Outfit": "None",
+   "Special": "Lucky Tail"
+  }
+ }
+}

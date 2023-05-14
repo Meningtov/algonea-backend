@@ -1,0 +1,23 @@
+{
+ "number": 1120,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676056387191.webp",
+ "metadata_cid": "bafkreialt2cc7wmej4dxixuexcuxlgrr65fybomu337at7nmtnk7ztmbw4",
+ "metadata": {
+  "name": "Algonean #1120",
+  "standard": "arc3",
+  "image": "ipfs://bafkreichh3jx6pfuy47hdwebnpj7ekyov2xq73vqsnuadmmhfbwmirhyku",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Yellow",
+   "Bodysuit": "Dandelion",
+   "Face": "Blissful Pink",
+   "Feet": "Jetstream Runners",
+   "Hands": "Obsidian",
+   "Head": "Blue Cap",
+   "Item 1": "Red Shovel",
+   "Item 2": "Garfeline",
+   "Outfit": "Purple Bunny",
+   "Special": "None"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 470,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676051318399.webp",
+ "metadata_cid": "bafkreibdvyc2ye5k352lzfjkpvn2pdspur7euvxplatwx73vyodqwdqgum",
+ "metadata": {
+  "name": "Algonean #0470",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiespeh23sg6ttdwr6hjt26gbjojf5v4eli6i4zxyq7kl4ukci6nwy",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Green Squiggle",
+   "Bodysuit": "Pistachio",
+   "Face": "Joyful Mint",
+   "Feet": "Red Sneakers",
+   "Hands": "White",
+   "Head": "Red Sodahat",
+   "Item 1": "Green Boomerang",
+   "Item 2": "Gray Gamepad",
+   "Outfit": "Brown Overall",
+   "Special": "None"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 419,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676050953107.webp",
+ "metadata_cid": "bafkreifsitjjezxwdt7gausdwvturjzqsmmtkpgsqxus3pvqjlptgaktoq",
+ "metadata": {
+  "name": "Algonean #0419",
+  "standard": "arc3",
+  "image": "ipfs://bafkreigu54c5hzmjk4ojoqy3ti5xq4rquf3cack2sgxifk7kxoxe7xvonm",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Greenyellow",
+   "Bodysuit": "Cactus",
+   "Face": "Blissful Blue",
+   "Feet": "Fur Boots",
+   "Hands": "Rusty Robot",
+   "Head": "Green Shades",
+   "Item 1": "Purple Firecracker",
+   "Item 2": "Red Gamepad",
+   "Outfit": "Green Dress",
+   "Special": "Green Power Chord Tail"
+  }
+ }
+}

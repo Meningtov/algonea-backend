@@ -1,0 +1,23 @@
+{
+ "number": 483,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676051426747.webp",
+ "metadata_cid": "bafkreidwlifdzzils5wcchdax7byesw4o3pizeensbpxwv6v4kkinwyqdi",
+ "metadata": {
+  "name": "Algonean #0483",
+  "standard": "arc3",
+  "image": "ipfs://bafkreid3e5ahicaobdxmcy4vfqzvehlyocruvl5en3lyzfmjihvc5mf6w4",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Dijon",
+   "Bodysuit": "Reptile",
+   "Face": "Distressed Melon",
+   "Feet": "Green Jumpers",
+   "Hands": "Greenscale",
+   "Head": "Red Mask",
+   "Item 1": "Blue Boomerang",
+   "Item 2": "Purple Droll",
+   "Outfit": "Green Tutu",
+   "Special": "None"
+  }
+ }
+}

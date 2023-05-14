@@ -1,0 +1,23 @@
+{
+ "number": 320,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676050334481.webp",
+ "metadata_cid": "bafkreieqbnu3xkrdxv3wmhtr56cbdjofd4opqj6oxajipnibuakwxve4ki",
+ "metadata": {
+  "name": "Algonean #0320",
+  "standard": "arc3",
+  "image": "ipfs://bafkreictc2lx2vsriupfaiixk5lbfosbvwisqkpow6lbu5xmpyiq52bgni",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Geometry",
+   "Bodysuit": "Cactus",
+   "Face": "Fed Up Mint",
+   "Feet": "Robots",
+   "Hands": "Leather",
+   "Head": "Orange Gumball",
+   "Item 1": "Hot Dog",
+   "Item 2": "Blue Paddleball",
+   "Outfit": "Gray Ravenman",
+   "Special": "None"
+  }
+ }
+}

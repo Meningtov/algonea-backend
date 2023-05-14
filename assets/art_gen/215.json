@@ -1,0 +1,23 @@
+{
+ "number": 215,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676048967476.webp",
+ "metadata_cid": "bafkreigsf7inev6s4xhxzsi72pyyxdyvakfixns7eaamjkvlwfz3lls7yu",
+ "metadata": {
+  "name": "Algonean #0215",
+  "standard": "arc3",
+  "image": "ipfs://bafkreifr3enxuon5obzqm6uxflytuoiufranwgiyf76qrgshe4bsbbyt3m",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Red Sketch",
+   "Bodysuit": "Glossy Watermelon",
+   "Face": "Smurfy Murfy",
+   "Feet": "Red Neos",
+   "Hands": "Lavender",
+   "Head": "Ginger",
+   "Item 1": "Red Firecracker",
+   "Item 2": "Rat",
+   "Outfit": "Blue EVA",
+   "Special": "Turtle Carapace"
+  }
+ }
+}

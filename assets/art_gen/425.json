@@ -1,0 +1,23 @@
+{
+ "number": 425,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676050973262.webp",
+ "metadata_cid": "bafkreifcrmthvtlp2swsyd5b5c5zb2hp7wveoe2r5xszwn2nqftye2j2pe",
+ "metadata": {
+  "name": "Algonean #0425",
+  "standard": "arc3",
+  "image": "ipfs://bafkreifih66l36a52cs75wkqtppq4gr75h5rwbmfzhl735cydy5awlpdla",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Tropical Mango",
+   "Bodysuit": "Robot",
+   "Face": "Red Specter",
+   "Feet": "Blue Hikers",
+   "Hands": "Purple Grip",
+   "Head": "Pink Bunny",
+   "Item 1": "Bloody Knife",
+   "Item 2": "Gray Boombox",
+   "Outfit": "None",
+   "Special": "None"
+  }
+ }
+}

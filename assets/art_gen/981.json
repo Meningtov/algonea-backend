@@ -1,0 +1,23 @@
+{
+ "number": 981,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676390705831.webp",
+ "metadata_cid": "bafkreiawcv4vpzthewb3psmxs4uswysmgklu4rfu2scj445dnavzvnjede",
+ "metadata": {
+  "name": "Algonean #0981",
+  "standard": "arc3",
+  "image": "ipfs://bafkreidj56sqgkpiia2ssf45fg4jz3dyjxvyyphwgp2b66xp3vkjcsb6iq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Matrix",
+   "Bodysuit": "Mint",
+   "Face": "Trippy",
+   "Feet": "Purple Skullies",
+   "Hands": "Blue Grip",
+   "Head": "Purple Horns",
+   "Item 1": "Yellow Blurby",
+   "Item 2": "Algo Flakes",
+   "Outfit": "Bad Dude",
+   "Special": "Turtle Carapace"
+  }
+ }
+}

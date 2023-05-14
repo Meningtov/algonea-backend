@@ -1,0 +1,23 @@
+{
+ "number": 1109,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676056345998.webp",
+ "metadata_cid": "bafkreifmbstusgol2vhrr2pwjnwrmxmihjf7rzlp6s2cqas2rltc6zetb4",
+ "metadata": {
+  "name": "Algonean #1109",
+  "standard": "arc3",
+  "image": "ipfs://bafybeiehczq7jxokwpbjipiy7sforkro6ddh73wtycrswfvepkm3wrc5hm",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Honeycomb",
+   "Bodysuit": "Glossy Gray",
+   "Face": "Scared Orange",
+   "Feet": "Yellow Claws",
+   "Hands": "Yellow Hazmat",
+   "Head": "Blue Bunny",
+   "Item 1": "None",
+   "Item 2": "Blue Droll",
+   "Outfit": "Green Undies",
+   "Special": "None"
+  }
+ }
+}

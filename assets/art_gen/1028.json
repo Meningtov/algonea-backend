@@ -1,0 +1,23 @@
+{
+ "number": 1028,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676055537421.webp",
+ "metadata_cid": "bafkreicmkud6hs2vi6umdrnrggcj73hwmhcui77g4fweg6b7ebqbu4i7zu",
+ "metadata": {
+  "name": "Algonean #1028",
+  "standard": "arc3",
+  "image": "ipfs://bafkreigoxpjpt3akb5o4jjy6inej6dtmrm3dr52qt4exjvhoprdqxf5ece",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Tangerine",
+   "Bodysuit": "Plushy Pear",
+   "Face": "Orange Guardian",
+   "Feet": "Pink Sneakers",
+   "Hands": "Rust",
+   "Head": "Brown Helmet",
+   "Item 1": "Hot Dog",
+   "Item 2": "None",
+   "Outfit": "Thunder Armor",
+   "Special": "None"
+  }
+ }
+}

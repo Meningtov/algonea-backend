@@ -1,0 +1,23 @@
+{
+ "number": 1050,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676055852161.webp",
+ "metadata_cid": "bafkreidmnu45buryvy4d7dcsueqmpcawi563hum55s6dph5dcqphrfirne",
+ "metadata": {
+  "name": "Algonean #1050",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiatrsnbosb7tz7y5btkwzdxaiuctpalmyjgjp6cukrfgzwyo2bhva",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Dark",
+   "Bodysuit": "Pink",
+   "Face": "Dino",
+   "Feet": "None",
+   "Hands": "Scales",
+   "Head": "Blue Mask",
+   "Item 1": "Yellow Brick Phone",
+   "Item 2": "Pink Paddleball",
+   "Outfit": "None",
+   "Special": "None"
+  }
+ }
+}

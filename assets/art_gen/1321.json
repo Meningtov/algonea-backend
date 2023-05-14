@@ -1,0 +1,23 @@
+{
+ "number": 1321,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057727301.webp",
+ "metadata_cid": "bafkreihl2r547vtlptbddagpfwsb5xaamgorygpwchcot2wwst6sofhzje",
+ "metadata": {
+  "name": "Algonean #1321",
+  "standard": "arc3",
+  "image": "ipfs://bafybeignlmhjzj27kcdrt65tfexunvnchdeqnd5gmzzzd2ftlc3spifqni",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Yellow Dream",
+   "Bodysuit": "Glossy Brown",
+   "Face": "Distressed Purple",
+   "Feet": "Blue Sneakers",
+   "Hands": "Batboys",
+   "Head": "Hamehair",
+   "Item 1": "Yellow Lightsword",
+   "Item 2": "Red Lunchbox",
+   "Outfit": "Red Suit",
+   "Special": "None"
+  }
+ }
+}

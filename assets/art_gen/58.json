@@ -1,0 +1,23 @@
+{
+ "number": 58,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676047427233.webp",
+ "metadata_cid": "bafkreiaxsnxms55evrddisxyovzb7ogfbcaux6ygpwnqwsvqtc77nj4hvu",
+ "metadata": {
+  "name": "Algonean #0058",
+  "standard": "arc3",
+  "image": "ipfs://bafkreib7mplkwi334yfbsybw2glrkdymfuzxn2r6ye2mhz4uroipsbczxm",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Blue",
+   "Bodysuit": "Rose",
+   "Face": "Fed Up Purple",
+   "Feet": "Gray Tigers",
+   "Hands": "80s",
+   "Head": "White Headband",
+   "Item 1": "Banana",
+   "Item 2": "Blue Lunchbox",
+   "Outfit": "Green Jersey",
+   "Special": "Arrow"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 10,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676046830643.webp",
+ "metadata_cid": "bafkreic5xe57b4mevkerv2acx7qdjicvhntv7uaivavsidfyfneeg7orky",
+ "metadata": {
+  "name": "Algonean #0010",
+  "standard": "arc3",
+  "image": "ipfs://bafkreie2uotx37liz5fovsonk3cic466huzpxk7xiyusd63ckfh7vqn4xi",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Purple",
+   "Bodysuit": "Glossy Denim",
+   "Face": "Fed Up Gray",
+   "Feet": "None",
+   "Hands": "Midnight",
+   "Head": "Mohawk",
+   "Item 1": "None",
+   "Item 2": "None",
+   "Outfit": "Burgler",
+   "Special": "None"
+  }
+ }
+}

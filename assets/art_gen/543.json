@@ -1,0 +1,23 @@
+{
+ "number": 543,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676051889395.webp",
+ "metadata_cid": "bafkreifdcjx4mcrwn2unjgsdsz6hd6ig3ftwji6za4byyswidaqwnawqfu",
+ "metadata": {
+  "name": "Algonean #0543",
+  "standard": "arc3",
+  "image": "ipfs://bafkreidb5qkq7336lqs2pmelt7ylwfle2lf6pywmnnbuztf5cxq74cfpxi",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Notebook",
+   "Bodysuit": "Mint",
+   "Face": "Distressed Sky",
+   "Feet": "None",
+   "Hands": "Blue Grip",
+   "Head": "None",
+   "Item 1": "Katana",
+   "Item 2": "Basketball",
+   "Outfit": "Mint Nebula",
+   "Special": "Fuse"
+  }
+ }
+}

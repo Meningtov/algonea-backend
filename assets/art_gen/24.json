@@ -1,0 +1,23 @@
+{
+ "number": 24,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676046881884.webp",
+ "metadata_cid": "bafkreic3vyqlredvrel2cjjlmyfyu2mf4xwdubqbxsgshngqeixo27n6kq",
+ "metadata": {
+  "name": "Algonean #0024",
+  "standard": "arc3",
+  "image": "ipfs://bafkreidhqn5ko3uqnbl5i7cj6kzk4hgxwiadb3razovmtc3lmyws43rgma",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Fresh Lemonade",
+   "Bodysuit": "Flint",
+   "Face": "Pink Specter",
+   "Feet": "None",
+   "Hands": "Rust",
+   "Head": "Orange Horns",
+   "Item 1": "None",
+   "Item 2": "Cassette",
+   "Outfit": "Black Suit",
+   "Special": "None"
+  }
+ }
+}

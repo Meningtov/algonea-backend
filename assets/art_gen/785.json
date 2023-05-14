@@ -1,0 +1,23 @@
+{
+ "number": 785,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676053382526.webp",
+ "metadata_cid": "bafkreihpzz2pekrv34coxrm6it4bml73pgosyhf6ghklkvzx6yfslxlgmu",
+ "metadata": {
+  "name": "Algonean #0785",
+  "standard": "arc3",
+  "image": "ipfs://bafybeig5hei3rvi5i6gewcqp2g7xt7ycn3izvyf2uocyfei27tpko2sjha",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Blue Dream",
+   "Bodysuit": "Glossy Ice",
+   "Face": "Evil Red",
+   "Feet": "Green Neos",
+   "Hands": "Yellow Hazmat",
+   "Head": "Blue Horns",
+   "Item 1": "Clackers",
+   "Item 2": "Blue Lunchbox",
+   "Outfit": "EVA",
+   "Special": "None"
+  }
+ }
+}

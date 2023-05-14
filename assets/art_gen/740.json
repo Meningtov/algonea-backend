@@ -1,0 +1,23 @@
+{
+ "number": 740,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676053115831.webp",
+ "metadata_cid": "bafkreic6yleojm6as2ozel5fcadacc53oc45skytzyctgr2maxgzkzxxzq",
+ "metadata": {
+  "name": "Algonean #0740",
+  "standard": "arc3",
+  "image": "ipfs://bafkreif4puqypqt4idwtorvvibgx5rvsefoeqogp37gcr2zp5zhoj5k6nu",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Greenyellow",
+   "Bodysuit": "Glossy Bubblegum",
+   "Face": "Blue Specter",
+   "Feet": "None",
+   "Hands": "Red Grip",
+   "Head": "None",
+   "Item 1": "Orange Waterpistol",
+   "Item 2": "Algorios",
+   "Outfit": "Red Suit",
+   "Special": "None"
+  }
+ }
+}

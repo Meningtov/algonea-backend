@@ -1,0 +1,23 @@
+{
+ "number": 1003,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676055443879.webp",
+ "metadata_cid": "bafkreidvzguyofl6n2irgda22723kwelhveyfjigvupfblrjb4w66wylc4",
+ "metadata": {
+  "name": "Algonean #1003",
+  "standard": "arc3",
+  "image": "ipfs://bafkreia7eerqm5ivi3ytgicqqekmacufjdfcx5nwyd7sefhmqrxlzexcra",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Red Sketch",
+   "Bodysuit": "Worn Out Pistachio",
+   "Face": "Merry Purple",
+   "Feet": "Tactical Shoes",
+   "Hands": "Bubblegum",
+   "Head": "Hamehair",
+   "Item 1": "Bloody Knife",
+   "Item 2": "Basketball",
+   "Outfit": "Gray Ravenman",
+   "Special": "Purple Madcat Tail"
+  }
+ }
+}

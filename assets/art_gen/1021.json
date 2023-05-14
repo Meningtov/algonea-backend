@@ -1,0 +1,23 @@
+{
+ "number": 1021,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676055511041.webp",
+ "metadata_cid": "bafkreidytod26f3htzxo2hna7yxsz6ifjeio6d2iyw57rzahapjsey7s24",
+ "metadata": {
+  "name": "Algonean #1021",
+  "standard": "arc3",
+  "image": "ipfs://bafybeib5pdor5eqwj2edms7ya72tdryxzg4vqb4bswcsuyztnuiqrbhw2u",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Twisted Red",
+   "Bodysuit": "Ultraviolet",
+   "Face": "Surprised Melon",
+   "Feet": "None",
+   "Hands": "Purple Grip",
+   "Head": "None",
+   "Item 1": "Blue GBoy",
+   "Item 2": "Gray Gamepad",
+   "Outfit": "Policeman",
+   "Special": "Black Cape"
+  }
+ }
+}

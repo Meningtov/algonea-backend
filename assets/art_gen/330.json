@@ -1,0 +1,23 @@
+{
+ "number": 330,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676050371756.webp",
+ "metadata_cid": "bafkreihqhiwzpnaax26uadd3t2g3xp3eaews22lxbuqpfwoio5rk3weby4",
+ "metadata": {
+  "name": "Algonean #0330",
+  "standard": "arc3",
+  "image": "ipfs://bafkreicbbqa3tpj3lxs5nbvxdgeb5wvtulje5su23jz2ij6ofrk324bleu",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Purple",
+   "Bodysuit": "Gold",
+   "Face": "Red Gator",
+   "Feet": "None",
+   "Hands": "Bubblegum",
+   "Head": "Red Visor",
+   "Item 1": "Green Lightsword",
+   "Item 2": "Pencil",
+   "Outfit": "Red Hoodie",
+   "Special": "None"
+  }
+ }
+}

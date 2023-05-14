@@ -1,0 +1,23 @@
+{
+ "number": 1004,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676055446284.webp",
+ "metadata_cid": "bafkreieeu2ca2gzslxf2q4nqzy3szmxzuihf2tt2eeclgzztaqwhh3gx3i",
+ "metadata": {
+  "name": "Algonean #1004",
+  "standard": "arc3",
+  "image": "ipfs://bafkreigj4utennjzgxao5qz7wmp7nnye4nposf3s6pcgqn3aftalcptwtu",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Fresh Lemonade",
+   "Bodysuit": "Pink",
+   "Face": "Excited Purple",
+   "Feet": "Grays",
+   "Hands": "Orange",
+   "Head": "Blue Helmet",
+   "Item 1": "Blue Lightsword",
+   "Item 2": "None",
+   "Outfit": "Hitman",
+   "Special": "Black Cape"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 459,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676051191768.webp",
+ "metadata_cid": "bafkreiatwzvqkrzhsf33uwadit5wlogdvtso2i3kzpa5xboj3yqhetkg6m",
+ "metadata": {
+  "name": "Algonean #0459",
+  "standard": "arc3",
+  "image": "ipfs://bafkreibj62gnxysioq7moa3m3bm2wb3mqrzfpcmz5ryxpntdn7evp2jjzi",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Fresh Lemonade",
+   "Bodysuit": "Reptile",
+   "Face": "Dull Orange",
+   "Feet": "Bicolor",
+   "Hands": "Orchid",
+   "Head": "Purple Beanie",
+   "Item 1": "Brainalyzer",
+   "Item 2": "Orange Lunchbox",
+   "Outfit": "Scarabbroth",
+   "Special": "None"
+  }
+ }
+}

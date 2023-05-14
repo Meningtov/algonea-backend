@@ -1,0 +1,23 @@
+{
+ "number": 115,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676048090029.webp",
+ "metadata_cid": "bafkreic7hpqtrwez4unp5gj4dfh6yxmcixhfzkm7xavj5txr4skf2g5uju",
+ "metadata": {
+  "name": "Algonean #0115",
+  "standard": "arc3",
+  "image": "ipfs://bafkreid45lbqdacr4mso5zxj2ohiuitamhcd5lwhw637qdmimjvuzjcism",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Red",
+   "Bodysuit": "Plushy Arctic",
+   "Face": "Neutral Sky",
+   "Feet": "Black Walkers",
+   "Hands": "Grayscale",
+   "Head": "Dream Antlers",
+   "Item 1": "Green Guitar",
+   "Item 2": "Gray Gamepad",
+   "Outfit": "None",
+   "Special": "None"
+  }
+ }
+}

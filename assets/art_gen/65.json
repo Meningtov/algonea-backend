@@ -1,0 +1,23 @@
+{
+ "number": 65,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676047446755.webp",
+ "metadata_cid": "bafkreihsb66yb64le7udtuatlxtxfttkkasi4rk5bzobpczh3vbumvdzku",
+ "metadata": {
+  "name": "Algonean #0065",
+  "standard": "arc3",
+  "image": "ipfs://bafybeie5treq3y54aowqdyxhapwrli2wyk42ejsvax5j7kbz5gr6pkukt4",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Honeycomb",
+   "Bodysuit": "Pecan",
+   "Face": "Serene Dijon",
+   "Feet": "Gray Walkers",
+   "Hands": "Yellow",
+   "Head": "Pink Meegy",
+   "Item 1": "Blue Lightsword",
+   "Item 2": "None",
+   "Outfit": "Red Jersey",
+   "Special": "None"
+  }
+ }
+}

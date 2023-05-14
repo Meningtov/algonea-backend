@@ -1,0 +1,23 @@
+{
+ "number": 1006,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676055454469.webp",
+ "metadata_cid": "bafkreibxpxbxe5wg427pc4zcuytlmo64ptp7p4wmcn4fnylamxf6fkfiba",
+ "metadata": {
+  "name": "Algonean #1006",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiemmzrtrkaiidedbwxmfpwx3cozuh6t5jx7szc723zpafasteatuy",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Black",
+   "Bodysuit": "Cactus",
+   "Face": "Mad Mint",
+   "Feet": "Purple Slippers",
+   "Hands": "Pink",
+   "Head": "Red Visor",
+   "Item 1": "Red Blurby",
+   "Item 2": "Blue Gamepad",
+   "Outfit": "Mint Retro Hoodie",
+   "Special": "None"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 1272,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057473374.webp",
+ "metadata_cid": "bafkreifp2z6shoh6opje6ttjfgt2kv4r7wx7keabr3vxjrogjuolwynh6q",
+ "metadata": {
+  "name": "Algonean #1272",
+  "standard": "arc3",
+  "image": "ipfs://bafkreigikfopt5ppla4sigoulv5lucrt2hp6clpuloqccggvpfy23utkpm",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "White",
+   "Bodysuit": "Flint",
+   "Face": "Excited Cherry",
+   "Feet": "Workers",
+   "Hands": "Dark",
+   "Head": "Orange Visor",
+   "Item 1": "Apple Juice",
+   "Item 2": "Talk Text",
+   "Outfit": "Green Overall",
+   "Special": "None"
+  }
+ }
+}

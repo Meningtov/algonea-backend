@@ -1,0 +1,23 @@
+{
+ "number": 1248,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057274117.webp",
+ "metadata_cid": "bafkreibgaf7wnid76pyuzdm3xwteewy7unstvzmbpubeswwnfrd64ngf4i",
+ "metadata": {
+  "name": "Algonean #1248",
+  "standard": "arc3",
+  "image": "ipfs://bafkreigs7hdi6utqeoa35zrsjd6k3bvphfq55ykwfrufthk6z2s7rphtki",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Blueberry",
+   "Bodysuit": "Sand",
+   "Face": "Blissful Purple",
+   "Feet": "Green Neos",
+   "Hands": "Lavender",
+   "Head": "Ginger",
+   "Item 1": "Yellow Blurby",
+   "Item 2": "Baywatch",
+   "Outfit": "Red Jersey",
+   "Special": "None"
+  }
+ }
+}

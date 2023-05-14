@@ -1,0 +1,23 @@
+{
+ "number": 314,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676050311671.webp",
+ "metadata_cid": "bafkreihrj7licnayrptnkjiq6x6zf6evnepommwvumvh5pzev22cj5d5qa",
+ "metadata": {
+  "name": "Algonean #0314",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiglsi7hnudpzedrff3ikco3eivvbcspnipvj2tmk32xzlwvzppvny",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Crystal",
+   "Bodysuit": "Moss",
+   "Face": "Pale Skully",
+   "Feet": "Purple Slippers",
+   "Hands": "Amethyst",
+   "Head": "Blue Beret",
+   "Item 1": "Orange Potion",
+   "Item 2": "Pink Paddleball",
+   "Outfit": "Blue Suit",
+   "Special": "None"
+  }
+ }
+}

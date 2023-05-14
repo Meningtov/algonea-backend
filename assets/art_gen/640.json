@@ -1,0 +1,23 @@
+{
+ "number": 640,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676052482609.webp",
+ "metadata_cid": "bafkreibjzmdkmuoygabcquj6kctcomrpod57am467gkn4d2m26jyxga46q",
+ "metadata": {
+  "name": "Algonean #0640",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiae5e77ctnvwpznhyibg6a4ne7psknoeanryz22ml5eom7dkuji5a",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Greenyellow",
+   "Bodysuit": "Glossy Purple",
+   "Face": "Wraith",
+   "Feet": "Robots",
+   "Hands": "Gold",
+   "Head": "Ginger",
+   "Item 1": "Orange Tommygotchi",
+   "Item 2": "Purple Skate",
+   "Outfit": "Scarabbroth",
+   "Special": "None"
+  }
+ }
+}

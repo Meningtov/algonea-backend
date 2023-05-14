@@ -1,0 +1,23 @@
+{
+ "number": 520,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676051723765.webp",
+ "metadata_cid": "bafkreifqe5jeyquc6leekjekfc2jzk3qtwi5zalod4gqwzikldpw6rugga",
+ "metadata": {
+  "name": "Algonean #0520",
+  "standard": "arc3",
+  "image": "ipfs://bafkreihos5jvzywxv66nienkbs2s5zyxzxa4tx3inp5qzo5rdunwbq6aka",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Notepad",
+   "Bodysuit": "Pecan",
+   "Face": "Scared Purple",
+   "Feet": "Bumblebees",
+   "Hands": "Spideys",
+   "Head": "Red Sodahat",
+   "Item 1": "Drizzle GBoy",
+   "Item 2": "Green Bucket",
+   "Outfit": "Green Overall",
+   "Special": "Arrow"
+  }
+ }
+}

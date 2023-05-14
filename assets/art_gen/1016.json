@@ -1,0 +1,23 @@
+{
+ "number": 1016,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676055491217.webp",
+ "metadata_cid": "bafkreife7572lk32mplffatq2ytyf6zfykuru52fbii6p34grijsmmunry",
+ "metadata": {
+  "name": "Algonean #1016",
+  "standard": "arc3",
+  "image": "ipfs://bafybeic6gfcy62orxl4nh2wtzyz43atg7ybadrqqyxhpsn2kb42htiemiu",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Blue Cup",
+   "Bodysuit": "Bluewood",
+   "Face": "Crazy Casey",
+   "Feet": "Yellow Flipflops",
+   "Hands": "Red Hazmat",
+   "Head": "None",
+   "Item 1": "Blue Blurby",
+   "Item 2": "Blue Bucket",
+   "Outfit": "Mint Dress",
+   "Special": "Pink Madcat Tail"
+  }
+ }
+}

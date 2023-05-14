@@ -1,0 +1,23 @@
+{
+ "number": 1341,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676495029914.webp",
+ "metadata_cid": "bafkreighkkd27x7piwneanhx3szaz4zjwpeor4ivafszzchmo22f7ph46e",
+ "metadata": {
+  "name": "Algonean #1341",
+  "standard": "arc3",
+  "image": "ipfs://bafkreigmlhdcmwdm4hilrqrtlzyejz53yw7jsjh352bao7vdufp52azpsu",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Geometry",
+   "Bodysuit": "Glossy Blueberry",
+   "Face": "Distressed Melon",
+   "Feet": "Gray Boots",
+   "Hands": "Combat",
+   "Head": "None",
+   "Item 1": "Green Potion",
+   "Item 2": "Green Bucket",
+   "Outfit": "Gray Ravenman",
+   "Special": "None"
+  }
+ }
+}

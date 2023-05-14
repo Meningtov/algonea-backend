@@ -1,0 +1,23 @@
+{
+ "number": 4,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676046808903.webp",
+ "metadata_cid": "bafkreibhpi2yllizts56cfs2dqqz7do7zrvtk2uck5poobhpisyjapz6gm",
+ "metadata": {
+  "name": "Algonean #0004",
+  "standard": "arc3",
+  "image": "ipfs://bafkreidgyxfdakcksm5tos5ysb4v6rwsaio6vcc6wgtpps3e6zaz72yrhu",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Seafoam",
+   "Bodysuit": "Rusty Robot",
+   "Face": "Fed Up Mint",
+   "Feet": "Yellow Urbans",
+   "Hands": "White",
+   "Head": "Megaboi",
+   "Item 1": "Apple Juice",
+   "Item 2": "Pizza Slice",
+   "Outfit": "Blue Retro Hoodie",
+   "Special": "None"
+  }
+ }
+}

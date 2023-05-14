@@ -1,0 +1,23 @@
+{
+ "number": 298,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676049769345.webp",
+ "metadata_cid": "bafkreidltqw4ip2bhfxwvwa7aeen35keyngkmx2mhzhkezc63ctdpps2di",
+ "metadata": {
+  "name": "Algonean #0298",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiaqtzkadpkaxnd5r53vgnzz7u4bket3lj7onfzvgymegzjljocdwm",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Black",
+   "Bodysuit": "Faded Blue",
+   "Face": "Neutral Melon",
+   "Feet": "None",
+   "Hands": "Lavender",
+   "Head": "Green Visor",
+   "Item 1": "Blue GBoy",
+   "Item 2": "Black Pennyboard",
+   "Outfit": "Emperor",
+   "Special": "None"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 243,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676049117925.webp",
+ "metadata_cid": "bafkreigyqnxv4lftdeatig23p3stul4nlwpgjhplddijunfssyt3eewuci",
+ "metadata": {
+  "name": "Algonean #0243",
+  "standard": "arc3",
+  "image": "ipfs://bafkreigobqqthcbgnfi3dbfqpkkpbfofgny776mrv7ajj7enlo7l3tv4my",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Fresh Lemonade",
+   "Bodysuit": "Peanut",
+   "Face": "Fed Up Pink",
+   "Feet": "Yellow Flip-flops",
+   "Hands": "Mint",
+   "Head": "Blue Sodahat",
+   "Item 1": "Red Lightsword",
+   "Item 2": "Boombox",
+   "Outfit": "Emperor",
+   "Special": "None"
+  }
+ }
+}

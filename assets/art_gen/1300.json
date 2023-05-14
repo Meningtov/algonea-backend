@@ -1,0 +1,23 @@
+{
+ "number": 1300,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057581945.webp",
+ "metadata_cid": "bafkreig24muwnpuownknilyo6xcgcfw44p3vqml6ptcrxblrhm4dqnqggq",
+ "metadata": {
+  "name": "Algonean #1300",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiawz3qxszlbuookhmg42ma6wtymvxmnwpsawneguf2pj4ygckq4ki",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Geometry",
+   "Bodysuit": "Glossy Jade",
+   "Face": "Delighted Blue",
+   "Feet": "Brown Boots",
+   "Hands": "Purple Biker",
+   "Head": "Red Mask",
+   "Item 1": "Red Boomerang",
+   "Item 2": "Red Bucket",
+   "Outfit": "None",
+   "Special": "None"
+  }
+ }
+}

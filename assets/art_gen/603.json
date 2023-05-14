@@ -1,0 +1,23 @@
+{
+ "number": 603,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676052272155.webp",
+ "metadata_cid": "bafkreidi3tttoq6vadtmgf5jq2txmbp6gvqgdwcvfhbm4epxl6wbpywhnq",
+ "metadata": {
+  "name": "Algonean #0603",
+  "standard": "arc3",
+  "image": "ipfs://bafkreicaxkcwmro4cjcwlnh2vb3ro3x4je2zrdmxcexg3f6uhcxxvdep24",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Purple Squiggle",
+   "Bodysuit": "Faded White",
+   "Face": "Blissful Mint",
+   "Feet": "Green Jumpers",
+   "Hands": "Orchid",
+   "Head": "None",
+   "Item 1": "Apple Lollipop",
+   "Item 2": "Red Paddleball",
+   "Outfit": "Green XO Jacket",
+   "Special": "Blue Power Chord Tail"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 1,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676386970224.webp",
+ "metadata_cid": "bafkreicyyj4a5um2x3yenbvswdefbs673ptfvbqlxfxqkl22y6cnjl7rmy",
+ "metadata": {
+  "name": "Algonean #0001",
+  "standard": "arc3",
+  "image": "ipfs://bafkreicyhaowvqtgohxffqmmhqmx7646ap53xygkk32gwmwsqbjxj3jelm",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Tropical Mango",
+   "Bodysuit": "Pistachio",
+   "Face": "Confident Melon",
+   "Feet": "Orange Skullies",
+   "Hands": "Yellow",
+   "Head": "Orange Mask",
+   "Item 1": "Nunchucks",
+   "Item 2": "Pizza Slice",
+   "Outfit": "Mikey",
+   "Special": "Turtle Carapace"
+  }
+ }
+}

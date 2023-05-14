@@ -1,0 +1,23 @@
+{
+ "number": 1254,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1683587079107.webp",
+ "metadata_cid": "bafkreid55rtjctn4zoxqczqsqlfjnpgf6w7otz2peusiewepttrvdjpuyu",
+ "metadata": {
+  "name": "Algonean #1254",
+  "standard": "arc3",
+  "image": "ipfs://bafkreig7wskuan7xvl7haxmwctsr5hd76j77npti6kvhbvxo5kzftitwji",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Neon Sunset",
+   "Bodysuit": "Mahogany",
+   "Face": "Merry Blue",
+   "Feet": "Cowboy Boots",
+   "Hands": "Amethyst",
+   "Head": "Pink Goggles",
+   "Item 1": "Harpoon Gun",
+   "Item 2": "Cassette",
+   "Outfit": "Red XOJacket",
+   "Special": "Inferna Bat Wings"
+  }
+ }
+}

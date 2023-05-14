@@ -1,0 +1,23 @@
+{
+ "number": 1235,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057220034.webp",
+ "metadata_cid": "bafkreifzg73y3lg6zmlyq7ryi4fosfwlf466litldqa76en3rcndmyw5ty",
+ "metadata": {
+  "name": "Algonean #1235",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiaheq4ymk6izctotsssph3dpryncg24ijnzesnwr7y77rdwzcut34",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Crystal",
+   "Bodysuit": "Flint",
+   "Face": "Ecstatic Blue",
+   "Feet": "Pink Sneakers",
+   "Hands": "Blue Grip",
+   "Head": "None",
+   "Item 1": "Shotgun",
+   "Item 2": "Cassette",
+   "Outfit": "Gray Nebula",
+   "Special": "None"
+  }
+ }
+}

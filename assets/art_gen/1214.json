@@ -1,0 +1,23 @@
+{
+ "number": 1214,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057149086.webp",
+ "metadata_cid": "bafkreigwzubqxzx363fho47sxidurzuh5b2y4bk3zomvjszsserefmyq7i",
+ "metadata": {
+  "name": "Algonean #1214",
+  "standard": "arc3",
+  "image": "ipfs://bafkreihgkz74q4zavpdacp3iciynafbwupwkmml4e2ta2avtlvyzi5ac2e",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Matrix",
+   "Bodysuit": "Pecan",
+   "Face": "Angry Blue",
+   "Feet": "Blue Sneakers",
+   "Hands": "Greeno",
+   "Head": "None",
+   "Item 1": "Clackers",
+   "Item 2": "Blue Gamepad",
+   "Outfit": "None",
+   "Special": "Moo Tail"
+  }
+ }
+}

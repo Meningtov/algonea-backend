@@ -1,0 +1,23 @@
+{
+ "number": 1237,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057227609.webp",
+ "metadata_cid": "bafkreigekjtrqpdnc3b2csakzqcbr2ci2rjpqnpfkwgmim6jkt6oyfxqry",
+ "metadata": {
+  "name": "Algonean #1237",
+  "standard": "arc3",
+  "image": "ipfs://bafkreidxmm2bjfzg53ejifowwhdyiz4pkem7ejzrpofkbbbthaqfwmm5lq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Seafoam",
+   "Bodysuit": "Bluewood",
+   "Face": "Red Alien",
+   "Feet": "Bumblebees",
+   "Hands": "Tactical Purple",
+   "Head": "Blue Helmet",
+   "Item 1": "Nunchucks",
+   "Item 2": "None",
+   "Outfit": "Green Dress",
+   "Special": "Green Power Chord Tail"
+  }
+ }
+}

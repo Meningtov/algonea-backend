@@ -1,0 +1,23 @@
+{
+ "number": 1364,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057998647.webp",
+ "metadata_cid": "bafkreieqcpytbljlcmeykyuz773ij6p7yhre2bkk4etefzyesdzddnk7ra",
+ "metadata": {
+  "name": "Algonean #1364",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiefxj6va2eqazd7rs6kozxeobt7gxzh47sx5uirpb7lxbhxgnajfi",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Matrix",
+   "Bodysuit": "Rusty Robot",
+   "Face": "Dreamy",
+   "Feet": "Purple Rollers",
+   "Hands": "Red",
+   "Head": "Pink Bunny",
+   "Item 1": "Blue Lightsword",
+   "Item 2": "None",
+   "Outfit": "Green Vibe",
+   "Special": "Turtle Carapace"
+  }
+ }
+}

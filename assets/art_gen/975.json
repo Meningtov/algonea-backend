@@ -1,0 +1,23 @@
+{
+ "number": 975,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676054893111.webp",
+ "metadata_cid": "bafkreihvuwregv6sr2v3x7usmntk5oqplld6kgfezr62uuley6jsctax5u",
+ "metadata": {
+  "name": "Algonean #0975",
+  "standard": "arc3",
+  "image": "ipfs://bafybeifbjgqtrk4xu346mfpzsexbz7f3r4uba3hy7cyuox3bbyuph4wvde",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Twisted Gray",
+   "Bodysuit": "Glossy Ocean",
+   "Face": "Robot",
+   "Feet": "None",
+   "Hands": "Red",
+   "Head": "Red Gumball",
+   "Item 1": "Green Blurby",
+   "Item 2": "Red Gamepad",
+   "Outfit": "None",
+   "Special": "None"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 87,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676047599411.webp",
+ "metadata_cid": "bafkreihpba4sim7zr6am2ocmrtow6jaltg76ausi25fokqliehy2clqjq4",
+ "metadata": {
+  "name": "Algonean #0087",
+  "standard": "arc3",
+  "image": "ipfs://bafkreifchfcpwp5zcjtjg5fskkm4g6a2ebz62y2rdmjsdsqrykdkpzor7i",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Bubblegum",
+   "Bodysuit": "Worn Out Pink",
+   "Face": "Angry Red",
+   "Feet": "Yellow Urbans",
+   "Hands": "Surgical",
+   "Head": "Blue Gumball",
+   "Item 1": "Purple Potion",
+   "Item 2": "Pencil",
+   "Outfit": "Mikey",
+   "Special": "None"
+  }
+ }
+}

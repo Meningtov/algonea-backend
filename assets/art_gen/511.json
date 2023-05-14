@@ -1,0 +1,23 @@
+{
+ "number": 511,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676051701145.webp",
+ "metadata_cid": "bafkreihldfce43fmd3oyy4shkjo4p4qecdsbx46arndkqnomrmlq3ssz6a",
+ "metadata": {
+  "name": "Algonean #0511",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiao5axqrpx4dib3krnuvqbaxhzefhh7wxb3vh3qso7y2c2dlctw4q",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Tropical Mango",
+   "Bodysuit": "Worn Out Ice",
+   "Face": "Trippy",
+   "Feet": "None",
+   "Hands": "Yellow Hazmat",
+   "Head": "Red Sodahat",
+   "Item 1": "Pink Tommygotchi",
+   "Item 2": "Gray Boombox",
+   "Outfit": "Blue Trooper",
+   "Special": "None"
+  }
+ }
+}

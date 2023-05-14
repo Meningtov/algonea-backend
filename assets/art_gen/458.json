@@ -1,0 +1,23 @@
+{
+ "number": 458,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676051184615.webp",
+ "metadata_cid": "bafkreifjpx2fdceutsodi654xftihlf3cxrkjngoxcds2t4byn3acqbdje",
+ "metadata": {
+  "name": "Algonean #0458",
+  "standard": "arc3",
+  "image": "ipfs://bafkreicmq6dbatlhtbwhsfe4olpva6sjw2yvpznjrqadzfz4jvghyq32d4",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Black",
+   "Bodysuit": "Rainbow",
+   "Face": "Serene Blue",
+   "Feet": "Yellow Urbans",
+   "Hands": "Tactical Green",
+   "Head": "Green Cap",
+   "Item 1": "Purple Shovel",
+   "Item 2": "Talk Text",
+   "Outfit": "Blue Junior",
+   "Special": "Gold Wind Up"
+  }
+ }
+}

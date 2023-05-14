@@ -1,0 +1,23 @@
+{
+ "number": 512,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676051704106.webp",
+ "metadata_cid": "bafkreigb2a6i5br5cphdsjkxmbd4jwmejxhhw2enaihttvjgkmnd6iouvm",
+ "metadata": {
+  "name": "Algonean #0512",
+  "standard": "arc3",
+  "image": "ipfs://bafkreidiaarub23d7pb3wk7hbn6pu6jjhaqi5ngi4grvkbqchbuhquj2vq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Tangerine",
+   "Bodysuit": "Worn Out Ocean",
+   "Face": "Excited Cherry",
+   "Feet": "Police Shoes",
+   "Hands": "Scales",
+   "Head": "Black Cap",
+   "Item 1": "Red GBoy",
+   "Item 2": "Notebook",
+   "Outfit": "Brown Overall",
+   "Special": "None"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 9,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676046828225.webp",
+ "metadata_cid": "bafkreihoqxoktywxhzkrnvokucwwqfym6nvs5uvw7qfn7emdlpnry3p5u4",
+ "metadata": {
+  "name": "Algonean #0009",
+  "standard": "arc3",
+  "image": "ipfs://bafkreif5pp5aw3qmf55isffvyxf2g3y2xmhtcxrtslijzxaqfppqubju3u",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "VHS",
+   "Bodysuit": "Golden Oak",
+   "Face": "Joyful Bubblegum",
+   "Feet": "Green High-tops",
+   "Hands": "Black",
+   "Head": "Dark Spartan",
+   "Item 1": "Red GBoy",
+   "Item 2": "Green Skate",
+   "Outfit": "Blue Ravenman",
+   "Special": "Blue Power Chord Tail"
+  }
+ }
+}

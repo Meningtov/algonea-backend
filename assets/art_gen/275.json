@@ -1,0 +1,23 @@
+{
+ "number": 275,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676049675703.webp",
+ "metadata_cid": "bafkreifdzuygj7vytg6tayn3jvm3fkbudjkkg2z6mzuxlea3byjisgkn7e",
+ "metadata": {
+  "name": "Algonean #0275",
+  "standard": "arc3",
+  "image": "ipfs://bafkreib65yzob4ucfv6t5k5o43yh6luyc53b4b44alhnkohh4sx7fegzre",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Black",
+   "Bodysuit": "Rundown Lavender",
+   "Face": "Happy Green",
+   "Feet": "Black Walkers",
+   "Hands": "Scales",
+   "Head": "Cowboy Hat",
+   "Item 1": "Purple Boomerang",
+   "Item 2": "Red Paddleball",
+   "Outfit": "Purple Bunny",
+   "Special": "None"
+  }
+ }
+}

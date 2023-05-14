@@ -1,0 +1,23 @@
+{
+ "number": 675,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676052777127.webp",
+ "metadata_cid": "bafkreieattlguddrpte3wd3aduzuumcj7lkr62q3hzx6if4pnifw7x4zo4",
+ "metadata": {
+  "name": "Algonean #0675",
+  "standard": "arc3",
+  "image": "ipfs://bafkreieua3s2i7a6dtgsyujqvewbm5fkxlxtcmejhg7cf76w4h5bpnpzri",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Blue",
+   "Bodysuit": "Mahogany",
+   "Face": "Angry Purple",
+   "Feet": "White Drifters",
+   "Hands": "Yellow Hazmat",
+   "Head": "Pink Goggles",
+   "Item 1": "Shotgun",
+   "Item 2": "Yellow Boombox",
+   "Outfit": "EVA",
+   "Special": "None"
+  }
+ }
+}

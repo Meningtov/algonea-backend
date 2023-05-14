@@ -1,0 +1,23 @@
+{
+ "number": 189,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676048736886.webp",
+ "metadata_cid": "bafkreic27lsmngvdcodc6bod77a6ht7kpmp6kswanzyxtxs2qysfkwdrru",
+ "metadata": {
+  "name": "Algonean #0189",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiaqxbdo725fd22fxuemyeuqhljpmrgsztxq23j7nw62hcjlxfpynm",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Notebook",
+   "Bodysuit": "Midnight",
+   "Face": "Robot",
+   "Feet": "Purple Aeros",
+   "Hands": "Robot",
+   "Head": "Twinkle Crown",
+   "Item 1": "Shotgun",
+   "Item 2": "Green Bucket",
+   "Outfit": "Blue Bikini",
+   "Special": "None"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 401,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676050798854.webp",
+ "metadata_cid": "bafkreiccz6ze32gfwmfjprdqfw3ky4rk7msznqtlmz3zng5vwwgg3lqubi",
+ "metadata": {
+  "name": "Algonean #0401",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiayufr4kdu36drtxomy42rvoks3kwr7ujbyigy425stlrix5iuxvq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Neon Sunset",
+   "Bodysuit": "Glossy Ocean",
+   "Face": "Evil Red",
+   "Feet": "Green Flipflops",
+   "Hands": "Pink",
+   "Head": "None",
+   "Item 1": "Red Firecracker",
+   "Item 2": "Algorios",
+   "Outfit": "None",
+   "Special": "Blue Power Chord Tail"
+  }
+ }
+}

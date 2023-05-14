@@ -1,0 +1,23 @@
+{
+ "number": 74,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676047469715.webp",
+ "metadata_cid": "bafkreiblwdnq6ofkdswknbbpywupydybqvxld2ul63zvf2dawyqx3i5wbe",
+ "metadata": {
+  "name": "Algonean #0074",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiambcny672tdrojvjclzeph5nfmcmtcwukwfh7txestomhv5xohxm",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Red",
+   "Bodysuit": "Glossy Purple",
+   "Face": "High Green",
+   "Feet": "Pink Dolls",
+   "Hands": "Gold",
+   "Head": "Orange Horns",
+   "Item 1": "Pink Racket",
+   "Item 2": "Boombox",
+   "Outfit": "Mint EVA",
+   "Special": "None"
+  }
+ }
+}

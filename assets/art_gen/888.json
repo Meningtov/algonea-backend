@@ -1,0 +1,23 @@
+{
+ "number": 888,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676054281084.webp",
+ "metadata_cid": "bafkreihhcckahfcnq4szp5vlg4pe55fdkfi3a4jtpn7xqsyco3acga5epu",
+ "metadata": {
+  "name": "Algonean #0888",
+  "standard": "arc3",
+  "image": "ipfs://bafkreie437z7iin5l7lqhvg43cw6wj2gvxcvxx5juq4a367xueimrxearm",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Moss",
+   "Bodysuit": "Faded Blue",
+   "Face": "Cartoony",
+   "Feet": "Red Jumpers",
+   "Hands": "Rainbow Grip",
+   "Head": "Blue Goggles",
+   "Item 1": "Orange Guitar",
+   "Item 2": "Red Lunchbox",
+   "Outfit": "Ralph",
+   "Special": "Bloby"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 299,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676049773452.webp",
+ "metadata_cid": "bafkreiae6dtis75zkoiv3gbco7s7c6gyill3zj5fa3jpbombwrudqlcfbi",
+ "metadata": {
+  "name": "Algonean #0299",
+  "standard": "arc3",
+  "image": "ipfs://bafkreicv7j737skzjrdzxsg76d4geuawbsm74xan2fdfi7lpuf64igvttu",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Blue Memphis",
+   "Bodysuit": "Plushy Sky",
+   "Face": "Joyful Blue",
+   "Feet": "Red Neos",
+   "Hands": "Dark",
+   "Head": "Green Bunny",
+   "Item 1": "Green Brick Phone",
+   "Item 2": "Red Gamepad",
+   "Outfit": "Underwear",
+   "Special": "None"
+  }
+ }
+}

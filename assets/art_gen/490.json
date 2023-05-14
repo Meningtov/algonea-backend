@@ -1,0 +1,23 @@
+{
+ "number": 490,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676051486110.webp",
+ "metadata_cid": "bafkreigkswb2yulpdabkhr2a3qquju7kkf5hydndwo7k6g5ewvr63ogsye",
+ "metadata": {
+  "name": "Algonean #0490",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiarmcozatgb3w4cqz2bpoir6dwgviq4ydcmuhkfwuslgcgbuivdci",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Fresh Lemonade",
+   "Bodysuit": "Walnut",
+   "Face": "Dull Pink",
+   "Feet": "Pink Slippers",
+   "Hands": "Brawler",
+   "Head": "Green Beanie",
+   "Item 1": "Purple Lightsword",
+   "Item 2": "Red Lunchbox",
+   "Outfit": "Black Trooper",
+   "Special": "Gold Wind Up"
+  }
+ }
+}

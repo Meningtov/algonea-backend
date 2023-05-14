@@ -1,0 +1,23 @@
+{
+ "number": 222,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676048990571.webp",
+ "metadata_cid": "bafkreien3y6ydiuyn4lqdl2hdt27acnomyfhietoya7rdp3x7q7ysdwniu",
+ "metadata": {
+  "name": "Algonean #0222",
+  "standard": "arc3",
+  "image": "ipfs://bafkreihtz7vmqo2d7wfcuf32d5sy4fweuwdk3b74gqzx4o4l6bmey5qq2y",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Seafoam",
+   "Bodysuit": "Plushy Pear",
+   "Face": "Scared Sky",
+   "Feet": "Workers",
+   "Hands": "Cartoon",
+   "Head": "Blonde Bun",
+   "Item 1": "Soda Bottle",
+   "Item 2": "Pencil",
+   "Outfit": "Blue Bikini",
+   "Special": "Monkey Tail"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 144,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676048350224.webp",
+ "metadata_cid": "bafkreiawesju3jottsrntwxcnjhqm2igjjto32hjonnbfiakgsrgbsg6wa",
+ "metadata": {
+  "name": "Algonean #0144",
+  "standard": "arc3",
+  "image": "ipfs://bafkreic2bq4ik6aewc7konmsh56qzhx3zsmc2czsed5zjr7jamkejxq4na",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Red Sketch",
+   "Bodysuit": "Glossy Bubblegum",
+   "Face": "Scared Orange",
+   "Feet": "Red Neos",
+   "Hands": "Tactical Purple",
+   "Head": "Green Cap",
+   "Item 1": "HELP",
+   "Item 2": "Red Bucket",
+   "Outfit": "Blue Ravenman",
+   "Special": "None"
+  }
+ }
+}

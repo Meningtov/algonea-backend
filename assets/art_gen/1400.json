@@ -1,0 +1,23 @@
+{
+ "number": 1400,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676058144158.webp",
+ "metadata_cid": "bafkreidukrrktur4jbsyixygrdao5mgotppdqqidkiwt3ybjq3r4n5m4oy",
+ "metadata": {
+  "name": "Algonean #1400",
+  "standard": "arc3",
+  "image": "ipfs://bafkreicwjbze4rhjydnzizudyispcvhlexzg6x7w4wjg3ulwivqdex73ay",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Taffy",
+   "Bodysuit": "Gold",
+   "Face": "Red Gator",
+   "Feet": "Reds",
+   "Hands": "Robot",
+   "Head": "Frozen Brain",
+   "Item 1": "Nunchucks",
+   "Item 2": "Pillow",
+   "Outfit": "Green Dress",
+   "Special": "Dino Tail"
+  }
+ }
+}

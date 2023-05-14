@@ -1,0 +1,23 @@
+{
+ "number": 1212,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057142574.webp",
+ "metadata_cid": "bafkreidehcp2m74lb4ycq5iqqnmtkenwesfikhqosowtsyqvfqwot4cngi",
+ "metadata": {
+  "name": "Algonean #1212",
+  "standard": "arc3",
+  "image": "ipfs://bafkreihcnzfngul4xq4vksz3smlyjqfqno3quwaix23eqaj27qgfaxcfty",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Waka Waka",
+   "Bodysuit": "Glossy Watermelon",
+   "Face": "Tense Cherry",
+   "Feet": "Pink Urbans",
+   "Hands": "Bicolor Combat",
+   "Head": "Blonde Ninja",
+   "Item 1": "None",
+   "Item 2": "Green Gamepad",
+   "Outfit": "Burgler",
+   "Special": "None"
+  }
+ }
+}

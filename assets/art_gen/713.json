@@ -1,0 +1,23 @@
+{
+ "number": 713,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676053010520.webp",
+ "metadata_cid": "bafkreiav3heteqgtf3ypnslua5tnkxyg6trvvza2scrtiwhbicysyqs4cm",
+ "metadata": {
+  "name": "Algonean #0713",
+  "standard": "arc3",
+  "image": "ipfs://bafkreihvx6ii37ch3nqg37dxq5jktwhhi4ksqiyeamyn5b2wmmkisig2gi",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Dark",
+   "Bodysuit": "Glossy Watermelon",
+   "Face": "Excited Blue",
+   "Feet": "Red Tigers",
+   "Hands": "Mint",
+   "Head": "Green Cap",
+   "Item 1": "Power Stick",
+   "Item 2": "Pizza Slice",
+   "Outfit": "Purple Hoodie",
+   "Special": "Fuse"
+  }
+ }
+}

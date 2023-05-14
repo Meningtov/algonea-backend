@@ -1,0 +1,23 @@
+{
+ "number": 200,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676048765225.webp",
+ "metadata_cid": "bafkreifyhlfwnflhppelijszwgmullytlxng4zqiclm2d7zp2wygm5xce4",
+ "metadata": {
+  "name": "Algonean #0200",
+  "standard": "arc3",
+  "image": "ipfs://bafkreihkdtbrjs3r4tjjm4k4cdzxud7gtfhiapjtoveaahthr6camq7rl4",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Moss",
+   "Bodysuit": "Mint",
+   "Face": "Blue Gator",
+   "Feet": "None",
+   "Hands": "80s",
+   "Head": "Blue Gumball",
+   "Item 1": "Clackers",
+   "Item 2": "Brown Skate",
+   "Outfit": "None",
+   "Special": "None"
+  }
+ }
+}

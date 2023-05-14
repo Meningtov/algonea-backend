@@ -1,0 +1,23 @@
+{
+ "number": 390,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676050757198.webp",
+ "metadata_cid": "bafkreihb3pm7cvqkssvrifvoemzkmbqqrxbl2gfmv4fqjnsbdimwzqrvge",
+ "metadata": {
+  "name": "Algonean #0390",
+  "standard": "arc3",
+  "image": "ipfs://bafkreigehqpeponbyaf3rswep6ghbfwwlqbl52wdk3a7bsg7fru5t2ipsm",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Tropical Mango",
+   "Bodysuit": "Lemon",
+   "Face": "Purple Guardian",
+   "Feet": "Purple Skullies",
+   "Hands": "Batboys",
+   "Head": "Blonde Bun",
+   "Item 1": "Blue Lightsword",
+   "Item 2": "Talk Text",
+   "Outfit": "Green Jersey",
+   "Special": "None"
+  }
+ }
+}

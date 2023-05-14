@@ -1,0 +1,23 @@
+{
+ "number": 12,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676046838849.webp",
+ "metadata_cid": "bafkreibwwfeu7avx6nysf4ibs6hpragnfv7lbxyhuugtlyd5t2qfq7iphy",
+ "metadata": {
+  "name": "Algonean #0012",
+  "standard": "arc3",
+  "image": "ipfs://bafkreibxgavkzbbavhuoejquts5hxry7pm7upya5wt3prous42hd32ccku",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Red",
+   "Bodysuit": "Glossy Gray",
+   "Face": "Candy Skully",
+   "Feet": "Runners",
+   "Hands": "Grayscale",
+   "Head": "Blue Beret",
+   "Item 1": "Purple Boomerang",
+   "Item 2": "Pizza Box",
+   "Outfit": "Pink Bikini",
+   "Special": "Moo Tail"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 909,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676054509706.webp",
+ "metadata_cid": "bafkreicy722pock2baprtvjf36ggq4eudhpkdgn53bxprzzlzdaqove6ca",
+ "metadata": {
+  "name": "Algonean #0909",
+  "standard": "arc3",
+  "image": "ipfs://bafybeifwffphpfutiqszr3t3fbs5mrmgwu36x5wojpbtc5o6tlwbu5t3ru",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Blue Doodle",
+   "Bodysuit": "Glossy Gray",
+   "Face": "Wraith",
+   "Feet": "Brown Boots",
+   "Hands": "Lavender",
+   "Head": "Green Cap",
+   "Item 1": "Blue Racket",
+   "Item 2": "Algo Flakes",
+   "Outfit": "Blue XOJacket",
+   "Special": "None"
+  }
+ }
+}

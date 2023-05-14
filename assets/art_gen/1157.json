@@ -1,0 +1,23 @@
+{
+ "number": 1157,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676056804779.webp",
+ "metadata_cid": "bafkreiaqk7xiivnlx6sdyxgku5v7bnex2ce5ieohq4cqme5jxpxmppmrjy",
+ "metadata": {
+  "name": "Algonean #1157",
+  "standard": "arc3",
+  "image": "ipfs://bafkreigwvfhw64af7gvajf6koxp4ojraw4e4ve5zxzcxvsizxflnqipc3a",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Green Squiggle",
+   "Bodysuit": "Plushy Amethyst",
+   "Face": "Sad Pink",
+   "Feet": "Blue Flipflops",
+   "Hands": "Orchid",
+   "Head": "Red Cap",
+   "Item 1": "Power Stick",
+   "Item 2": "Red Gamepad",
+   "Outfit": "Shodan",
+   "Special": "None"
+  }
+ }
+}

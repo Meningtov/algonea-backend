@@ -1,0 +1,23 @@
+{
+ "number": 825,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676053996474.webp",
+ "metadata_cid": "bafkreifxqyakcfaei3keyaop7rwxfnvuemifpudvv4zicurxyk6lwbr4em",
+ "metadata": {
+  "name": "Algonean #0825",
+  "standard": "arc3",
+  "image": "ipfs://bafkreicvulevctqyer2ytpom2szmo6auyzta5dbvipm2y3gchzav47dp2u",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Seafoam",
+   "Bodysuit": "Faded Pink",
+   "Face": "Ecstatic Moss",
+   "Feet": "Orange Skullies",
+   "Hands": "Sky",
+   "Head": "Red Cap",
+   "Item 1": "Blue Boomerang",
+   "Item 2": "Money Bag",
+   "Outfit": "Ravenman",
+   "Special": "None"
+  }
+ }
+}

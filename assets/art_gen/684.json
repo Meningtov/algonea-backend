@@ -1,0 +1,23 @@
+{
+ "number": 684,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676052810074.webp",
+ "metadata_cid": "bafkreiejebzzwfg5nx2t7t5hnvpqpyc4tvizqz4iquumogxchlywrbjay4",
+ "metadata": {
+  "name": "Algonean #0684",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiaip6kimtav7mz3cjiet54ultxddztrdqp2naklxvqwouaacpvgeq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Blue Doodle",
+   "Bodysuit": "Rainbow",
+   "Face": "Red Alien",
+   "Feet": "Neon Runners",
+   "Hands": "Grayscale",
+   "Head": "Twinkle Crown",
+   "Item 1": "Green Racket",
+   "Item 2": "Green Gamepad",
+   "Outfit": "None",
+   "Special": "Monkey Tail"
+  }
+ }
+}

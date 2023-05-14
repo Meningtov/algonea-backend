@@ -1,0 +1,23 @@
+{
+ "number": 1331,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057761128.webp",
+ "metadata_cid": "bafkreia46ndibrzye343reec2adiqqnti5day3crs3mwiunisohp7epohm",
+ "metadata": {
+  "name": "Algonean #1331",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiagylxbfiacwbwon47hloo5lddgjc5blnm736evko5egebw3xwpyu",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Oasis",
+   "Bodysuit": "Glossy Cherry",
+   "Face": "Sad Pink",
+   "Feet": "Blue Drifters",
+   "Hands": "Blue Grip",
+   "Head": "Orange Mask",
+   "Item 1": "Blue Blurby",
+   "Item 2": "Blue Basketball",
+   "Outfit": "Brownbones Hoodie",
+   "Special": "None"
+  }
+ }
+}

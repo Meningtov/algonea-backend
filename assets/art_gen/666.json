@@ -1,0 +1,23 @@
+{
+ "number": 666,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676052748125.webp",
+ "metadata_cid": "bafkreic5slcnvvesayk3lfs3bnydn4e77qyoklacjezahl6z42gro7uepq",
+ "metadata": {
+  "name": "Algonean #0666",
+  "standard": "arc3",
+  "image": "ipfs://bafybeidn2l4xzthy3nvoybpdq64ujokxl62f5h5xp3r6rmwnzp73elotm4",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Twisted Green",
+   "Bodysuit": "Mint",
+   "Face": "Surprised Melon",
+   "Feet": "Gray Oldies",
+   "Hands": "Batboys",
+   "Head": "None",
+   "Item 1": "Orange Potion",
+   "Item 2": "Red Paddleball",
+   "Outfit": "Green XOJacket",
+   "Special": "None"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 152,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676048370189.webp",
+ "metadata_cid": "bafkreib3z34fnxbzlb5qe4u2ftjvjp3rv5ijicqsxqpojcb3zmtox5ehye",
+ "metadata": {
+  "name": "Algonean #0152",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiajvexga7xj5cbpwu2hjlbpj25qftydlrskxkh5znov3kqw3wtu6i",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Waka Waka",
+   "Bodysuit": "Flint",
+   "Face": "Sad Blue",
+   "Feet": "Tactical Shoes",
+   "Hands": "Raven",
+   "Head": "None",
+   "Item 1": "None",
+   "Item 2": "Pizza Slice",
+   "Outfit": "Mint Nebula",
+   "Special": "None"
+  }
+ }
+}

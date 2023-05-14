@@ -1,0 +1,23 @@
+{
+ "number": 127,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676951180528.webp",
+ "metadata_cid": "bafkreibkvyawuxdozyypxngx6jdi3acdctczjayvgiqvpszertzersnxze",
+ "metadata": {
+  "name": "Algonean #0127",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiageyyfsduku4byhdqrjv6fa2sebuh5opgnzwxemamtkywtcwarha",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Seafoam",
+   "Bodysuit": "Sand",
+   "Face": "Green Gator",
+   "Feet": "Yellow Oldies",
+   "Hands": "Grayscale",
+   "Head": "Blue Cowboy Hat",
+   "Item 1": "Gray GBoy",
+   "Item 2": "Talk Text",
+   "Outfit": "Janitor",
+   "Special": "None"
+  }
+ }
+}

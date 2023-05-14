@@ -1,0 +1,23 @@
+{
+ "number": 1355,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057966636.webp",
+ "metadata_cid": "bafkreifcurj6o2e5na2yxkkkbwkxehqclcslsg3f2wj57g4c6ezqm3qht4",
+ "metadata": {
+  "name": "Algonean #1355",
+  "standard": "arc3",
+  "image": "ipfs://bafkreif6vqbg4ktecf6jyu2r45mqajrozf7run35qtb67ttj3nfannhogm",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "White",
+   "Bodysuit": "Iris",
+   "Face": "Sweet Mint",
+   "Feet": "Pink Claws",
+   "Hands": "Purple Hazmat",
+   "Head": "Purple Goggles",
+   "Item 1": "Blue Potion",
+   "Item 2": "Green Bucket",
+   "Outfit": "Donald McRonald",
+   "Special": "None"
+  }
+ }
+}

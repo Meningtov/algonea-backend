@@ -1,0 +1,23 @@
+{
+ "number": 789,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676053398206.webp",
+ "metadata_cid": "bafkreifcyjju6g3uxey54j3oazpvq53vfqmssrtb2c7xrmzl2ezyq2h5wy",
+ "metadata": {
+  "name": "Algonean #0789",
+  "standard": "arc3",
+  "image": "ipfs://bafkreienlgi6r34ymdrmqfwgyg33q7aigviajd42pcx2amndzt3kfwlhee",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Green Doodle",
+   "Bodysuit": "Candy",
+   "Face": "Scared Purple",
+   "Feet": "None",
+   "Hands": "Blue Grip",
+   "Head": "Black Cap",
+   "Item 1": "Pink Racket",
+   "Item 2": "Keytar",
+   "Outfit": "Gray Overall",
+   "Special": "Orange Power Chord Tail"
+  }
+ }
+}

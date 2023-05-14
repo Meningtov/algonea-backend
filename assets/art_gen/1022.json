@@ -1,0 +1,23 @@
+{
+ "number": 1022,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676055513873.webp",
+ "metadata_cid": "bafkreid4pkdfn6nfsini3ey2hv2l7qv5xbavlayghilw4gznzu4tngff5m",
+ "metadata": {
+  "name": "Algonean #1022",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiaghemhk5vw6jks7ecnlvpsgy4qe4kyx6fqlyeln2u562iust5rgu",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Green Sketch",
+   "Bodysuit": "Dandelion",
+   "Face": "Glad Yellow",
+   "Feet": "Black Boots",
+   "Hands": "Red Hazmat",
+   "Head": "Red Gumball",
+   "Item 1": "Katana",
+   "Item 2": "Talk Text",
+   "Outfit": "Orange Hoodie",
+   "Special": "None"
+  }
+ }
+}

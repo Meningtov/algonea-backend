@@ -1,0 +1,23 @@
+{
+ "number": 1378,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676058053945.webp",
+ "metadata_cid": "bafkreifnexcfgjncjjitavehmx6glvtfzllilig7c6rizz3hpe2nz5s4lu",
+ "metadata": {
+  "name": "Algonean #1378",
+  "standard": "arc3",
+  "image": "ipfs://bafkreibuqtm4ubw2o6caz534gifjgcccirjnlmfluzaak52hfzi52nb4ii",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Black",
+   "Bodysuit": "Glossy Cherry",
+   "Face": "Distressed Purple",
+   "Feet": "None",
+   "Hands": "Brawler",
+   "Head": "Green Goggles",
+   "Item 1": "Blue GBoy",
+   "Item 2": "None",
+   "Outfit": "Brown Jersey",
+   "Special": "Fuse"
+  }
+ }
+}

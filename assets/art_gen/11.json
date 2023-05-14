@@ -1,0 +1,23 @@
+{
+ "number": 11,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676046835661.webp",
+ "metadata_cid": "bafkreie4connubyz3njooc3rqgceoisnwe63kgh65cbrcml6da5e7plxl4",
+ "metadata": {
+  "name": "Algonean #0011",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiaxjxrmo4y4zucjbj3tvpseheg4qrbzydglxqdjvpxnzpfxx3s2xq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Dreamland",
+   "Bodysuit": "Cactus",
+   "Face": "Distressed Melon",
+   "Feet": "Yellow Flipflops",
+   "Hands": "Red",
+   "Head": "Green Beanie",
+   "Item 1": "Splash GBoy",
+   "Item 2": "Green Gamepad",
+   "Outfit": "Power Underwear",
+   "Special": "None"
+  }
+ }
+}

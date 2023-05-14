@@ -1,0 +1,23 @@
+{
+ "number": 255,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676049604632.webp",
+ "metadata_cid": "bafkreidlvg7exl5bohq734z62rqmjqjgxdep5miwofeyd5s2ei72hh2l2y",
+ "metadata": {
+  "name": "Algonean #0255",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiazkjmonogi4mrdwtpi2takx6dctnzjfph6y3rbx2aqgvqicdgtxu",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Waka Waka",
+   "Bodysuit": "Moss",
+   "Face": "Glad Orange",
+   "Feet": "Clean Socks",
+   "Hands": "Tactical Purple",
+   "Head": "Red Visor",
+   "Item 1": "Blue Walkboi",
+   "Item 2": "Green Paddleball",
+   "Outfit": "Blackbones Hoodie",
+   "Special": "None"
+  }
+ }
+}

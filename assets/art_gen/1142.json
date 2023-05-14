@@ -1,0 +1,23 @@
+{
+ "number": 1142,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676056467638.webp",
+ "metadata_cid": "bafkreicrlc5mjni56makjwo5v4grbab5nymuyovygbm6p3owj4pgrpjjie",
+ "metadata": {
+  "name": "Algonean #1142",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiacmdm64uvhbegacmywkzvgade44yuk2w2iaswtrpbxixqvogirjm",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Bubblegum",
+   "Bodysuit": "Mint",
+   "Face": "Robot",
+   "Feet": "Dress Shoes",
+   "Hands": "Scales",
+   "Head": "Doc",
+   "Item 1": "Green Blurby",
+   "Item 2": "Gray Boombox",
+   "Outfit": "Gray Junior",
+   "Special": "Black Cape"
+  }
+ }
+}

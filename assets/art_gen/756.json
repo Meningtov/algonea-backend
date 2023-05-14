@@ -1,0 +1,23 @@
+{
+ "number": 756,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676053279021.webp",
+ "metadata_cid": "bafkreigjbcqypzbqbcibd33asa3nn7axuejddbgplqgnw2in4ne7tid33u",
+ "metadata": {
+  "name": "Algonean #0756",
+  "standard": "arc3",
+  "image": "ipfs://bafkreihhkfnidavrn5vrjp6vu535clhfhw3wtxkehg4qbsl3tgmh74ojgq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Blue Squiggle",
+   "Bodysuit": "Peanut",
+   "Face": "Pale Skully",
+   "Feet": "Bumblebees",
+   "Hands": "Grayscale",
+   "Head": "Pink Goggles",
+   "Item 1": "Blue Racket",
+   "Item 2": "None",
+   "Outfit": "Green Undies",
+   "Special": "Monkey Tail"
+  }
+ }
+}

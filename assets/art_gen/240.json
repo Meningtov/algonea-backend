@@ -1,0 +1,23 @@
+{
+ "number": 240,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676049103847.webp",
+ "metadata_cid": "bafkreig2xs25wiechx5c4zh7htoafxou4223n4xf7p5w65a275i22o4jaa",
+ "metadata": {
+  "name": "Algonean #0240",
+  "standard": "arc3",
+  "image": "ipfs://bafkreifc45t7dsd4o7cm4g5olkk57hlhal5k3c2s3eklpc4u5zma6hn45i",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Yellow",
+   "Bodysuit": "Pecan",
+   "Face": "Blissful Pink",
+   "Feet": "Yellow Tigers",
+   "Hands": "Grayscale",
+   "Head": "Pink Bunny",
+   "Item 1": "Power Stick",
+   "Item 2": "Red Gamepad",
+   "Outfit": "Luchador",
+   "Special": "Pink Madcat Tail"
+  }
+ }
+}

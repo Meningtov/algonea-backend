@@ -1,0 +1,23 @@
+{
+ "number": 1020,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676055506681.webp",
+ "metadata_cid": "bafkreie7snfmjm2gx356dle2tbclmdrlwjyzvb3ciopetf2tuiwggprncy",
+ "metadata": {
+  "name": "Algonean #1020",
+  "standard": "arc3",
+  "image": "ipfs://bafkreich4y4sag7acbocywuginkikeoqg3ixr6wrvl5ttp5l5z7pm4mq2e",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Dreamland",
+   "Bodysuit": "Glossy Purple",
+   "Face": "Voltage",
+   "Feet": "Green Drifters",
+   "Hands": "Red",
+   "Head": "Gray Cowboy Hat",
+   "Item 1": "Yellow Blurby",
+   "Item 2": "Submachine Gun",
+   "Outfit": "Dark One",
+   "Special": "None"
+  }
+ }
+}

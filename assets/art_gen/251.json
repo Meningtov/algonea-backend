@@ -1,0 +1,23 @@
+{
+ "number": 251,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676049150856.webp",
+ "metadata_cid": "bafkreihmdsugnlw6xn5te26chsd7g2hjhwodbsphkeabh4hk4k7muj65pe",
+ "metadata": {
+  "name": "Algonean #0251",
+  "standard": "arc3",
+  "image": "ipfs://bafkreidbpxq72mjtqltpfn3ketbqgnrpxrtkteu2krvf7jo7mij7anec5y",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Red",
+   "Bodysuit": "Plushy Sky",
+   "Face": "Sad Pink",
+   "Feet": "Green Rollers",
+   "Hands": "Blue Grip",
+   "Head": "Brown Beret",
+   "Item 1": "Blue Shovel",
+   "Item 2": "Flashlight",
+   "Outfit": "Mikey",
+   "Special": "None"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 1176,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676056875233.webp",
+ "metadata_cid": "bafkreicgv4wjbpwmoj52dnfsfibc5bvqcfyrtakxugqkahmtmhbzxsvcm4",
+ "metadata": {
+  "name": "Algonean #1176",
+  "standard": "arc3",
+  "image": "ipfs://bafkreidvlpvyerwx2d3erclmcifwhdcjgxpnatdxhcr45moahbjv3miux4",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Red Sketch",
+   "Bodysuit": "Glossy Orange",
+   "Face": "Scared Sky",
+   "Feet": "Orange Slippers",
+   "Hands": "Gold",
+   "Head": "Green Beanie",
+   "Item 1": "Orange Waterpistol",
+   "Item 2": "Submachine Gun",
+   "Outfit": "Hitman",
+   "Special": "Black Cape"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 225,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676049002484.webp",
+ "metadata_cid": "bafkreifvul5fepi2k75rdk4fuknaborc42x3pjfetjyt2axowb3rcmqhhq",
+ "metadata": {
+  "name": "Algonean #0225",
+  "standard": "arc3",
+  "image": "ipfs://bafybeih6clmlnnqdmtzmn2ofsmdncwlhfvlwbjjd43k7t2mi46w7n22ivq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Twisted Green",
+   "Bodysuit": "Glossy Brown",
+   "Face": "Robot",
+   "Feet": "Aquas",
+   "Hands": "Purple Biker",
+   "Head": "None",
+   "Item 1": "Green Potion",
+   "Item 2": "Blue Droll",
+   "Outfit": "None",
+   "Special": "None"
+  }
+ }
+}

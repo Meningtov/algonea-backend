@@ -1,0 +1,23 @@
+{
+ "number": 772,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676053336406.webp",
+ "metadata_cid": "bafkreiaspzrir7hhrx7xemtadaeqolenq4lknrfhyt3rgjotwluq6bnppm",
+ "metadata": {
+  "name": "Algonean #0772",
+  "standard": "arc3",
+  "image": "ipfs://bafkreigjayoj4huf2t6rhyglzeeirpbotlvdmsjiiodaxafye6ga6f5bui",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Matrix",
+   "Bodysuit": "Glossy Bubblegum",
+   "Face": "Tense Pink",
+   "Feet": "Cowboy Boots",
+   "Hands": "Purple",
+   "Head": "Twinkle Crown",
+   "Item 1": "Yellow Brick Phone",
+   "Item 2": "Blue Gamepad",
+   "Outfit": "Brownbones Hoodie",
+   "Special": "Monkey Tail"
+  }
+ }
+}

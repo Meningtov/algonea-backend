@@ -1,0 +1,23 @@
+{
+ "number": 339,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676050407843.webp",
+ "metadata_cid": "bafkreib4skd2co2mxsidl3wo4dewnlcvelum2bttjrjso5xhenlxxxngsq",
+ "metadata": {
+  "name": "Algonean #0339",
+  "standard": "arc3",
+  "image": "ipfs://bafkreidkdhwb7hskhocrke43epk3dpbebepieqiv32ow5dtfbrh6qu3l7e",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Black",
+   "Bodysuit": "Worn Out Pink",
+   "Face": "Ecstatic Moss",
+   "Feet": "Purple Rollers",
+   "Hands": "Pink",
+   "Head": "Strawberry Ice Cream",
+   "Item 1": "Blueberry Lollipop",
+   "Item 2": "Red Paddleball",
+   "Outfit": "Red Hoodie",
+   "Special": "Dino Tail"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 1425,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676058300827.webp",
+ "metadata_cid": "bafkreif55mrkspshbt2rrqfhk5iilsn4xrtomulba44vnbnw7zwecaxik4",
+ "metadata": {
+  "name": "Algonean #1425",
+  "standard": "arc3",
+  "image": "ipfs://bafkreihf4h5xt3fjirashl2fnco5kkbiuhiea5g6h46kq4hsyxt5ng34me",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Waka Waka",
+   "Bodysuit": "Bronze",
+   "Face": "Neutral Sky",
+   "Feet": "Green Cowboy Boots",
+   "Hands": "Rainbow Grip",
+   "Head": "Blue Beanie",
+   "Item 1": "Blue Guitar",
+   "Item 2": "Green Bucket",
+   "Outfit": "Black Trooper",
+   "Special": "None"
+  }
+ }
+}

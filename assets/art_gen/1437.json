@@ -1,0 +1,23 @@
+{
+ "number": 1437,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676058351130.webp",
+ "metadata_cid": "bafkreigj2qb6uferpzs3dm25ai5ithyu2xt3fnxuxi4ziskvmys273lywa",
+ "metadata": {
+  "name": "Algonean #1437",
+  "standard": "arc3",
+  "image": "ipfs://bafkreialgqjnywss37hfo4thavatomxaszhqnrgbohsr4v7cma2jy2m45e",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Seafoam",
+   "Bodysuit": "Plushy Pear",
+   "Face": "Distressed Melon",
+   "Feet": "Purple Sneakers",
+   "Hands": "Rusty Robot",
+   "Head": "Orange Visor",
+   "Item 1": "Green Brick Phone",
+   "Item 2": "Blue Paddleball",
+   "Outfit": "Underwear",
+   "Special": "Black Cape"
+  }
+ }
+}

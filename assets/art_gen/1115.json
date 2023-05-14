@@ -1,0 +1,23 @@
+{
+ "number": 1115,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676056367291.webp",
+ "metadata_cid": "bafkreiehu232cj3is3uc54whthwa2zfjmrxsh32u4ec2nhvdt7newwvu7a",
+ "metadata": {
+  "name": "Algonean #1115",
+  "standard": "arc3",
+  "image": "ipfs://bafkreicnmchzbbccp6wdtysg5qj4drskvfqr3h3z7xy5erx53xwthwr76y",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Yellow",
+   "Bodysuit": "Glossy Purple",
+   "Face": "Fed Up Mint",
+   "Feet": "None",
+   "Hands": "Tactical Green",
+   "Head": "Orange Shades",
+   "Item 1": "Red Boomerang",
+   "Item 2": "Purple Pennyboard",
+   "Outfit": "Brown Suit",
+   "Special": "None"
+  }
+ }
+}

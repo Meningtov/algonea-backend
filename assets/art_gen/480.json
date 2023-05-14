@@ -1,0 +1,23 @@
+{
+ "number": 480,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676051404592.webp",
+ "metadata_cid": "bafkreihu5rttxrxg372fnjmok6psr5fmiledfa2ffuds4p7oscbwsdqufy",
+ "metadata": {
+  "name": "Algonean #0480",
+  "standard": "arc3",
+  "image": "ipfs://bafybeid6vu752bdijgg47axk3fvip4ef64bh27wi464oikac7gqet5z5yy",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Candy",
+   "Bodysuit": "Glossy Scarlet",
+   "Face": "Red Gator",
+   "Feet": "Pink Slippers",
+   "Hands": "Robot",
+   "Head": "Fighter",
+   "Item 1": "Red Guitar",
+   "Item 2": "Gray Boombox",
+   "Outfit": "None",
+   "Special": "Bat Wings"
+  }
+ }
+}

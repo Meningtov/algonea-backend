@@ -1,0 +1,23 @@
+{
+ "number": 125,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676048228329.webp",
+ "metadata_cid": "bafkreibmqo3hrkoniavqwkkbw5qyf4kyfmu3k53xcegmfy6pcyq227u5h4",
+ "metadata": {
+  "name": "Algonean #0125",
+  "standard": "arc3",
+  "image": "ipfs://bafkreihrmmnmtqnrfk3rfnxbduaprbhcf7jm4vp654esw4rvlxdivdd6oq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Seafoam",
+   "Bodysuit": "Flint",
+   "Face": "Purple Guardian",
+   "Feet": "Rusty Robots",
+   "Hands": "Gold",
+   "Head": "Blue Cap",
+   "Item 1": "Pink Racket",
+   "Item 2": "Brown Skate",
+   "Outfit": "Pink Tutu",
+   "Special": "None"
+  }
+ }
+}

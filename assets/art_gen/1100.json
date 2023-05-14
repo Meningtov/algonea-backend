@@ -1,0 +1,23 @@
+{
+ "number": 1100,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676056061990.webp",
+ "metadata_cid": "bafkreibnhnegpzpzqsed5bkz4wb77ayzhksfes6mywx67dzt2ugkzug3aa",
+ "metadata": {
+  "name": "Algonean #1100",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiavvpw3yvkrc6247ovgiogxle2amszq2layg22if3optlh2ir5rhy",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Matrix",
+   "Bodysuit": "Glossy Red",
+   "Face": "Confident Purple",
+   "Feet": "Gray Oldies",
+   "Hands": "Violet",
+   "Head": "Player 1",
+   "Item 1": "Pink GBoy",
+   "Item 2": "Flashlight",
+   "Outfit": "Brown XOJacket",
+   "Special": "None"
+  }
+ }
+}

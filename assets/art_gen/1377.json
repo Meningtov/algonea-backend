@@ -1,0 +1,23 @@
+{
+ "number": 1377,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676058049588.webp",
+ "metadata_cid": "bafkreic6g2qnucvgbn7mfliecrvnneskepk3afskhvze2imi6q2wqkvx5i",
+ "metadata": {
+  "name": "Algonean #1377",
+  "standard": "arc3",
+  "image": "ipfs://bafybeigz3lj3amfxueylmwlza34pekkarjl25nebvda25sucenmxhpggua",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Honeycomb",
+   "Bodysuit": "Glossy Mint",
+   "Face": "Frozen Skully",
+   "Feet": "Green Jumpers",
+   "Hands": "Mint",
+   "Head": "Blue Beret",
+   "Item 1": "Red Boomerang",
+   "Item 2": "Green Skate",
+   "Outfit": "Green Undies",
+   "Special": "Skunk Tail"
+  }
+ }
+}

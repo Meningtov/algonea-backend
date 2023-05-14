@@ -1,0 +1,23 @@
+{
+ "number": 5,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676046814285.webp",
+ "metadata_cid": "bafkreidjbdduybdfxfe55kcw3g3ydekvexys6ba2e55a36r3zah5nprex4",
+ "metadata": {
+  "name": "Algonean #0005",
+  "standard": "arc3",
+  "image": "ipfs://bafkreidd2x5jtc4pcy25ftgrn6iyztm2rusodvxmrvi3ufhred73zy72yi",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Red",
+   "Bodysuit": "Peanut",
+   "Face": "Trippy",
+   "Feet": "Blue Drifters",
+   "Hands": "Surgical",
+   "Head": "Purple Horns",
+   "Item 1": "Clackers",
+   "Item 2": "Algo Flakes",
+   "Outfit": "Red Dress",
+   "Special": "None"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 119,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676048100852.webp",
+ "metadata_cid": "bafkreiezbsgfwbep5kknvd2qm3xwjiczuvxgnmoppm3j43c2iwbcmliwwy",
+ "metadata": {
+  "name": "Algonean #0119",
+  "standard": "arc3",
+  "image": "ipfs://bafybeib5k7yl5uxi3aoc44qb6obwyi4fj7sjv7i7cu6hzxhaceqlbsnyvi",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Honeycomb",
+   "Bodysuit": "Golden Oak",
+   "Face": "Delighted Gray",
+   "Feet": "None",
+   "Hands": "Sand",
+   "Head": "Orange Mask",
+   "Item 1": "Blue Shovel",
+   "Item 2": "None",
+   "Outfit": "Red Dress",
+   "Special": "None"
+  }
+ }
+}

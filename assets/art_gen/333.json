@@ -1,0 +1,23 @@
+{
+ "number": 333,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676050384335.webp",
+ "metadata_cid": "bafkreietwk75npxtayl535qyco5i247sdcbvn2qgatfimktkeokzil2bre",
+ "metadata": {
+  "name": "Algonean #0333",
+  "standard": "arc3",
+  "image": "ipfs://bafkreib7jo33ta3w3hkxz7qivpu22vueifqfcnyek4l4cexennx4ind2zq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Neon Sunset",
+   "Bodysuit": "Flint",
+   "Face": "Evil Blue",
+   "Feet": "Blues",
+   "Hands": "Tactical Blue",
+   "Head": "None",
+   "Item 1": "Shotgun",
+   "Item 2": "Red Gamepad",
+   "Outfit": "Blue EVA",
+   "Special": "None"
+  }
+ }
+}

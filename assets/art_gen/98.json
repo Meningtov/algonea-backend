@@ -1,0 +1,23 @@
+{
+ "number": 98,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676048047057.webp",
+ "metadata_cid": "bafkreiffwcj5y3hy5lxn4kveammyg3nw5v3vxe6mp7uynxu2tdpcakiewm",
+ "metadata": {
+  "name": "Algonean #0098",
+  "standard": "arc3",
+  "image": "ipfs://bafkreic4vm7hq3gnp2m4gwxophckfxatr72euogy4v45csnapbfws4cupi",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Tangerine",
+   "Bodysuit": "Moss",
+   "Face": "Delighted Yellow",
+   "Feet": "Rusty Robots",
+   "Hands": "Spideys",
+   "Head": "Orange Mask",
+   "Item 1": "None",
+   "Item 2": "Pink Paddleball",
+   "Outfit": "Don",
+   "Special": "None"
+  }
+ }
+}

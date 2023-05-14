@@ -1,0 +1,23 @@
+{
+ "number": 239,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676049101046.webp",
+ "metadata_cid": "bafkreicoeb5x3aqw3ny3eynp2zgg2hhtuovt2abjllfwzf7y7qs44jz2k4",
+ "metadata": {
+  "name": "Algonean #0239",
+  "standard": "arc3",
+  "image": "ipfs://bafybeibc4chfrv7z3a64oicmjcgkjvtfmrk2nwlsb4nj6fqzakhtss2myy",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Twisted Gray",
+   "Bodysuit": "Rundown Lavender",
+   "Face": "Green Alien",
+   "Feet": "None",
+   "Hands": "Surgical",
+   "Head": "Player 1",
+   "Item 1": "None",
+   "Item 2": "Burger",
+   "Outfit": "Blue Undies",
+   "Special": "None"
+  }
+ }
+}

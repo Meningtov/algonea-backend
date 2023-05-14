@@ -1,0 +1,23 @@
+{
+ "number": 1333,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057769357.webp",
+ "metadata_cid": "bafkreid7e26mka5l2eo5wbswgkr6jo2bngddme6nrruaj73h3ac6rorbci",
+ "metadata": {
+  "name": "Algonean #1333",
+  "standard": "arc3",
+  "image": "ipfs://bafkreicqgimodrlkxedymgtz3evhfush4xnk6dkixn34orgrnr3ozxpeee",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Purple Squiggle",
+   "Bodysuit": "Walnut",
+   "Face": "Fed Up Blue",
+   "Feet": "Purple Hikers",
+   "Hands": "Spideys",
+   "Head": "Orange Visor",
+   "Item 1": "Splash GBoy",
+   "Item 2": "Talk Text",
+   "Outfit": "Red Beast",
+   "Special": "None"
+  }
+ }
+}

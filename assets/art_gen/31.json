@@ -1,0 +1,23 @@
+{
+ "number": 31,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676305935739.webp",
+ "metadata_cid": "bafkreigvzhzfhu642ig6b5b5h4fxuk5lsgnwy6w4abh5mtairl7wu4tfzq",
+ "metadata": {
+  "name": "Algonean #0031",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiapb4cxlewn6f4vndhjusa2clsyit4z4axmas7gdpptivmhrx5l2q",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Waka Waka",
+   "Bodysuit": "Dandelion",
+   "Face": "Neutral Purple",
+   "Feet": "Green Rollers",
+   "Hands": "Leather",
+   "Head": "None",
+   "Item 1": "Green Racket",
+   "Item 2": "Baywatch",
+   "Outfit": "Pink Nebula",
+   "Special": "None"
+  }
+ }
+}

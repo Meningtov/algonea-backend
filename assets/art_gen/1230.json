@@ -1,0 +1,23 @@
+{
+ "number": 1230,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057203213.webp",
+ "metadata_cid": "bafkreibceyr2a5n44iwscqqmxs6ajkuk4xcvspdihq6pmblzzv4egr6ury",
+ "metadata": {
+  "name": "Algonean #1230",
+  "standard": "arc3",
+  "image": "ipfs://bafkreictduvjzc3do2qyovwuikzfjgp4kl2iroiqdx23md3adm5cl2abqm",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Mocha",
+   "Bodysuit": "Robot",
+   "Face": "Green Guardian",
+   "Feet": "Green Drifters",
+   "Hands": "Greeno",
+   "Head": "Orange Visor",
+   "Item 1": "Soda Bottle",
+   "Item 2": "Keytar",
+   "Outfit": "Orange Lab Coat",
+   "Special": "None"
+  }
+ }
+}

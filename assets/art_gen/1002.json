@@ -1,0 +1,23 @@
+{
+ "number": 1002,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676308825338.webp",
+ "metadata_cid": "bafkreifziaqqlxoqjbiyqthcdcd7bwffhzyjnjfiu6y7imfuzodcu6osry",
+ "metadata": {
+  "name": "Algonean #1002",
+  "standard": "arc3",
+  "image": "ipfs://bafybeidj24mngjm76scmz25g7ielmlparlkx4staulopmxilvdlugycppa",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Twisted Green",
+   "Bodysuit": "Pistachio",
+   "Face": "Green Gator",
+   "Feet": "Green Cowboy Boots",
+   "Hands": "Brown Grip",
+   "Head": "Police Hat",
+   "Item 1": "Orange Potion",
+   "Item 2": "Submachine Gun",
+   "Outfit": "Policeman",
+   "Special": "Gold Wind Up"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 44,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676665055342.webp",
+ "metadata_cid": "bafkreiff5sx3jx2zjzaoise5groqcqhsuyoh7irypdlgvwuvsiuqyvk2aa",
+ "metadata": {
+  "name": "Algonean #0044",
+  "standard": "arc3",
+  "image": "ipfs://bafybeibmxfsol5b327bg7gnoumfnvvrhpq7omkjlbnd6hzbv2p7zjptknq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Blue Cup",
+   "Bodysuit": "Plushy Arctic",
+   "Face": "Evil Purple",
+   "Feet": "Gray Urbans",
+   "Hands": "Blueo",
+   "Head": "Mint Headband",
+   "Item 1": "Green Potion",
+   "Item 2": "Blue Gamepad",
+   "Outfit": "None",
+   "Special": "None"
+  }
+ }
+}

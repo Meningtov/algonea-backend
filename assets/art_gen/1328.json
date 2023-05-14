@@ -1,0 +1,23 @@
+{
+ "number": 1328,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057752250.webp",
+ "metadata_cid": "bafkreifxm6c7f6sl4kwbfcfjzs6orfrdzrmtxpljoawc42ylatqd5bo4xu",
+ "metadata": {
+  "name": "Algonean #1328",
+  "standard": "arc3",
+  "image": "ipfs://bafkreieafec6aqvnf5pnv7pv3w6auiplberddbthnr4voyczz5s7huqut4",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Black",
+   "Bodysuit": "Glossy Ocean",
+   "Face": "Wraith",
+   "Feet": "Green Hightops",
+   "Hands": "Greenscale",
+   "Head": "Purple Goggles",
+   "Item 1": "Yellow Blurby",
+   "Item 2": "Blue Basketball",
+   "Outfit": "Luchador",
+   "Special": "None"
+  }
+ }
+}

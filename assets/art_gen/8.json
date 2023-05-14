@@ -1,0 +1,23 @@
+{
+ "number": 8,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676046824003.webp",
+ "metadata_cid": "bafkreignm27hv3rl2ywuplhjp5fx6lbxbxhy3tosjbzcusctrz44rrgsim",
+ "metadata": {
+  "name": "Algonean #0008",
+  "standard": "arc3",
+  "image": "ipfs://bafybeieyumnc5m6aywtyiv7tn7prrt4dpvf7qww6tiawe2xoglrve63h2y",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Mint",
+   "Bodysuit": "Faded Blue",
+   "Face": "Surprised Pink",
+   "Feet": "Green Aeros",
+   "Hands": "80s",
+   "Head": "None",
+   "Item 1": "Knife",
+   "Item 2": "Basketball",
+   "Outfit": "None",
+   "Special": "Dolby"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 601,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676052266387.webp",
+ "metadata_cid": "bafkreiceuco4pwa5mehcn3vxzpjs3fmu75plikrmgostoyavuscyh2rhhy",
+ "metadata": {
+  "name": "Algonean #0601",
+  "standard": "arc3",
+  "image": "ipfs://bafkreig4zwgwuwcibj76ukpvvuxfwm4r6z4gxlevd6dd4fowaouvpyo4zq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "White",
+   "Bodysuit": "Glossy Orange",
+   "Face": "Tense Orange",
+   "Feet": "Purple Skullies",
+   "Hands": "Purple Biker",
+   "Head": "Green Helmet",
+   "Item 1": "Brown Racket",
+   "Item 2": "Pizza Slice",
+   "Outfit": "Blue Tutu",
+   "Special": "None"
+  }
+ }
+}

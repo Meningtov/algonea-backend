@@ -1,0 +1,23 @@
+{
+ "number": 1269,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057462835.webp",
+ "metadata_cid": "bafkreif5l3v7hqrlz34vhbqpder6slu7ksp3pyhjioo6p5mhhxhv36y56m",
+ "metadata": {
+  "name": "Algonean #1269",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiblhuqjitfdhqmbwh3vi7hm7l4qeij6lmw3cb3ryaqec3nzud6rra",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Dijon",
+   "Bodysuit": "Rundown Lavender",
+   "Face": "Joyful Blue",
+   "Feet": "None",
+   "Hands": "Scales",
+   "Head": "Blue Goggles",
+   "Item 1": "Blue Shovel",
+   "Item 2": "None",
+   "Outfit": "Orange Bikini",
+   "Special": "Moo Tail"
+  }
+ }
+}

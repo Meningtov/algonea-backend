@@ -1,0 +1,23 @@
+{
+ "number": 75,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676047471924.webp",
+ "metadata_cid": "bafkreifkvc4ynh24grlhajqn33zelelyhv7wtnur4dzvqgdwlxcfza52qe",
+ "metadata": {
+  "name": "Algonean #0075",
+  "standard": "arc3",
+  "image": "ipfs://bafybeiawcwtlnzfosfcv7edn4vnehedmnyi4ynaid4kzwj45uth5bgih4y",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Blue Dream",
+   "Bodysuit": "Glossy Scarlet",
+   "Face": "Mad Mint",
+   "Feet": "Red Urbans",
+   "Hands": "Red",
+   "Head": "Black Cap",
+   "Item 1": "Gray GBoy",
+   "Item 2": "Flashlight",
+   "Outfit": "Blue Tutu",
+   "Special": "None"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 1023,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676055520190.webp",
+ "metadata_cid": "bafkreieukf7hdrfx7o7iydym3czjwxalqmtnlcer25fmknyuxvhjjficlq",
+ "metadata": {
+  "name": "Algonean #1023",
+  "standard": "arc3",
+  "image": "ipfs://bafkreicbxobbmopua7yzuvzs7tenvge4fmca2xahjemxjmy7ba5c6p3fy4",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Sky",
+   "Bodysuit": "Fur",
+   "Face": "Happy Blue",
+   "Feet": "Pink Dolls",
+   "Hands": "Sand",
+   "Head": "Red Gumball",
+   "Item 1": "Red Boomerang",
+   "Item 2": "Black Pennyboard",
+   "Outfit": "Blue Trooper",
+   "Special": "None"
+  }
+ }
+}

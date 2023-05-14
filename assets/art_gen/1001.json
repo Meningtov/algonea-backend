@@ -1,0 +1,23 @@
+{
+ "number": 1001,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676055436073.webp",
+ "metadata_cid": "bafkreia3gh7jdauforsvz2fjbbtrpouougme7z5enezgzg5t46wwel2dvu",
+ "metadata": {
+  "name": "Algonean #1001",
+  "standard": "arc3",
+  "image": "ipfs://bafkreidkqg6sd3vkmteqte464thxrp5ivma4xjmzt2nu2mazmfx6hw2scm",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Purple",
+   "Bodysuit": "Pecan",
+   "Face": "Angry Blue",
+   "Feet": "Pink Dolls",
+   "Hands": "Pinko",
+   "Head": "Red Visor",
+   "Item 1": "None",
+   "Item 2": "Orange Lunchbox",
+   "Outfit": "Red Overall",
+   "Special": "None"
+  }
+ }
+}

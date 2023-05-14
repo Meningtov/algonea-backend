@@ -1,0 +1,23 @@
+{
+ "number": 987,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676054943893.webp",
+ "metadata_cid": "bafkreihlr5i6u45dyqv3oieutawshai5ql7ptryohsj3v2o23zhfnt6sxu",
+ "metadata": {
+  "name": "Algonean #0987",
+  "standard": "arc3",
+  "image": "ipfs://bafkreidxpvltu2wkh6zqrk2crm25yhjkx7fb2nr665kszfiabtwev3r3mu",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Red",
+   "Bodysuit": "Pink",
+   "Face": "Evil Green",
+   "Feet": "Police Shoes",
+   "Hands": "Bicolor Combat",
+   "Head": "Hightop",
+   "Item 1": "Purple Lightsword",
+   "Item 2": "Submachine Gun",
+   "Outfit": "Yellow Wrestler",
+   "Special": "Bat Wings"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 36,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676046927805.webp",
+ "metadata_cid": "bafkreibuecp7vksjyxpdwmv7pphkpcgewckvmh6abotphnxuhcxlyzr3ti",
+ "metadata": {
+  "name": "Algonean #0036",
+  "standard": "arc3",
+  "image": "ipfs://bafkreigspfglyhffam2aphjmu5h4szdwpvuejbqam7yso6rbjpbbdlnamy",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Oasis",
+   "Bodysuit": "Glossy Cherry",
+   "Face": "Tense Cherry",
+   "Feet": "Clean Socks",
+   "Hands": "Orchid",
+   "Head": "None",
+   "Item 1": "Bloody Knife",
+   "Item 2": "Blue Paddleball",
+   "Outfit": "Green Retro Hoodie",
+   "Special": "Pink Madcat Tail"
+  }
+ }
+}

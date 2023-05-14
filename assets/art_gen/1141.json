@@ -1,0 +1,23 @@
+{
+ "number": 1141,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676056464772.webp",
+ "metadata_cid": "bafkreihh2wvwbr227e32bbpysnrkveokfiu24p4gjrr53725gaue6czcem",
+ "metadata": {
+  "name": "Algonean #1141",
+  "standard": "arc3",
+  "image": "ipfs://bafkreientstymnggsopl2my3pyxh7ycv6bylxx5jlswi55slrocddqo24q",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Tangerine",
+   "Bodysuit": "Glossy Purple",
+   "Face": "Evil Purple",
+   "Feet": "Brown Boots",
+   "Hands": "Graphite",
+   "Head": "Red Visor",
+   "Item 1": "Drizzle GBoy",
+   "Item 2": "Talk Text",
+   "Outfit": "Gray Ravenman",
+   "Special": "None"
+  }
+ }
+}

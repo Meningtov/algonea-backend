@@ -1,0 +1,23 @@
+{
+ "number": 723,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676053049697.webp",
+ "metadata_cid": "bafkreidpqcwq2qzoxmbvz2rrk2rxzmridocy3a5p5x4icb5fkikwhve4wi",
+ "metadata": {
+  "name": "Algonean #0723",
+  "standard": "arc3",
+  "image": "ipfs://bafkreidcx4appvkeb3kr5jtt4gqamux3uhwg72yj4dv2n3hsqidcddbzji",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Dark",
+   "Bodysuit": "Cactus",
+   "Face": "Neutral Melon",
+   "Feet": "Blue Oldies",
+   "Hands": "Yellow",
+   "Head": "Orange Visor",
+   "Item 1": "Purple Boomerang",
+   "Item 2": "None",
+   "Outfit": "Red Hoodie",
+   "Special": "Arrow"
+  }
+ }
+}

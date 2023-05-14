@@ -1,0 +1,23 @@
+{
+ "number": 33,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676046915490.webp",
+ "metadata_cid": "bafkreidurv7qa634xl2bu3ekliure725sojwvml5ig4gpvu4zbsbqsmm6m",
+ "metadata": {
+  "name": "Algonean #0033",
+  "standard": "arc3",
+  "image": "ipfs://bafkreibkmoyd6k7dwubqrodhyfarejqdzb6e2mtkxqqaiqwfu2rb2tmtlm",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Tropical Mango",
+   "Bodysuit": "Glossy Watermelon",
+   "Face": "Green Guardian",
+   "Feet": "Yellow Hikers",
+   "Hands": "Orchid",
+   "Head": "Black Cap",
+   "Item 1": "Flowers",
+   "Item 2": "None",
+   "Outfit": "Orange Nebula",
+   "Special": "None"
+  }
+ }
+}

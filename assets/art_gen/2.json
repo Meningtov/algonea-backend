@@ -1,0 +1,23 @@
+{
+ "number": 2,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676046801713.webp",
+ "metadata_cid": "bafkreibjj3ycpnki2fkndvtxdi74vs453uxsdwi6pq4cxrjkwmzh3ahsou",
+ "metadata": {
+  "name": "Algonean #0002",
+  "standard": "arc3",
+  "image": "ipfs://bafkreihixbtneldmkdh5o7ydbv2ek7tmurte4z7l45wuyvzmdor4zc4vku",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Sky",
+   "Bodysuit": "Glossy Bubblegum",
+   "Face": "Scared Purple",
+   "Feet": "None",
+   "Hands": "Pinko",
+   "Head": "Red Horns",
+   "Item 1": "Brainalyzer",
+   "Item 2": "Baywatch",
+   "Outfit": "Green Overall",
+   "Special": "Dolby"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 13,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676046843237.webp",
+ "metadata_cid": "bafkreicvua6bmeoerae6qo6zw5y7lbkwt6dhtuffdsio7qgigtskhqrp5e",
+ "metadata": {
+  "name": "Algonean #0013",
+  "standard": "arc3",
+  "image": "ipfs://bafkreigh6u2yzroirzzjkglj7555s5boouz4tknnxjrylxstcbk4syhleq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Mocha",
+   "Bodysuit": "Flint",
+   "Face": "Dreamy",
+   "Feet": "None",
+   "Hands": "Rainbow Grip",
+   "Head": "Hightop",
+   "Item 1": "Grape Pop",
+   "Item 2": "None",
+   "Outfit": "Burgler",
+   "Special": "None"
+  }
+ }
+}

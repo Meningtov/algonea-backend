@@ -1,0 +1,23 @@
+{
+ "number": 22,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676046874161.webp",
+ "metadata_cid": "bafkreihecz5iipdwlg2evzxpqzmblexyrimheurg7hn6r3zqok3kr4cnvu",
+ "metadata": {
+  "name": "Algonean #0022",
+  "standard": "arc3",
+  "image": "ipfs://bafkreibz4urxgyh6jt7zryvy27j6f4ob4wmlo6p4ojiwowri6ada4ka4wa",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Bubblegum",
+   "Bodysuit": "Toxic Reptile",
+   "Face": "Sad Purple",
+   "Feet": "None",
+   "Hands": "Gold",
+   "Head": "Red Cap",
+   "Item 1": "Orange GBoy",
+   "Item 2": "Pink Pennyboard",
+   "Outfit": "Blue Idol",
+   "Special": "Silver Wind Up"
+  }
+ }
+}

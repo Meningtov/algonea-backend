@@ -1,0 +1,23 @@
+{
+ "number": 595,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676052252402.webp",
+ "metadata_cid": "bafkreicgbqts4dgtoighgvkv2cmmjqi5wkdggt4zlb6fjok2ox6ibzxgvy",
+ "metadata": {
+  "name": "Algonean #0595",
+  "standard": "arc3",
+  "image": "ipfs://bafkreibgfseuth24drvtkz63rngc4lcb62wfg52qc7pvelll2hrdtoramq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Yellow",
+   "Bodysuit": "Glossy Jade",
+   "Face": "Dull Blue",
+   "Feet": "Purple Claws",
+   "Hands": "Obsidian",
+   "Head": "Brain",
+   "Item 1": "Drizzle GBoy",
+   "Item 2": "Notebook",
+   "Outfit": "Blue Hoodie",
+   "Special": "None"
+  }
+ }
+}

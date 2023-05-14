@@ -1,0 +1,23 @@
+{
+ "number": 964,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676054844248.webp",
+ "metadata_cid": "bafkreifkyt37e4strnse5jvhnvnzxbkywtuu2l5cbqz2a5ffgyf5imqiuu",
+ "metadata": {
+  "name": "Algonean #0964",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiahmxih2iddlnzqsdzdaiearicf6i6yfukxcaa7hod6nzjnes3bsq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Red",
+   "Bodysuit": "Glossy Ocean",
+   "Face": "High Green",
+   "Feet": "None",
+   "Hands": "Graphite",
+   "Head": "Brown Sodahat",
+   "Item 1": "Blue Guitar",
+   "Item 2": "Pizza Slice",
+   "Outfit": "Thunder Armor",
+   "Special": "Pink Madcat Tail"
+  }
+ }
+}

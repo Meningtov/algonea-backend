@@ -1,0 +1,23 @@
+{
+ "number": 91,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676047601780.webp",
+ "metadata_cid": "bafkreidoisbicluftpdjau7ne5evhobymz7avxrjqbknlfk5ujy3xgmtwa",
+ "metadata": {
+  "name": "Algonean #0091",
+  "standard": "arc3",
+  "image": "ipfs://bafybeiabclo3mxpp4ryykv6thjquvvej7tigibz63lbwiinele67nu566y",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Blue Cup",
+   "Bodysuit": "Cactus",
+   "Face": "Distressed Melon",
+   "Feet": "Pink Claws",
+   "Hands": "Tactical Green",
+   "Head": "None",
+   "Item 1": "Red Shovel",
+   "Item 2": "Basketball",
+   "Outfit": "Blue Idol",
+   "Special": "None"
+  }
+ }
+}

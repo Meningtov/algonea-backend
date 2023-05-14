@@ -1,0 +1,23 @@
+{
+ "number": 1442,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676058371206.webp",
+ "metadata_cid": "bafkreigzu32fjjcc72w72b5rdjoajwo2nlju4wcsytgl4z3yhjdj26l3g4",
+ "metadata": {
+  "name": "Algonean #1442",
+  "standard": "arc3",
+  "image": "ipfs://bafkreig226zxxg4q6i7npuowgkrw6tvbcmfrkpzr4nnli4pbjibdx6zdu4",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Mocha",
+   "Bodysuit": "Ultraviolet",
+   "Face": "Excited Blue",
+   "Feet": "Red Sneakers",
+   "Hands": "Sand",
+   "Head": "Pink Bunny",
+   "Item 1": "Orange Potion",
+   "Item 2": "Red Gamepad",
+   "Outfit": "Blue XOJacket",
+   "Special": "Gold Wind Up"
+  }
+ }
+}

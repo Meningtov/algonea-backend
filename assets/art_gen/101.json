@@ -1,0 +1,23 @@
+{
+ "number": 101,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676048056678.webp",
+ "metadata_cid": "bafkreihmavhlqnzy5stqtw2sknw2vp5qvx4b5uhkqr7u36qewtg3u4whxu",
+ "metadata": {
+  "name": "Algonean #0101",
+  "standard": "arc3",
+  "image": "ipfs://bafkreievelj6q2jxhyan2spaylgvhm4umixjdyganu2h37jhahaqb4bbve",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Green Sketch",
+   "Bodysuit": "Worn Out Ice",
+   "Face": "Dreamy",
+   "Feet": "Redwood Boots",
+   "Hands": "Purple Biker",
+   "Head": "Green Cowboy Hat",
+   "Item 1": "Red GBoy",
+   "Item 2": "None",
+   "Outfit": "Purple Beast",
+   "Special": "None"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 1135,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676056440926.webp",
+ "metadata_cid": "bafkreidjyw6dbnooc5o62uiwjpi27wbtgtnfu2nuikpc43fplkl3adk6ca",
+ "metadata": {
+  "name": "Algonean #1135",
+  "standard": "arc3",
+  "image": "ipfs://bafkreif2j6kmkp5zsl5oduvneauy2v6k4acnemnpb5vocf4ej6ua2gch5u",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Lemon",
+   "Bodysuit": "Dandelion",
+   "Face": "Angry Blue",
+   "Feet": "Trek Shoes",
+   "Hands": "Tactical Green",
+   "Head": "Red Horns",
+   "Item 1": "Purple Lightsword",
+   "Item 2": "Green Bucket",
+   "Outfit": "Leo",
+   "Special": "Dino Tail"
+  }
+ }
+}

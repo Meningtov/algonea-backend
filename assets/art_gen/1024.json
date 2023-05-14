@@ -1,0 +1,23 @@
+{
+ "number": 1024,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676055523245.webp",
+ "metadata_cid": "bafkreif363lpzwsvkvqkzgxedwrfhn7rewo3p7rkq4npcrz6zzclzxwqpe",
+ "metadata": {
+  "name": "Algonean #1024",
+  "standard": "arc3",
+  "image": "ipfs://bafkreifpwxdhkry2a6wyxme6uwlksfvagxjyg7tnm6vfv7nsgfmz3t6l7i",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Tangerine",
+   "Bodysuit": "Worn Out Ocean",
+   "Face": "Robot",
+   "Feet": "None",
+   "Hands": "Cartoon",
+   "Head": "Orange Beanie",
+   "Item 1": "Blue Tommygotchi",
+   "Item 2": "Algorios",
+   "Outfit": "Bluebones Hoodie",
+   "Special": "None"
+  }
+ }
+}

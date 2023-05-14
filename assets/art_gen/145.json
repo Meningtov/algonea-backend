@@ -1,0 +1,23 @@
+{
+ "number": 145,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676048353022.webp",
+ "metadata_cid": "bafkreiegvns5ywozbgr3glh6pztwj7s5o7tmbv5kplnwsmjt5hqm2m5f3e",
+ "metadata": {
+  "name": "Algonean #0145",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiemhefnxywzlsq24sbbpsvzwnfinszfngzllokpcfg5galkzfqxsq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Moss",
+   "Bodysuit": "Glossy Watermelon",
+   "Face": "Confident Mint",
+   "Feet": "Dress Shoes",
+   "Hands": "80s",
+   "Head": "Black Cap",
+   "Item 1": "Blue Potion",
+   "Item 2": "Algorios",
+   "Outfit": "EVA",
+   "Special": "None"
+  }
+ }
+}

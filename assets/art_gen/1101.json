@@ -1,0 +1,23 @@
+{
+ "number": 1101,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676056066941.webp",
+ "metadata_cid": "bafkreigkpkspe3ui4rfbgt47jvc6yrvz5k4akhi3pic2cz6zk7a3s37fcm",
+ "metadata": {
+  "name": "Algonean #1101",
+  "standard": "arc3",
+  "image": "ipfs://bafkreif6zdqflmmg7cawxxku5cp7ya735tibcf6ybks36yryvb6dbcycw4",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Green Doodle",
+   "Bodysuit": "Faded Blue",
+   "Face": "Surprised Pink",
+   "Feet": "Brown Boots",
+   "Hands": "Tactical Green",
+   "Head": "Black Beanie",
+   "Item 1": "Green Guitar",
+   "Item 2": "Basketball",
+   "Outfit": "Blue Trooper",
+   "Special": "None"
+  }
+ }
+}

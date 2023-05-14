@@ -1,0 +1,23 @@
+{
+ "number": 569,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1678999461267.webp",
+ "metadata_cid": "bafkreifm3luzrcbfj7qgdv4ncjyhxmts7dd5ynotybv4tqvn4fjxizvetq",
+ "metadata": {
+  "name": "Algonean #0569",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiapty7q26c3bs6n6fl63xxfvtlbfniqx3bvhkcx24k5nufktbfbgq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Black",
+   "Bodysuit": "Glossy Mint",
+   "Face": "Ecstatic Purple",
+   "Feet": "None",
+   "Hands": "Pink",
+   "Head": "Green Mask",
+   "Item 1": "Green Potion",
+   "Item 2": "Black Pennyboard",
+   "Outfit": "Mikey",
+   "Special": "Turtle Carapace"
+  }
+ }
+}

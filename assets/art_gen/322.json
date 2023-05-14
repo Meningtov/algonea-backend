@@ -1,0 +1,23 @@
+{
+ "number": 322,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676050341397.webp",
+ "metadata_cid": "bafkreidl7qlr2lxm34heu7veflcmik6ojeipdn2xfzyuslxq336y2wsg5i",
+ "metadata": {
+  "name": "Algonean #0322",
+  "standard": "arc3",
+  "image": "ipfs://bafkreig2pr6awgo7tuxnoce6rtbxcshrc3s5utn2dei7wg5dw6ij26rw7i",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Blue",
+   "Bodysuit": "Glossy Orange",
+   "Face": "Neutral Green",
+   "Feet": "None",
+   "Hands": "Tactical Purple",
+   "Head": "Green Goggles",
+   "Item 1": "Red Firecracker",
+   "Item 2": "None",
+   "Outfit": "Mint Bikini",
+   "Special": "None"
+  }
+ }
+}

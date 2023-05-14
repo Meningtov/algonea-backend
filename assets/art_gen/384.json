@@ -1,0 +1,23 @@
+{
+ "number": 384,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676050731881.webp",
+ "metadata_cid": "bafkreidwrobf26bkydnrbw4kffo4kghitq5s75g5i4azo4cvrqks5dn6ey",
+ "metadata": {
+  "name": "Algonean #0384",
+  "standard": "arc3",
+  "image": "ipfs://bafkreic7nywaeldlwz2x4k67p7ws6bgxar7sw33y3ozybpcqwrbw6c2bdu",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Fresh Lemonade",
+   "Bodysuit": "Worn Out Pistachio",
+   "Face": "Cyclops",
+   "Feet": "Yellow Hikers",
+   "Hands": "Brown Grip",
+   "Head": "Black Beanie",
+   "Item 1": "Katana",
+   "Item 2": "Blue Droll",
+   "Outfit": "Blue Beast",
+   "Special": "Green Power Chord Tail"
+  }
+ }
+}

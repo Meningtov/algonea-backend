@@ -1,0 +1,23 @@
+{
+ "number": 420,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676050955704.webp",
+ "metadata_cid": "bafkreib6cdmt2mbqybxbmykpzyzq6iv4scfe673ztiim62ufv24omcj6uu",
+ "metadata": {
+  "name": "Algonean #0420",
+  "standard": "arc3",
+  "image": "ipfs://bafkreicbn2y57ater26aeuka4hkrku6nuytdnx4rnuasycv7lysjtejlwm",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "White",
+   "Bodysuit": "Bronze",
+   "Face": "Crazy Casey",
+   "Feet": "Green High-tops",
+   "Hands": "Blue Grip",
+   "Head": "Red Beret",
+   "Item 1": "Twinkle Twirl",
+   "Item 2": "None",
+   "Outfit": "Blue Lab Coat",
+   "Special": "None"
+  }
+ }
+}

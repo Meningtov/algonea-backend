@@ -1,0 +1,23 @@
+{
+ "number": 207,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676048787331.webp",
+ "metadata_cid": "bafkreiba5jztp4kmwmdokaep3t2zeogfxu3sqeo3tam76zrqbvc5xpvmnm",
+ "metadata": {
+  "name": "Algonean #0207",
+  "standard": "arc3",
+  "image": "ipfs://bafkreidfyvt6uaf6hk7sh4lsstywubqbk7k7rpfnjmbdre27vwkndl3wxa",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Green Squiggle",
+   "Bodysuit": "Glossy Cherry",
+   "Face": "Voltage",
+   "Feet": "Aquas",
+   "Hands": "Graphite",
+   "Head": "None",
+   "Item 1": "Green Racket",
+   "Item 2": "Boombox",
+   "Outfit": "Judan",
+   "Special": "None"
+  }
+ }
+}

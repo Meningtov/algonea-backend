@@ -1,0 +1,23 @@
+{
+ "number": 736,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676053100855.webp",
+ "metadata_cid": "bafkreido3qpdq555bk6cty7acvrcvzlljanoacnqal25rwz7ovin7fkjei",
+ "metadata": {
+  "name": "Algonean #0736",
+  "standard": "arc3",
+  "image": "ipfs://bafkreicmvdjj53t7s63emxsxfv6qwfvg2cyxn6b3uvcxihagbqv5xqbxmq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Notepad",
+   "Bodysuit": "Midnight",
+   "Face": "Fed Up Blue",
+   "Feet": "Yellow Flipflops",
+   "Hands": "Green",
+   "Head": "Green Goggles",
+   "Item 1": "Blue Racket",
+   "Item 2": "Notebook",
+   "Outfit": "Orange Hoodie",
+   "Special": "Dino Tail"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 369,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676050674326.webp",
+ "metadata_cid": "bafkreihluyylnmkzsh7j4wlpaelf7xtm4yfn2rxgzae7nydu4cvdr2kmeq",
+ "metadata": {
+  "name": "Algonean #0369",
+  "standard": "arc3",
+  "image": "ipfs://bafkreianzddnpnpyjhpax6td75zbep3ov3cxsskuuabsqrcxds6oakk7ui",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Blue",
+   "Bodysuit": "Glossy Watermelon",
+   "Face": "Delighted Lime",
+   "Feet": "Blue Oldies",
+   "Hands": "Pink",
+   "Head": "Blue Mask",
+   "Item 1": "Blue Lightsword",
+   "Item 2": "Basketball",
+   "Outfit": "Don",
+   "Special": "None"
+  }
+ }
+}

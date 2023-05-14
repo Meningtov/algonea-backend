@@ -1,0 +1,23 @@
+{
+ "number": 701,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676052963798.webp",
+ "metadata_cid": "bafkreihoovmrvjgrzdd6bsc6zrqplt7zrlt5dhw4xkjqfrlk2lto2bw5ze",
+ "metadata": {
+  "name": "Algonean #0701",
+  "standard": "arc3",
+  "image": "ipfs://bafkreifrqnmgox7cobwo2fvoi5bfgvr5xqj3jz656kvqmpq2u45opdq63y",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Matrix",
+   "Bodysuit": "Glossy Ocean",
+   "Face": "Neutral Purple",
+   "Feet": "None",
+   "Hands": "Scales",
+   "Head": "White Headband",
+   "Item 1": "None",
+   "Item 2": "Garfeline",
+   "Outfit": "Black Trooper",
+   "Special": "None"
+  }
+ }
+}

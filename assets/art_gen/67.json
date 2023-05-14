@@ -1,0 +1,23 @@
+{
+ "number": 67,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676047452132.webp",
+ "metadata_cid": "bafkreielexkwsba7y2bchpwtacerhbj5dly4vgvrezsde7yoj7hvvsoysm",
+ "metadata": {
+  "name": "Algonean #0067",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiacdq6srdgx4gibr3lzpbvwrqsd74dqslgk2tmiwquvqauanbekee",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Red Sketch",
+   "Bodysuit": "Plushy Amethyst",
+   "Face": "Killer Robot",
+   "Feet": "Autoboots",
+   "Hands": "Scales",
+   "Head": "Brown Beret",
+   "Item 1": "Green Boomerang",
+   "Item 2": "Algo Flakes",
+   "Outfit": "None",
+   "Special": "None"
+  }
+ }
+}

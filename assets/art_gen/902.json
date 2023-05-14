@@ -1,0 +1,23 @@
+{
+ "number": 902,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676054338479.webp",
+ "metadata_cid": "bafkreihn6pxio2zbmm443a7anem5htqbg2kvuijrerpevfumvgq4zhrkoy",
+ "metadata": {
+  "name": "Algonean #0902",
+  "standard": "arc3",
+  "image": "ipfs://bafkreihighu3oi2tvlrhda7i4mqmzvruuv6cqwwdrl72a6p4iwuabz5fqm",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Dark",
+   "Bodysuit": "Robot",
+   "Face": "Delighted Lime",
+   "Feet": "Robots",
+   "Hands": "Cartoon",
+   "Head": "Pink Goggles",
+   "Item 1": "Grape Lollipop",
+   "Item 2": "Blue Bucket",
+   "Outfit": "Mint Bikini",
+   "Special": "None"
+  }
+ }
+}

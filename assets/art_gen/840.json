@@ -1,0 +1,23 @@
+{
+ "number": 840,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676054051591.webp",
+ "metadata_cid": "bafkreifnwu4qm3shgcsduivhkwnal3wu2k72wemo3utbe7pxohsmvxtapy",
+ "metadata": {
+  "name": "Algonean #0840",
+  "standard": "arc3",
+  "image": "ipfs://bafkreie23nmyt3tfyltrxr26dsclvgpbpglsrdq5tai24e5wlphapwco4m",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Waka Waka",
+   "Bodysuit": "Sand",
+   "Face": "Candy Skully",
+   "Feet": "Orange Jumpers",
+   "Hands": "Red",
+   "Head": "Blue Helmet",
+   "Item 1": "Blue Shovel",
+   "Item 2": "None",
+   "Outfit": "Shodan",
+   "Special": "None"
+  }
+ }
+}

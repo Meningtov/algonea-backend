@@ -1,0 +1,23 @@
+{
+ "number": 513,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676986542090.webp",
+ "metadata_cid": "bafkreifgucrivvujhwvcdje3lmb5jnaeml7vxn3gifomktml6bbyp2rpuu",
+ "metadata": {
+  "name": "Algonean #0513",
+  "standard": "arc3",
+  "image": "ipfs://bafkreihlknm74qtnolrc2kty425qc3qdxfvzwtlzqldwoo6bltrjdofq3q",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Dijon",
+   "Bodysuit": "Glossy Bubblegum",
+   "Face": "Angry Blue",
+   "Feet": "Green Urbans",
+   "Hands": "Red Hazmat",
+   "Head": "None",
+   "Item 1": "Pink Racket",
+   "Item 2": "Garfeline",
+   "Outfit": "Policeman",
+   "Special": "None"
+  }
+ }
+}

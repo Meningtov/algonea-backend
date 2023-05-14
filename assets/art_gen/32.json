@@ -1,0 +1,23 @@
+{
+ "number": 32,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676046911091.webp",
+ "metadata_cid": "bafkreiapmeo3leyfnfe5zak24dgbabyfcvsufi7boqtbtecl4afqiuvulm",
+ "metadata": {
+  "name": "Algonean #0032",
+  "standard": "arc3",
+  "image": "ipfs://bafkreide7dwkgh26nkzd4vp3gtdyynt5dlbgdf3blwhmyluja3lo5tkyha",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Purple Squiggle",
+   "Bodysuit": "Pistachio",
+   "Face": "Evil Blue",
+   "Feet": "Red Urbans",
+   "Hands": "Dark",
+   "Head": "Dream Antlers",
+   "Item 1": "Brown Racket",
+   "Item 2": "Mighty Sword",
+   "Outfit": "Black Bunny",
+   "Special": "None"
+  }
+ }
+}

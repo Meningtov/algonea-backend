@@ -1,0 +1,23 @@
+{
+ "number": 1350,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057838837.webp",
+ "metadata_cid": "bafkreigttwebkeqcvukfmgt73ar6zbbyat6w5kboh2qdfuyw7f43atx2ka",
+ "metadata": {
+  "name": "Algonean #1350",
+  "standard": "arc3",
+  "image": "ipfs://bafkreidj5nlxobmnuoornkpsq2fyroib76tbgqceanojdcssoylydgqwyi",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Blue Squiggle",
+   "Bodysuit": "Reptile",
+   "Face": "Dreamy",
+   "Feet": "Rusty Robots",
+   "Hands": "Pinko",
+   "Head": "Purple Cap",
+   "Item 1": "Hot Dog",
+   "Item 2": "Rubys Cube",
+   "Outfit": "Blue Undies",
+   "Special": "Blue Power Chord Tail"
+  }
+ }
+}

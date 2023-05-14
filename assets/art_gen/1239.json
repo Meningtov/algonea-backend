@@ -1,0 +1,23 @@
+{
+ "number": 1239,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057234957.webp",
+ "metadata_cid": "bafkreihgcz7f32rupxml3pmnmmduk5xlfhuvhxmdsxhbgpxj2nsmhftxpm",
+ "metadata": {
+  "name": "Algonean #1239",
+  "standard": "arc3",
+  "image": "ipfs://bafkreif2xr7tpmxphyfwv5bqcujty3k7tvqhzgt6lteacl2iic7nvbujji",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Dreamland",
+   "Bodysuit": "Flint",
+   "Face": "Tense Purple",
+   "Feet": "None",
+   "Hands": "Tactical Blue",
+   "Head": "Player 1",
+   "Item 1": "Knife",
+   "Item 2": "Blue Droll",
+   "Outfit": "Gray Overall",
+   "Special": "None"
+  }
+ }
+}

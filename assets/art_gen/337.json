@@ -1,0 +1,23 @@
+{
+ "number": 337,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676050399375.webp",
+ "metadata_cid": "bafkreihaendari42ngwxoavptpbvwqswkzqjtpgcr6mwnr2b3vnakjb24e",
+ "metadata": {
+  "name": "Algonean #0337",
+  "standard": "arc3",
+  "image": "ipfs://bafkreigq3l3iaokwa7blbakbchm2yvatczfcbj5wpbnc3gnrae3ghniaci",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Tangerine",
+   "Bodysuit": "Worn Out Pistachio",
+   "Face": "Paranoid",
+   "Feet": "Orange Slippers",
+   "Hands": "Radioactive",
+   "Head": "Twinkle Crown",
+   "Item 1": "Purple Potion",
+   "Item 2": "Red Skate",
+   "Outfit": "Red Hoodie",
+   "Special": "None"
+  }
+ }
+}

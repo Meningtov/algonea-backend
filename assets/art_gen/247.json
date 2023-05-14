@@ -1,0 +1,23 @@
+{
+ "number": 247,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676049135294.webp",
+ "metadata_cid": "bafkreib5s64vz5e6arhcw3levq5zsg4wll2nzibq7pc334db73lhcn6muq",
+ "metadata": {
+  "name": "Algonean #0247",
+  "standard": "arc3",
+  "image": "ipfs://bafkreib7ya2drnehlx32oswjx2p4evx3rksrbgyb6t27vw5s7qk6gbmucm",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Blue Sketch",
+   "Bodysuit": "Glossy Jade",
+   "Face": "Sweet Pink",
+   "Feet": "Reds",
+   "Hands": "Brawler",
+   "Head": "Blue Beret",
+   "Item 1": "Splash GBoy",
+   "Item 2": "Green Lunchbox",
+   "Outfit": "Gray Suit",
+   "Special": "Lucky Tail"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 293,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676049748122.webp",
+ "metadata_cid": "bafkreicyghswauzyqfymtw7hdutwrr7w3prwe3b6wxy4p36t2mnxrv2gnm",
+ "metadata": {
+  "name": "Algonean #0293",
+  "standard": "arc3",
+  "image": "ipfs://bafkreifqzeppdmicy6b7cwco2vu3ce3izhrkhlzwzsmi6psmmqbdx2w5su",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Dark",
+   "Bodysuit": "Pistachio",
+   "Face": "Serene Purple",
+   "Feet": "Pink Urbans",
+   "Hands": "Sky",
+   "Head": "Pink Headband",
+   "Item 1": "Nunchucks",
+   "Item 2": "Yellow Basketball",
+   "Outfit": "Red Wrestler",
+   "Special": "None"
+  }
+ }
+}

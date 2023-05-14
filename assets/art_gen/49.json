@@ -1,0 +1,23 @@
+{
+ "number": 49,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676046985284.webp",
+ "metadata_cid": "bafkreigmk62vo7mlqvq5b3z4q3tes2bucvjk2oxxxfgvyxbjqwp2eza4pq",
+ "metadata": {
+  "name": "Algonean #0049",
+  "standard": "arc3",
+  "image": "ipfs://bafybeiaio4o34cc65urcfe7inuwf3hhyajp7fu3vlcxd5sf3kptu24b6sq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Blue Cup",
+   "Bodysuit": "Flint",
+   "Face": "Tense Orange",
+   "Feet": "Gray Walkers",
+   "Hands": "White",
+   "Head": "Black Cap",
+   "Item 1": "Blue Soap",
+   "Item 2": "Green Skate",
+   "Outfit": "Leo",
+   "Special": "None"
+  }
+ }
+}

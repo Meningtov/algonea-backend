@@ -1,0 +1,23 @@
+{
+ "number": 3,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676046806327.webp",
+ "metadata_cid": "bafkreibhgtgna6ugnr55un7vaailc5uli4ybxnbwjal2v7qk5mqfxd22xa",
+ "metadata": {
+  "name": "Algonean #0003",
+  "standard": "arc3",
+  "image": "ipfs://bafkreieblbhgngaddykn2batjs7ny2zq3xu6i2enrgutihxsrx2jl3af5y",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Dreamland",
+   "Bodysuit": "Glossy Scarlet",
+   "Face": "Surprised Purple",
+   "Feet": "Gray Tigers",
+   "Hands": "Pink",
+   "Head": "Robot",
+   "Item 1": "None",
+   "Item 2": "None",
+   "Outfit": "Underwear",
+   "Special": "Gold Wind Up"
+  }
+ }
+}

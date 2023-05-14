@@ -1,0 +1,23 @@
+{
+ "number": 54,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676047422186.webp",
+ "metadata_cid": "bafkreiccnassp6nbymersg2bvgh6m2uohgwzwwtbltmru3aatxsborariq",
+ "metadata": {
+  "name": "Algonean #0054",
+  "standard": "arc3",
+  "image": "ipfs://bafkreigqvviibsi2vevrhgib3rtfclmdrrrm35vip42tfjxmqqdfhxssku",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Tangerine",
+   "Bodysuit": "Worn Out Sand",
+   "Face": "Catrina",
+   "Feet": "Redwood Boots",
+   "Hands": "Blue Biker",
+   "Head": "Orange Shades",
+   "Item 1": "Blue Walkboi",
+   "Item 2": "Green Bucket",
+   "Outfit": "Sky Beast",
+   "Special": "None"
+  }
+ }
+}

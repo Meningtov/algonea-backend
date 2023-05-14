@@ -1,0 +1,23 @@
+{
+ "number": 443,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676051043560.webp",
+ "metadata_cid": "bafkreiah2xht2irq5ymckl4rqofig7vaf6r3dt5dhiieoilh267qdpoy6u",
+ "metadata": {
+  "name": "Algonean #0443",
+  "standard": "arc3",
+  "image": "ipfs://bafybeifhbqi43op3kfgv5slrxem4rnar5amjul4odkjw446zrqbkojv2jq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Honeycomb",
+   "Bodysuit": "Pistachio",
+   "Face": "Neutral Green",
+   "Feet": "Pink Rollers",
+   "Hands": "Green",
+   "Head": "Doc",
+   "Item 1": "Orange Walkboi",
+   "Item 2": "Mighty Sword",
+   "Outfit": "None",
+   "Special": "Fuse"
+  }
+ }
+}

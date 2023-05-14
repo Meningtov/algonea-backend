@@ -1,0 +1,23 @@
+{
+ "number": 532,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1677199007118.webp",
+ "metadata_cid": "bafkreiazgrbp6os5lp7wej3xq72g6kkg6tvgcmew5sbrqu4hlu62r5umom",
+ "metadata": {
+  "name": "Algonean #0532",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiapav4u4pv73ethciqii2dj7xfapgr4ist4ip27df7g47keqj6sta",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Oasis",
+   "Bodysuit": "Pistachio",
+   "Face": "Angry Orange",
+   "Feet": "Dirty Socks",
+   "Hands": "Lavender",
+   "Head": "Blue Mask",
+   "Item 1": "Katana",
+   "Item 2": "None",
+   "Outfit": "Leo",
+   "Special": "None"
+  }
+ }
+}

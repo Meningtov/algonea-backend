@@ -1,0 +1,23 @@
+{
+ "number": 226,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676049005777.webp",
+ "metadata_cid": "bafkreiefr5g3d57hcld7gwuqi2ule5dj32xx2k7qopj3e3q5rzrqk6sczy",
+ "metadata": {
+  "name": "Algonean #0226",
+  "standard": "arc3",
+  "image": "ipfs://bafkreigtv4zpwps5v7iaffrznmryyn3ddxb7lh5leobhbzbtqnc522xctu",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Green Squiggle",
+   "Bodysuit": "Glossy Purple",
+   "Face": "Surprised Melon",
+   "Feet": "Blue Urbans",
+   "Hands": "Tactical Green",
+   "Head": "Hightop",
+   "Item 1": "Hot Dog",
+   "Item 2": "Green Lunchbox",
+   "Outfit": "None",
+   "Special": "None"
+  }
+ }
+}

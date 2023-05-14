@@ -1,0 +1,23 @@
+{
+ "number": 285,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676049714907.webp",
+ "metadata_cid": "bafkreifme7flyhuvvdhxepzv4rnukev3v2baf5lkk5v2ehoqlrpmflpr2e",
+ "metadata": {
+  "name": "Algonean #0285",
+  "standard": "arc3",
+  "image": "ipfs://bafybeicz7mjxhut7e5yaeceezluy7flswvke44ryh5ogxzek7jxxosmgnu",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Candy",
+   "Bodysuit": "Rusty Robot",
+   "Face": "Dreamy",
+   "Feet": "Mint Hikers",
+   "Hands": "Yellow Hazmat",
+   "Head": "Chocolate Ice Cream",
+   "Item 1": "Green Blurby",
+   "Item 2": "Gray Gamepad",
+   "Outfit": "None",
+   "Special": "None"
+  }
+ }
+}

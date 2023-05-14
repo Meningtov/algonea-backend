@@ -1,0 +1,23 @@
+{
+ "number": 203,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676048775992.webp",
+ "metadata_cid": "bafkreigvyrz6oj2rbrflnjaeqbjv6qz6iihgqaaezjscy6cthvxn3gjkn4",
+ "metadata": {
+  "name": "Algonean #0203",
+  "standard": "arc3",
+  "image": "ipfs://bafybeicqpqoejk3d5g5mrqlqhj4nesk2bhgvrklht4miqeikux7xnnc3me",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Twisted Green",
+   "Bodysuit": "Bronze",
+   "Face": "Blissful Blue",
+   "Feet": "Robots",
+   "Hands": "Blueberry",
+   "Head": "Red Beret",
+   "Item 1": "Green Shovel",
+   "Item 2": "Algo Krispies",
+   "Outfit": "None",
+   "Special": "None"
+  }
+ }
+}

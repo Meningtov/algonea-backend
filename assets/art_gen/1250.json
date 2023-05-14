@@ -1,0 +1,23 @@
+{
+ "number": 1250,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057282978.webp",
+ "metadata_cid": "bafkreiey45za4qfuyorl3oaidyqydbsitju6zkqzv2leabsxxrzky5yrk4",
+ "metadata": {
+  "name": "Algonean #1250",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiar5mgkb4fuwxybatz4tvtcng2l6emj7aq5pvtmyzvxoaumb3omzy",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Waka Waka",
+   "Bodysuit": "Rusty Robot",
+   "Face": "Angry Orange",
+   "Feet": "None",
+   "Hands": "Robot",
+   "Head": "Player 1",
+   "Item 1": "Blue Blurby",
+   "Item 2": "None",
+   "Outfit": "Mint Bikini",
+   "Special": "None"
+  }
+ }
+}

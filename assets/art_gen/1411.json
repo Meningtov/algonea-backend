@@ -1,0 +1,23 @@
+{
+ "number": 1411,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676058247931.webp",
+ "metadata_cid": "bafkreifghctxopmy7ha7iu3dnj7svomajinl25jat5uvtebp2knscfmiae",
+ "metadata": {
+  "name": "Algonean #1411",
+  "standard": "arc3",
+  "image": "ipfs://bafybeibvizpebp47k7ypjkmetef3xgtfdg2v2324glniuyqbm6rwizqrxq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Mint",
+   "Bodysuit": "Candy",
+   "Face": "Niña",
+   "Feet": "Whites",
+   "Hands": "Red Grip",
+   "Head": "Blue Mask",
+   "Item 1": "Green Blurby",
+   "Item 2": "None",
+   "Outfit": "Brownbones Hoodie",
+   "Special": "Skunk Tail"
+  }
+ }
+}

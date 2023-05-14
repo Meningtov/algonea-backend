@@ -1,0 +1,23 @@
+{
+ "number": 176,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676048701246.webp",
+ "metadata_cid": "bafkreihplxt5yizapnsry24mhqtiexpcxifb2j3wh3hcmbcizwjzt3sh64",
+ "metadata": {
+  "name": "Algonean #0176",
+  "standard": "arc3",
+  "image": "ipfs://bafkreig626stdzvxdae3reoi77vsekncaemv4jurt3oaakdvg2xb4ptwna",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Green Squiggle",
+   "Bodysuit": "Glossy Ice",
+   "Face": "Ecstatic Blue",
+   "Feet": "Green Neos",
+   "Hands": "Brown Grip",
+   "Head": "Vanilla Ice Cream",
+   "Item 1": "Apple Lollipop",
+   "Item 2": "Money Bag",
+   "Outfit": "Green Undies",
+   "Special": "Pink Madcat Tail"
+  }
+ }
+}

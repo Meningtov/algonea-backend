@@ -1,0 +1,23 @@
+{
+ "number": 570,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676051961064.webp",
+ "metadata_cid": "bafkreicrwtafwn4qlxtfclfbyvash5djpocixeugawh54ulihorvfehm4a",
+ "metadata": {
+  "name": "Algonean #0570",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiemzdcaipapj4yjavzqyktkd4zjzubkmnejmsmtimyoiogrme3xna",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Blue Doodle",
+   "Bodysuit": "Faded White",
+   "Face": "Fed Up Gray",
+   "Feet": "Green Kicks",
+   "Hands": "Purple Biker",
+   "Head": "Purple Beanie",
+   "Item 1": "Blue Racket",
+   "Item 2": "Rubys Cube",
+   "Outfit": "Bad Dude",
+   "Special": "None"
+  }
+ }
+}

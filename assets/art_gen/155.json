@@ -1,0 +1,23 @@
+{
+ "number": 155,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676048378462.webp",
+ "metadata_cid": "bafkreicp2iouwu54kn4rb6kz7ayykrvve4y4jacqc2ocf7kutvqtinxsua",
+ "metadata": {
+  "name": "Algonean #0155",
+  "standard": "arc3",
+  "image": "ipfs://bafkreibz64pdugmnrieczu4mg7symv4ntvygs2zpdbjtz5f4daa7agy6yu",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Red",
+   "Bodysuit": "Rundown Lavender",
+   "Face": "Robot",
+   "Feet": "Green Neos",
+   "Hands": "Orchid",
+   "Head": "Chocolate Ice Cream",
+   "Item 1": "None",
+   "Item 2": "Yellow Bucket",
+   "Outfit": "Gray Ravenman",
+   "Special": "None"
+  }
+ }
+}

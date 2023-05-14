@@ -1,0 +1,23 @@
+{
+ "number": 26,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676046889244.webp",
+ "metadata_cid": "bafkreig3fpv2ugvcow3hhru5ysn5sw54exn6ryti4xfva5tug5pwsjsqr4",
+ "metadata": {
+  "name": "Algonean #0026",
+  "standard": "arc3",
+  "image": "ipfs://bafkreif6pkd4j3qudi7j65gryne4iwistdwypv3lu2vhq7curbqhu5fe6y",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Dijon",
+   "Bodysuit": "Faded Blue",
+   "Face": "Fed Up Blue",
+   "Feet": "Red Oldies",
+   "Hands": "Combat",
+   "Head": "Blue Goggles",
+   "Item 1": "Brainalyzer",
+   "Item 2": "Brown Skate",
+   "Outfit": "Blue Trooper",
+   "Special": "None"
+  }
+ }
+}

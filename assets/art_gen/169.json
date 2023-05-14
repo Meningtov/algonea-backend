@@ -1,0 +1,23 @@
+{
+ "number": 169,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676048586795.webp",
+ "metadata_cid": "bafkreib7qcxm462tflrsfprw7or64izoqo235mga5toqj5pna6hlf2wycm",
+ "metadata": {
+  "name": "Algonean #0169",
+  "standard": "arc3",
+  "image": "ipfs://bafkreifidxbinfjhyu6ybzyxbc7rdj7t5v4tlz5dkm2nzl2hjcmmtdxeny",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Mocha",
+   "Bodysuit": "Iris",
+   "Face": "Confident Melon",
+   "Feet": "Pinksters",
+   "Hands": "Orange",
+   "Head": "Dream Antlers",
+   "Item 1": "Blue Blurby",
+   "Item 2": "Mighty Sword",
+   "Outfit": "Gray Suit",
+   "Special": "Arrow"
+  }
+ }
+}

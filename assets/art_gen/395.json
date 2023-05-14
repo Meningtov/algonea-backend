@@ -1,0 +1,23 @@
+{
+ "number": 395,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676050777161.webp",
+ "metadata_cid": "bafkreiffkfvdg2fdpzyl5uyydsto7qdqz2cgohosxosarf6e6nrciftfvi",
+ "metadata": {
+  "name": "Algonean #0395",
+  "standard": "arc3",
+  "image": "ipfs://bafkreicfbmegrp6czb6e53mjs7vgy6kf5345ihpypqkjq7arc4yet4ibri",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Dijon",
+   "Bodysuit": "Glossy Scarlet",
+   "Face": "High Pink",
+   "Feet": "Red Jumpers",
+   "Hands": "Robot",
+   "Head": "Blue Beanie",
+   "Item 1": "Chicken",
+   "Item 2": "Pink Pennyboard",
+   "Outfit": "None",
+   "Special": "Moo Tail"
+  }
+ }
+}

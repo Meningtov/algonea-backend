@@ -1,0 +1,23 @@
+{
+ "number": 80,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676047485672.webp",
+ "metadata_cid": "bafkreic2kw5io3kw6fkg45qofhhvhkvx62pfvh42p3j2lvpspvlbd446gm",
+ "metadata": {
+  "name": "Algonean #0080",
+  "standard": "arc3",
+  "image": "ipfs://bafkreifdw66atmjwo4bm6xhnszpghlmpypndoilxuezjje3jap6a4qzu7a",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Blue Squiggle",
+   "Bodysuit": "Faded Blue",
+   "Face": "Red Gator",
+   "Feet": "Greens",
+   "Hands": "Combat",
+   "Head": "Frozen Brain",
+   "Item 1": "Purple GBoy",
+   "Item 2": "None",
+   "Outfit": "Kill Bob",
+   "Special": "None"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 1150,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676056501444.webp",
+ "metadata_cid": "bafkreier4a3y7omy6diouz4n67h76zhz4vxqqltqf5e7py3vx7csh7nknu",
+ "metadata": {
+  "name": "Algonean #1150",
+  "standard": "arc3",
+  "image": "ipfs://bafkreihn3nq7ogwuvqrs2kggzaajdpaqj2lgjjbym7xrymxurqrhbfmzrq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Green Doodle",
+   "Bodysuit": "Glossy Purple",
+   "Face": "Distressed Sky",
+   "Feet": "Yellow Flipflops",
+   "Hands": "Spideys",
+   "Head": "Purple Goggles",
+   "Item 1": "Red Blurby",
+   "Item 2": "Blue Paddleball",
+   "Outfit": "Blue Trooper",
+   "Special": "None"
+  }
+ }
+}

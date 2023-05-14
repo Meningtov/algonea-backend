@@ -1,0 +1,23 @@
+{
+ "number": 124,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676048116363.webp",
+ "metadata_cid": "bafkreicqifsfgn3tengh4ievpxs7uhiiigzh6zowdawn5xntihucl6i3ga",
+ "metadata": {
+  "name": "Algonean #0124",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiaisgkfjtcp2dg4nqqbjhn2mxnbdx23eekjayubmj32j245aptz5a",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Fresh Lemonade",
+   "Bodysuit": "Rusty Robot",
+   "Face": "Delighted Lime",
+   "Feet": "Green Flipflops",
+   "Hands": "Amethyst",
+   "Head": "Doc",
+   "Item 1": "HELP",
+   "Item 2": "None",
+   "Outfit": "None",
+   "Special": "Monkey Tail"
+  }
+ }
+}

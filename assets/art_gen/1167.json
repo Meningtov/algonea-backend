@@ -1,0 +1,23 @@
+{
+ "number": 1167,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676056841568.webp",
+ "metadata_cid": "bafkreibiefhalbh6xhh62aheh4d52b6b6orrh7gr4gbnx4zzvfwhbmvsaq",
+ "metadata": {
+  "name": "Algonean #1167",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiaoviraufvgoyvkqu5sdhd7zof4iknpjl43qbg6tsqxqkkbns3vie",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Dark",
+   "Bodysuit": "Walnut",
+   "Face": "Merry Purple",
+   "Feet": "Red Aeros",
+   "Hands": "Yellow Hazmat",
+   "Head": "Blue Shades",
+   "Item 1": "Yellow Blurby",
+   "Item 2": "Purple Skate",
+   "Outfit": "Orange Bikini",
+   "Special": "Dino Tail"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 1048,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676055625828.webp",
+ "metadata_cid": "bafkreic7ag24oqwru3q3adzjacyroc6pyjbd6bqv4z6ojp2zlcymxqhu5y",
+ "metadata": {
+  "name": "Algonean #1048",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiayw2v4xjbekfdt7uv45nvu5jp622q5skem2xz6w76fzqfnzd6nce",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Red",
+   "Bodysuit": "Robot",
+   "Face": "Sandy Andy",
+   "Feet": "None",
+   "Hands": "Raven",
+   "Head": "Ice Twinkle Crown",
+   "Item 1": "Pink Racket",
+   "Item 2": "Green Paddleball",
+   "Outfit": "Pink Tutu",
+   "Special": "None"
+  }
+ }
+}

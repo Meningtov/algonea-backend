@@ -1,0 +1,23 @@
+{
+ "number": 71,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676302262944.webp",
+ "metadata_cid": "bafkreiclt6xrjwmwfsywj4nvjvjtrnhpcbp7acqy46c4d52wgnkscibheu",
+ "metadata": {
+  "name": "Algonean #0071",
+  "standard": "arc3",
+  "image": "ipfs://bafkreigapbq5zis6otbcv746y5642xjr2ia6h4vr4okh2b7zvb2ws3olxa",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Black",
+   "Bodysuit": "Rose",
+   "Face": "Glad Orange",
+   "Feet": "Pink Claws",
+   "Hands": "Pinko",
+   "Head": "Pink Bunny",
+   "Item 1": "Orange Waterpistol",
+   "Item 2": "Carrot",
+   "Outfit": "Pink Nebula",
+   "Special": "None"
+  }
+ }
+}

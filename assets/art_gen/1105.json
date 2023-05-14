@@ -1,0 +1,23 @@
+{
+ "number": 1105,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676305028495.webp",
+ "metadata_cid": "bafkreifomx437xw2cnxfhbic4z6sbxjuixmqflyon3f2k6yfoylcduakcy",
+ "metadata": {
+  "name": "Algonean #1105",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiebxvxzq4mjere2cyhrbocmympwq5dlgqsxxszfzrsefzh7w7gjiy",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Notepad",
+   "Bodysuit": "Glossy Blueberry",
+   "Face": "Serene Purple",
+   "Feet": "None",
+   "Hands": "Brown Grip",
+   "Head": "None",
+   "Item 1": "Brown Racket",
+   "Item 2": "None",
+   "Outfit": "Blue Hoodie",
+   "Special": "Skunk Tail"
+  }
+ }
+}

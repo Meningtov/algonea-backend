@@ -1,0 +1,23 @@
+{
+ "number": 567,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676051951645.webp",
+ "metadata_cid": "bafkreiab2pq3zibk4cqjipkjxd6dxu37yoe4mvqyqm2efd2naio7sjpype",
+ "metadata": {
+  "name": "Algonean #0567",
+  "standard": "arc3",
+  "image": "ipfs://bafkreicctaglff7dfun3gejk3o6bmlxjft6loimt7feztqrfqppchikj4a",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Taffy",
+   "Bodysuit": "Midnight",
+   "Face": "Distressed Purple",
+   "Feet": "Dress Shoes",
+   "Hands": "Bicolor Combat",
+   "Head": "Green Mask",
+   "Item 1": "Orange Pop",
+   "Item 2": "Red Paddleball",
+   "Outfit": "Red EVA",
+   "Special": "Fuse"
+  }
+ }
+}

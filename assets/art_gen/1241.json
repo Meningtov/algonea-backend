@@ -1,0 +1,23 @@
+{
+ "number": 1241,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057244352.webp",
+ "metadata_cid": "bafkreignzf72oz3dqm6n4xsyhv5gos7udczsbbgcgikaknnv6m7v3grplq",
+ "metadata": {
+  "name": "Algonean #1241",
+  "standard": "arc3",
+  "image": "ipfs://bafkreih44mz6362ktucdl45rizzfzh3r32a7imllrh472igyb53d5wmg6q",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Dark",
+   "Bodysuit": "Glossy Scarlet",
+   "Face": "Distressed Purple",
+   "Feet": "Green Urbans",
+   "Hands": "White",
+   "Head": "Orange Mask",
+   "Item 1": "TNT",
+   "Item 2": "Yellow Boombox",
+   "Outfit": "Power Underwear",
+   "Special": "None"
+  }
+ }
+}

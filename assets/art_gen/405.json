@@ -1,0 +1,23 @@
+{
+ "number": 405,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676050903109.webp",
+ "metadata_cid": "bafkreiex5ij5mitmgusqwuc3iem5lbwz2vkqv2qxjaaxvsev25w2qmdhgu",
+ "metadata": {
+  "name": "Algonean #0405",
+  "standard": "arc3",
+  "image": "ipfs://bafkreid2xjoqpwg6i5dwn2fz56tnstbivdhlq5zg2k3lfgqxbcucx4cxvm",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Blue",
+   "Bodysuit": "Rusty Robot",
+   "Face": "High Green",
+   "Feet": "Pink Rollers",
+   "Hands": "Purple Grip",
+   "Head": "Police Hat",
+   "Item 1": "Sky GBoy",
+   "Item 2": "None",
+   "Outfit": "Blue Vibe",
+   "Special": "None"
+  }
+ }
+}

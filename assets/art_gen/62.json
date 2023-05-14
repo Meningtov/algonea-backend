@@ -1,0 +1,23 @@
+{
+ "number": 62,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676047437711.webp",
+ "metadata_cid": "bafkreifldsftwxxui3ocuzmhy6sqmqorygj5msgojqf5ime6drfv3ofl6u",
+ "metadata": {
+  "name": "Algonean #0062",
+  "standard": "arc3",
+  "image": "ipfs://bafkreifdkc42waq62yppf7yjunurpco45royrwmo3gtyk3odatlsajax4q",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Tangerine",
+   "Bodysuit": "Toxic Reptile",
+   "Face": "Neutral Melon",
+   "Feet": "Gray Oldies",
+   "Hands": "Rusty Robot",
+   "Head": "Dark Spartan",
+   "Item 1": "Blue Lightsword",
+   "Item 2": "Basketball",
+   "Outfit": "Gray Nebula",
+   "Special": "None"
+  }
+ }
+}

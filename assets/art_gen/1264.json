@@ -1,0 +1,23 @@
+{
+ "number": 1264,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676057445420.webp",
+ "metadata_cid": "bafkreihy4g7n4e6fzlpqmvb36yvqhbvvfcxkzwg723dzzr4oat7h4dk6rq",
+ "metadata": {
+  "name": "Algonean #1264",
+  "standard": "arc3",
+  "image": "ipfs://bafkreicsvfzawrdsvkqutn6yhwxu4iyt5crcjel4774t5n7sdh323azekq",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Notepad",
+   "Bodysuit": "Faded White",
+   "Face": "Serene Green",
+   "Feet": "Pink Kicks",
+   "Hands": "Leather",
+   "Head": "Blue Sodahat",
+   "Item 1": "Green Shovel",
+   "Item 2": "Money Bag",
+   "Outfit": "Purple Nebula",
+   "Special": "Skunk Tail"
+  }
+ }
+}

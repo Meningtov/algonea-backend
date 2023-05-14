@@ -1,0 +1,23 @@
+{
+ "number": 122,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676048110191.webp",
+ "metadata_cid": "bafkreihuueva3svfe5zpyfcaqpxvwl5o5pzz3rhoolroh2a4msavay3oue",
+ "metadata": {
+  "name": "Algonean #0122",
+  "standard": "arc3",
+  "image": "ipfs://bafybeiakpporfi2wc7w4os4vt53h7gol2ivafeb3v6kas44fph5tv7irli",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Candy",
+   "Bodysuit": "Glossy Ocean",
+   "Face": "Yellow Eyegor",
+   "Feet": "Green Aeros",
+   "Hands": "Radioactive",
+   "Head": "Pink Goggles",
+   "Item 1": "Purple Soap",
+   "Item 2": "Gray Boombox",
+   "Outfit": "Green Bunny",
+   "Special": "Blue Power Chord Tail"
+  }
+ }
+}

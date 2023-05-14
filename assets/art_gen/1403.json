@@ -1,0 +1,23 @@
+{
+ "number": 1403,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676058217039.webp",
+ "metadata_cid": "bafkreiekbi5hp24t3qkqxbjapcgtrna3e7zz5oa25o7mbxtc3owzbyuwpe",
+ "metadata": {
+  "name": "Algonean #1403",
+  "standard": "arc3",
+  "image": "ipfs://bafkreicwt3eo3ytw5xldhdb2rbqesnyrmdztks5gknizvrtdzugyd3pn5u",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Geometry",
+   "Bodysuit": "Glossy Bubblegum",
+   "Face": "Blue Specter",
+   "Feet": "None",
+   "Hands": "Bubblegum",
+   "Head": "Red Mask",
+   "Item 1": "Yellow Waterpistol",
+   "Item 2": "Green Gamepad",
+   "Outfit": "Blue Retro Hoodie",
+   "Special": "Skunk Tail"
+  }
+ }
+}

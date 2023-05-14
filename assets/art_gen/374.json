@@ -1,0 +1,23 @@
+{
+ "number": 374,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676050694164.webp",
+ "metadata_cid": "bafkreihyc27qrh3wgckvny53lvdl7shejlhzcjwrgqjz2vdvqsjofyzgaq",
+ "metadata": {
+  "name": "Algonean #0374",
+  "standard": "arc3",
+  "image": "ipfs://bafkreifbj6ezgfijlxkerfhsj3pq6emxt3kfyuixaiv3eslb3zr4ivof2a",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Crystal",
+   "Bodysuit": "Glossy Red",
+   "Face": "Pink Specter",
+   "Feet": "Orange Jumpers",
+   "Hands": "Sand",
+   "Head": "Blue Beanie",
+   "Item 1": "Green Brick Phone",
+   "Item 2": "Purple Skate",
+   "Outfit": "Green Spacesuit",
+   "Special": "Green Power Chord Tail"
+  }
+ }
+}

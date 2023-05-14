@@ -1,0 +1,23 @@
+{
+ "number": 234,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676049038433.webp",
+ "metadata_cid": "bafkreibxnr2go72njrzc2hatacuhau75jvv3ptuh5lc2xqv4hfqxvxc554",
+ "metadata": {
+  "name": "Algonean #0234",
+  "standard": "arc3",
+  "image": "ipfs://bafkreiganqgvstrpi75rgktexaelzly5v3rsayqsmyhv2qasa6ujijhm44",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Bubblegum",
+   "Bodysuit": "Lavender",
+   "Face": "Sad Orange",
+   "Feet": "Green Aeros",
+   "Hands": "Purple Hazmat",
+   "Head": "Red Mask",
+   "Item 1": "Green Brick Phone",
+   "Item 2": "Money Bag",
+   "Outfit": "Aliened",
+   "Special": "None"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "number": 254,
+ "image_url": "https://algonfts.art/ALGUZQKNPJIU2GMACAMESXTAVBLGCJEVGAYCGZEMKWI4QRPKV3EDTTSQNM/1/1676049162258.webp",
+ "metadata_cid": "bafkreia5ktnhmdducrw2l5s6df5csvwig6573y34inax7gfrn5jbahucci",
+ "metadata": {
+  "name": "Algonean #0254",
+  "standard": "arc3",
+  "image": "ipfs://bafkreidlsrpu22rpgpn6mjw5pn6zoext6lx46ehkodxyz37d6ljei6olc4",
+  "image_mime_type": "image/webp",
+  "properties": {
+   "Background": "Main Purple",
+   "Bodysuit": "Faded White",
+   "Face": "Excited Mint",
+   "Feet": "Bicolor",
+   "Hands": "Purple",
+   "Head": "Green Bunny",
+   "Item 1": "Katana",
+   "Item 2": "Red Gamepad",
+   "Outfit": "Red Beast",
+   "Special": "Turtle Carapace"
+  }
+ }
+}
