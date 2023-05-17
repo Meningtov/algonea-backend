@@ -8,7 +8,7 @@ import (
 )
 
 const (
-	nftStorageApiKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweDA5NzMyYTdDQkFjYjlDRWJFOUJjMzgwMmNlNkYzODQ4ZjE1YWJhRDciLCJpc3MiOiJuZnQtc3RvcmFnZSIsImlhdCI6MTY1MzE2NzU4NjEwNCwibmFtZSI6Im1vc3RseWZyZW5zIn0.Udv1Uf0O324JEXvoBp1LokvMknopsVbP0sAgRLRghjY"
+	nftStorageApiKey = ""
 )
 
 type Client struct {
